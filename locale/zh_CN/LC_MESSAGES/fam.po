@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-25 21:15+0800\n"
-"PO-Revision-Date: 2018-09-26 00:42+0800\n"
+"PO-Revision-Date: 2018-09-26 01:11+0800\n"
 "Last-Translator: Tong Hui <tonghuix@gmail.com>\n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -1455,7 +1455,7 @@ msgstr "从 %s 最常见的时段"
 #: airline-statistics-time.php:25 aircraft-statistics-time.php:19
 #, php-format
 msgid "Most Common Time of Day from %s (%s)"
-msgstr "从 $s (%s) 最常见的时段"
+msgstr "从 %s (%s) 最常见的时段"
 
 #: airline-statistics-time.php:77 airport-statistics-registration.php:51
 #: airline-statistics-route.php:76 airport-statistics-departure-airport.php:49
@@ -1860,43 +1860,43 @@ msgstr "检测到追踪器"
 #: js/map-aircraft.2d.js.php:976 js/map-marine.3d.js.php:274
 #: js/map-marine.2d.js.php:731 js/map-aircraft.3d.js.php:711 index.php:98
 msgid "Archive"
-msgstr ""
+msgstr "存档"
 
 #: js/map.js.php:341 js/map-aircraft.2d.js.php:91 airport-data.php:55
 #: airport-data.php:61 airport-data.php:65
 msgid "Links"
-msgstr ""
+msgstr "链接"
 
 #: js/map.js.php:342 js/map-aircraft.2d.js.php:92 airport-data.php:56
 #: airport-data.php:62
 msgid "Homepage"
-msgstr ""
+msgstr "主页"
 
 #: js/map.js.php:519
 msgid "Aircrafts detected"
-msgstr ""
+msgstr "检测到航空器"
 
 #: js/map.js.php:537 js/map.js.php:538 js/map.js.php:540
 #: js/map-aircraft.2d.js.php:238
 msgid "Archive Date & Time"
-msgstr ""
+msgstr "存档日期与时间"
 
 #: js/map.js.php:936 js/map-tracker.2d.js.php:454 js/map-aircraft.2d.js.php:611
 #: js/map-marine.2d.js.php:447
 msgid "Route stop:"
-msgstr ""
+msgstr "航路终点："
 
 #: js/map.js.php:983 js/map-tracker.2d.js.php:501 js/map-aircraft.2d.js.php:658
 #: js/map-marine.2d.js.php:494 tracker-data.php:135 marine-data.php:121
 #: aircraft-data.php:208
 msgid "Heading"
-msgstr ""
+msgstr "航向"
 
 #: js/map.js.php:1003 js/map-tracker.2d.js.php:521
 #: js/map-aircraft.2d.js.php:678 js/map-marine.2d.js.php:514
 #: aircraft-data.php:249
 msgid "Latest ACARS message"
-msgstr ""
+msgstr "最新 ACARS 消息"
 
 #: js/map.js.php:1009 js/map-tracker.2d.js.php:527
 #: js/map-aircraft.2d.js.php:684 js/map-marine.2d.js.php:520
@@ -1905,45 +1905,45 @@ msgstr ""
 #: table-output.php:759 table-output.php:768 table-output.php:770
 #: table-output.php:772 table-output.php:774 aircraft-data.php:250
 msgid "Squawk:"
-msgstr ""
+msgstr "应答机编码："
 
 #: js/map.js.php:1633 js/map.js.php:1634 js/map.3d.js.php:253
 #: js/map.2d.js.php:584 js/map.2d.js.php:585
 msgid "Your location"
-msgstr ""
+msgstr "你的位置"
 
 #: js/map.js.php:1678 js/map.3d.js.php:288 js/map.2d.js.php:629
 msgid "Compass is not supported by this browser."
-msgstr ""
+msgstr "此浏览器不支持罗盘。"
 
 #: js/map.js.php:2006 js/map-aircraft.2d.js.php:1261
 msgid "Segment name:"
-msgstr ""
+msgstr "段名字："
 
 #: js/map.js.php:2007 js/map-aircraft.2d.js.php:1262 index.php:261
 msgid "From:"
-msgstr ""
+msgstr "从："
 
 #: js/map.js.php:2010 js/map-aircraft.2d.js.php:1265 table-output.php:662
 #: table-output.php:670 table-output.php:796 table-output.php:805
 msgid "Ident:"
-msgstr ""
+msgstr "识别码："
 
 #: js/map.js.php:2013 js/map-aircraft.2d.js.php:1268
 msgid "Altitude:"
-msgstr ""
+msgstr "高度："
 
 #: js/map.js.php:2018 js/map-aircraft.2d.js.php:1273
 msgid "Base Altitude:"
-msgstr ""
+msgstr "基准高度："
 
 #: js/map.js.php:2020 js/map-aircraft.2d.js.php:1275
 msgid "Top Altitude:"
-msgstr ""
+msgstr "最高高度："
 
 #: js/map.js.php:2047 js/map-aircraft.2d.js.php:1296
 msgid "Title:"
-msgstr ""
+msgstr "标题："
 
 #: js/map.js.php:2050 js/map-aircraft.2d.js.php:1299
 #: js/map-marine.2d.js.php:819 index.php:854 table-output.php:681
@@ -1960,98 +1960,98 @@ msgstr ""
 #: table-output.php:845 table-output.php:847 table-output.php:849
 #: table-output.php:851 table-output.php:853
 msgid "Type:"
-msgstr ""
+msgstr "型号："
 
 #: js/map.js.php:2053 js/map-aircraft.2d.js.php:1302
 msgid "Tops:"
-msgstr ""
+msgstr "最高："
 
 #: js/map.js.php:2056 js/map-aircraft.2d.js.php:1305
 msgid "Base:"
-msgstr ""
+msgstr "基地："
 
 #: js/map-tracker.2d.js.php:650 js/map-aircraft.2d.js.php:886
 #: js/map-marine.2d.js.php:667
 msgid "Loading archive"
-msgstr ""
+msgstr "正在载入存档"
 
 #: js/map-aircraft.2d.js.php:226 js/map-aircraft.3d.js.php:340
 #: js/map-aircraft.3d.js.php:342
 msgid "Aircraft detected"
-msgstr ""
+msgstr "检测到航空器"
 
 #: js/map-marine.3d.js.php:123 js/map-marine.3d.js.php:125
 msgid "Marines detected"
-msgstr ""
+msgstr "检测到船只"
 
 #: js/map-marine.3d.js.php:138 js/map-marine.2d.js.php:617 table-output.php:38
 #: table-output.php:275 table-output.php:436 marine-data.php:150
 msgid "Rank"
-msgstr ""
+msgstr "评级"
 
 #: js/map-marine.3d.js.php:138 js/map-marine.2d.js.php:617 table-output.php:163
 #: table-output.php:389 table-output.php:542 marine-data.php:127
 #: marine-data.php:129
 msgid "Captain"
-msgstr ""
+msgstr "船长"
 
 #: js/map-marine.3d.js.php:138 js/map-marine.3d.js.php:145
 #: js/map-marine.2d.js.php:617 js/map-marine.2d.js.php:619 tools-geoid.php:36
 #: search.php:566
 msgid "Latitude"
-msgstr ""
+msgstr "纬度："
 
 #: js/map-marine.3d.js.php:138 js/map-marine.3d.js.php:145
 #: js/map-marine.2d.js.php:617 js/map-marine.2d.js.php:619 tools-geoid.php:42
 #: search.php:572
 msgid "Longitude"
-msgstr ""
+msgstr "经度"
 
 #: js/map-marine.3d.js.php:138 js/map-marine.3d.js.php:145
 #: js/map-marine.2d.js.php:617 js/map-marine.2d.js.php:619
 msgid "Last update"
-msgstr ""
+msgstr "最后更新"
 
 #: js/map-marine.2d.js.php:49
 msgid "Vessels detected"
-msgstr ""
+msgstr "检测到航船"
 
 #: js/map-marine.2d.js.php:814
 msgid "Name:"
-msgstr ""
+msgstr "名字："
 
 #: js/map-marine.2d.js.php:821
 msgid "port startline buoy"
-msgstr ""
+msgstr "港口起锚线浮标"
 
 #: js/map-marine.2d.js.php:823
 msgid "starboard startline buoy"
-msgstr ""
+msgstr "右舷起锚线浮标"
 
 #: js/map-marine.2d.js.php:825
 msgid "buoy starboard round (clockwise)"
-msgstr ""
+msgstr "浮标右舷圆（顺时针）"
 
 #: js/map-marine.2d.js.php:827
 msgid "buoy port round (counter clockwise)"
-msgstr ""
+msgstr "浮标右舷圆（逆时针）"
 
 #: js/map-marine.2d.js.php:829
 msgid "port finishline buoy"
-msgstr ""
+msgstr "港口终点线浮标"
 
 #: js/map-marine.2d.js.php:831
 msgid "starboard finishline buoy"
-msgstr ""
+msgstr "右舷终点线浮标"
 
 #: js/map-satellite.2d.js.php:37
 msgid "Satellites displayed"
-msgstr ""
+msgstr "显示的卫星"
 
 #: date-statistics-airline.php:14
 #, php-format
 msgid "Most Common Airlines on %s"
-msgstr ""
+msgstr "在 %s 上最常见的航空公司"
 
 #: date-statistics-airline.php:38
 #, php-format
@@ -2069,56 +2069,56 @@ msgstr ""
 
 #: flightid-overview.php:312
 msgid "Flight Information"
-msgstr ""
+msgstr "飞行信息"
 
 #: flightid-overview.php:314
 msgid "Ident/Callsign"
-msgstr ""
+msgstr "识别码 / 呼号"
 
 #: flightid-overview.php:347 flightid-overview.php:361
 #: flightid-overview.php:377
 msgid "N/A"
-msgstr ""
+msgstr "无"
 
 #: flightid-overview.php:464
 msgid "Ground Speed"
-msgstr ""
+msgstr "地速"
 
 #: flightid-overview.php:487
 msgid "Heading (degrees)"
-msgstr ""
+msgstr "航向（度）"
 
 #: flightid-overview.php:542
 msgid "Flight spotted duration"
-msgstr ""
+msgstr "飞行持续时间"
 
 #: flightid-overview.php:552
 msgid "Distance from Departure Airport"
-msgstr ""
+msgstr "距出发机场距离"
 
 #: flightid-overview.php:580
 msgid "Distance to Arrival Airport"
-msgstr ""
+msgstr "距到达机场距离"
 
 #: flightid-overview.php:617
 msgid "Last 5 Flights of this Aircraft"
-msgstr ""
+msgstr "此航空器的最后 5 次飞行记录"
 
 #: flightid-overview.php:647
 msgid "Sorry, this flight is not in the database. :("
-msgstr ""
+msgstr "对不起，数据库中没有此飞行记录。:("
 
 #: index.php:31
 msgid "Home"
-msgstr ""
+msgstr "主页"
 
 #: index.php:34
 msgid "JavaScript <b>MUST</b> be enabled"
-msgstr ""
+msgstr "<b>必须</b>启用 JavaScritp"
 
 #: index.php:37
 msgid "Session has timed-out"
-msgstr ""
+msgstr "会话已经超时"
 
 #: index.php:38
 msgid ""
@@ -2128,231 +2128,231 @@ msgstr ""
 
 #: index.php:52
 msgid "Aircraft Detected"
-msgstr ""
+msgstr "检测到航空器"
 
 #: index.php:53
 msgid "Vessels Detected"
-msgstr ""
+msgstr "检测到航船"
 
 #: index.php:54
 msgid "Trackers Detected"
-msgstr ""
+msgstr "检测到追踪器"
 
 #: index.php:55
 msgid "Satellites Displayed"
-msgstr ""
+msgstr "已显示的卫星"
 
 #: index.php:90
 msgid "Zoom in"
-msgstr ""
+msgstr "放大"
 
 #: index.php:91
 msgid "Zoom out"
-msgstr ""
+msgstr "缩小"
 
 #: index.php:92
 msgid "Plot your Location"
-msgstr ""
+msgstr "显示你的位置"
 
 #: index.php:93
 msgid "Compass Mode"
-msgstr ""
+msgstr "罗盘模式"
 
 #: index.php:103
 msgid "Layers"
-msgstr ""
+msgstr "层"
 
 #: index.php:104 index.php:672
 msgid "Filters"
-msgstr ""
+msgstr "过滤器"
 
 #: index.php:105 index.php:328
 msgid "Settings"
-msgstr ""
+msgstr "设置"
 
 #: index.php:109 index.php:850 header.php:658
 msgid "Satellites"
-msgstr ""
+msgstr "卫星"
 
 #: index.php:140
 msgid "Weather Winds"
-msgstr ""
+msgstr "天气 风"
 
 #: index.php:141
 msgid "Ocean surface currents"
-msgstr ""
+msgstr "海洋表面活动"
 
 #: index.php:142 index.php:170
 msgid "NASA Fire Hotspots"
-msgstr ""
+msgstr "NASA 火灾热点"
 
 #: index.php:143
 msgid "Weather Waves height background"
-msgstr ""
+msgstr "天气 洋流高度背景"
 
 #: index.php:148
 msgid "Weather Precipitation"
-msgstr ""
+msgstr "天气 降水"
 
 #: index.php:149
 msgid "Weather Clouds"
-msgstr ""
+msgstr "天气 云"
 
 #: index.php:165
 msgid "Display 3D weather"
-msgstr ""
+msgstr "显示三维天气"
 
 #: index.php:166
 msgid "Display rain on 3D map"
-msgstr ""
+msgstr "在三维地图里显示降雨"
 
 #: index.php:186 index.php:207
 msgid "Display waypoints"
-msgstr ""
+msgstr "显示航路点"
 
 #: index.php:187 index.php:208
 msgid "Display airspace"
-msgstr ""
+msgstr "显示空域"
 
 #: index.php:192 index.php:213
 msgid "Display OpenSeaMap"
-msgstr ""
+msgstr "显示 OpenSeaMap"
 
 #: index.php:228
 msgid "Display NOTAM"
-msgstr ""
+msgstr "显示 NOTAM"
 
 #: index.php:229
 msgid "NOTAM scope:"
-msgstr ""
+msgstr "NOTAM 范围："
 
 #: index.php:256
 msgid "Playback"
-msgstr ""
+msgstr "回放"
 
 #: index.php:270
 msgid "To:"
-msgstr ""
+msgstr "前往："
 
 #: index.php:302
 msgid "Playback speed:"
-msgstr ""
+msgstr "回放速度："
 
 #: index.php:311 index.php:315
 msgid "Show archive"
-msgstr ""
+msgstr "显示存档"
 
 #: index.php:321
 msgid "Back from archive view"
-msgstr ""
+msgstr "从存档视图返回"
 
 #: index.php:331
 msgid "Type of Map:"
-msgstr ""
+msgstr "地图类型："
 
 #: index.php:438
 msgid "Type of Terrain:"
-msgstr ""
+msgstr "地形类型："
 
 #: index.php:454
 msgid "Use same type of map for 2D & 3D"
-msgstr ""
+msgstr "二维和三维使用同样的地图类型"
 
 #: index.php:461
 msgid "Display 2.5D buidings on map"
-msgstr ""
+msgstr "在地图上显示 2.5 维的建筑"
 
 #: index.php:466
 msgid "Display flight info as popup"
-msgstr ""
+msgstr "以弹出的方式显示飞行信息"
 
 #: index.php:467
 msgid "Display flight path"
-msgstr ""
+msgstr "显示飞行轨迹"
 
 #: index.php:468
 msgid "Display flight route on click"
-msgstr ""
+msgstr "点击时显示飞行轨迹"
 
 #: index.php:469
 msgid "Display flight remaining route on click"
-msgstr ""
+msgstr "点击时显示飞行剩余轨迹"
 
 #: index.php:470
 msgid "Planes animate between updates"
-msgstr ""
+msgstr "更新时显示飞机动画效果"
 
 #: index.php:474
 msgid "Enable map matching"
-msgstr ""
+msgstr "启用地图匹配"
 
 #: index.php:479
 msgid "Satellites animate between updates"
-msgstr ""
+msgstr "更新时显示卫星动画效果"
 
 #: index.php:485
 msgid "Display airports on map"
-msgstr ""
+msgstr "在地图上显示机场"
 
 #: index.php:489
 msgid "Display ground station on map"
-msgstr ""
+msgstr "在地图上显示地面站"
 
 #: index.php:490
 msgid "Display weather station on map"
-msgstr ""
+msgstr "在地图上显示天气情报站"
 
 #: index.php:491
 msgid "Display lightning on map"
-msgstr ""
+msgstr "在地图上显示闪电"
 
 #: index.php:495
 msgid "Display fires on map"
-msgstr ""
+msgstr "在地图上显示火灾"
 
 #: index.php:500
 msgid "Only display selected flight on 3D mode"
-msgstr ""
+msgstr "只在三维地图模式下显示选定的飞行"
 
 #: index.php:504
 msgid "Enable globe sun lighting"
-msgstr ""
+msgstr "启用全局太阳光线"
 
 #: index.php:508
 msgid "Show mini-map"
-msgstr ""
+msgstr "显示迷你地图"
 
 #: index.php:509
 msgid "Use shadows"
-msgstr ""
+msgstr "使用阴影"
 
 #: index.php:510
 msgid "Use same 3D model for all aircraft (use fewer resources)"
-msgstr ""
+msgstr "对所有航空器使用相同的三维模型（使用更少的资源）"
 
 #: index.php:511
 msgid "Display realtime data in infobox"
-msgstr ""
+msgstr "在信息框显示实时数据"
 
 #: index.php:516
 msgid "Show Santa Claus now"
-msgstr ""
+msgstr "显示当前的圣诞老人"
 
 #: index.php:524 index.php:534
 msgid "Display polar on map"
-msgstr ""
+msgstr "在地图上显示极地"
 
 #: index.php:545
 msgid "Max number of flights to display in 2D:"
-msgstr ""
+msgstr "二维地图上最多显示的飞行数："
 
 #: index.php:553
 msgid "Aircraft icon color based on altitude"
-msgstr ""
+msgstr "根据高度显示航空器图标的颜色"
 
 #: index.php:557 index.php:612
 msgid "Aircraft icon color:"
-msgstr ""
+msgstr "航空器图标颜色："
 
 #: index.php:567 index.php:622
 msgid "Marine icon color:"
