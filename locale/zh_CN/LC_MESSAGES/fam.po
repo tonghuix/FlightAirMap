@@ -1,0 +1,4840 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-25 21:15+0800\n"
+"PO-Revision-Date: 2018-09-25 21:20+0800\n"
+"Last-Translator: Tong Hui <tonghuix@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: tools-notam.php:8 tools-notam.php:16
+msgid "Parse NOTAM messages"
+msgstr "解析 NOTAM 消息"
+
+#: tools-notam.php:20
+msgid "Parse NOTAM messages and translate them in human readable format."
+msgstr "解析 NOTAM 消息并将其翻译为人类可读的格式。"
+
+#: tools-notam.php:24
+msgid "NOTAM Message"
+msgstr ""
+
+#: tools-notam.php:35
+msgid "NOTAM message in human readable format:"
+msgstr ""
+
+#: tools-notam.php:40
+msgid "This NOTAM message can't be translated in human readable format :("
+msgstr ""
+
+#: about-tv.php:11
+msgid ""
+"Spotter TV is a interface that shows the latest flights for displays with a "
+"resolution of 1920x1080 (1080p). Its <strong>FREE</strong> and no custom "
+"hardware is required. Simply plug a modern laptop or computer into any 1080p "
+"HDTV and access the link below. Data gets updated in near real-time."
+msgstr ""
+
+#: about-tv.php:16
+msgid "Launch Spotter TV"
+msgstr ""
+
+#: statistics-sub-menu.php:2 statistics.php:40 statistics.php:42
+#: statistics.php:64 statistics-airline.php:6 statistics-route-airport.php:6
+#: statistics-pilot.php:6 statistics-airport-departure.php:6
+#: country-sub-menu.php:2 statistics-date.php:6
+#: statistics-airline-country.php:6 statistics-owner.php:6
+#: manufacturer-sub-menu.php:2 statistics-race.php:6 header.php:535
+#: header.php:597 header.php:639 header.php:682 registration-sub-menu.php:14
+#: statistics-time.php:6 aircraft-sub-menu.php:2 statistics-country.php:11
+#: statistics-country.php:16 statistics-country.php:20
+#: statistics-fatalities-year.php:6 statistics-manufacturer.php:6
+#: date-sub-menu.php:2 statistics-year.php:17 route-sub-menu.php:2
+#: owner-sub-menu.php:2 statistics-aircraft.php:6
+#: statistics-airport-arrival-country.php:6 statistics-registration.php:6
+#: statistics-route-waypoint.php:6 airport-sub-menu.php:2
+#: airline-sub-menu.php:2 statistics-fatalities-month.php:6
+#: statistics-airport-arrival.php:6 statistics-airport-departure-country.php:6
+#: statistics-callsign.php:6 pilot-sub-menu.php:2 statistics-month.php:6
+#: ident-sub-menu.php:2 statistics-type.php:6
+msgid "Statistics"
+msgstr ""
+
+#: statistics-sub-menu.php:69 statistics-sub-menu.php:72
+#: statistics-sub-menu.php:178 statistics-sub-menu.php:181
+#: pilot-detailed.php:123 aircraft-detailed.php:110 country-sub-menu.php:9
+#: js/map.js.php:951 js/map-tracker.2d.js.php:469 js/map-aircraft.2d.js.php:626
+#: js/map-marine.2d.js.php:462 flightid-overview.php:367
+#: manufacturer-sub-menu.php:9 header.php:450 owner-detailed.php:73
+#: date-sub-menu.php:9 table-output.php:68 table-output.php:71
+#: table-output.php:73 table-output.php:249 table-output.php:262
+#: table-output.php:305 table-output.php:308 table-output.php:310
+#: table-output.php:466 table-output.php:469 table-output.php:471
+#: route-sub-menu.php:9 owner-sub-menu.php:17 statistics-registration.php:52
+#: airport-sub-menu.php:9 airline-sub-menu.php:9 search.php:384
+#: pilot-sub-menu.php:9 aircraft-data.php:114 ident-sub-menu.php:9
+msgid "Aircraft"
+msgstr ""
+
+#: statistics-sub-menu.php:73 statistics-sub-menu.php:182
+#: owner-statistics-registration.php:51 aircraft-statistics-registration.php:65
+#: airport-statistics-registration.php:72 country-sub-menu.php:13
+#: js/map.js.php:970 js/map-tracker.2d.js.php:488 js/map-aircraft.2d.js.php:645
+#: js/map-marine.2d.js.php:481 flightid-overview.php:384
+#: country-statistics-registration.php:62 pilot-statistics-registration.php:43
+#: manufacturer-sub-menu.php:13 registration-statistics-arrival-airport.php:112
+#: registration-statistics-time.php:85
+#: manufacturer-statistics-registration.php:57 aircraft-sub-menu.php:7
+#: date-sub-menu.php:13 ident-statistics-registration.php:38
+#: registration-statistics-route.php:68 airline-statistics-registration.php:119
+#: registration-detailed.php:69
+#: registration-statistics-arrival-airport-country.php:101
+#: route-sub-menu.php:13 owner-sub-menu.php:21
+#: route-statistics-registration.php:42 statistics-registration.php:51
+#: date-statistics-registration.php:46 airport-sub-menu.php:13
+#: registration-statistics-departure-airport-country.php:102
+#: airline-sub-menu.php:13 search.php:404 search.php:406 pilot-sub-menu.php:13
+#: registration-statistics-departure-airport.php:115 aircraft-data.php:123
+#: ident-sub-menu.php:13
+msgid "Registration"
+msgstr ""
+
+#: statistics-sub-menu.php:74 statistics-sub-menu.php:183
+#: aircraft-statistics-registration.php:47 aircraft-detailed.php:75
+#: aircraft-detailed.php:83 manufacturer-statistics-airline.php:101
+#: country-sub-menu.php:14 aircraft-statistics-departure-airport.php:47
+#: manufacturer-statistics-route.php:93
+#: aircraft-statistics-arrival-airport.php:50
+#: registration-statistics-arrival-airport.php:22
+#: registration-statistics-time.php:20
+#: manufacturer-statistics-departure-airport-country.php:123
+#: manufacturer-statistics-departure-airport.php:133
+#: manufacturer-statistics-time.php:108
+#: manufacturer-statistics-registration.php:105
+#: manufacturer-statistics-aircraft.php:82
+#: aircraft-statistics-arrival-airport-country.php:48 date-sub-menu.php:14
+#: manufacturer-statistics-arrival-airport.php:134
+#: manufacturer-statistics-arrival-airport-country.php:123
+#: registration-statistics-route.php:21 aircraft-statistics-airline.php:48
+#: registration-detailed.php:49
+#: registration-statistics-arrival-airport-country.php:21 route-sub-menu.php:14
+#: owner-sub-menu.php:22 aircraft-statistics-route.php:47
+#: airport-sub-menu.php:14
+#: registration-statistics-departure-airport-country.php:21
+#: airline-sub-menu.php:14 search.php:386 manufacturer-detailed.php:91
+#: pilot-sub-menu.php:14 registration-statistics-departure-airport.php:22
+#: ident-sub-menu.php:14 manufacturer-statistics-airline-country.php:121
+msgid "Manufacturer"
+msgstr ""
+
+#: statistics-sub-menu.php:75 statistics-sub-menu.php:184
+#: statistics-airline.php:45 ident-statistics-departure-airport-country.php:78
+#: pilot-statistics-arrival-airport-country.php:82
+#: airline-statistics-time.php:75 airport-statistics-registration.php:49
+#: statistics-airport-departure.php:80
+#: date-statistics-departure-airport-country.php:87
+#: manufacturer-statistics-airline.php:59 pilot-statistics-airline.php:43
+#: pilot-statistics-arrival-airport.php:90
+#: aircraft-statistics-departure-airport.php:114 js/map.js.php:336
+#: js/map.js.php:434 js/map-aircraft.2d.js.php:86
+#: date-statistics-airline.php:49 owner-statistics-arrival-airport.php:100
+#: country-statistics-registration.php:108
+#: aircraft-statistics-arrival-airport.php:117
+#: country-statistics-arrival-airport-country.php:107
+#: country-statistics-arrival-airport-country.php:131
+#: airline-statistics-route.php:74 statistics-airline-country.php:67
+#: airport-statistics-departure-airport.php:47
+#: airport-statistics-departure-airport.php:118
+#: country-statistics-airline.php:64 country-statistics-airline.php:104
+#: airline-statistics-manufacturer.php:74 airport-statistics-route.php:49
+#: ident-statistics-airline.php:38 country-statistics-aircraft.php:84
+#: ident-statistics-arrival-airport-country.php:78
+#: registration-statistics-arrival-airport.php:86
+#: airport-statistics-airline-country.php:48
+#: airport-statistics-airline-country.php:113 country-statistics-route.php:94
+#: manufacturer-statistics-departure-airport-country.php:99
+#: manufacturer-statistics-departure-airport.php:105
+#: airport-statistics-manufacturer.php:49
+#: country-statistics-manufacturer.php:85
+#: airline-statistics-arrival-airport.php:74
+#: airline-statistics-arrival-airport.php:166
+#: ident-statistics-departure-airport.php:85
+#: aircraft-statistics-arrival-airport-country.php:108
+#: pilot-statistics-departure-airport-country.php:82
+#: owner-statistics-airline.php:53
+#: airline-statistics-arrival-airport-country.php:74
+#: airline-statistics-arrival-airport-country.php:159
+#: route-statistics-airline-country.php:80
+#: manufacturer-statistics-arrival-airport.php:106
+#: aircraft-statistics-airline-country.php:108
+#: manufacturer-statistics-arrival-airport-country.php:99
+#: airline-statistics-registration.php:76 aircraft-statistics-airline.php:68
+#: owner-statistics-arrival-airport-country.php:92
+#: airport-statistics-arrival-airport-country.php:48
+#: airport-statistics-arrival-airport-country.php:112
+#: route-statistics-airline.php:41
+#: owner-statistics-departure-airport-country.php:91 location-data.php:44
+#: country-statistics-time.php:114
+#: airport-statistics-departure-airport-country.php:48
+#: airport-statistics-departure-airport-country.php:113
+#: owner-statistics-departure-airport.php:100
+#: registration-statistics-arrival-airport-country.php:77
+#: country-detailed.php:99
+#: aircraft-statistics-departure-airport-country.php:106
+#: statistics-airport-arrival-country.php:72
+#: date-statistics-departure-airport.php:95 airport-statistics-aircraft.php:49
+#: date-statistics-airline-country.php:89
+#: airport-statistics-arrival-airport.php:48
+#: airport-statistics-arrival-airport.php:119
+#: country-statistics-departure-airport-country.php:106
+#: country-statistics-departure-airport-country.php:130
+#: country-statistics-airline-country.php:105
+#: country-statistics-airline-country.php:129
+#: registration-statistics-departure-airport-country.php:78
+#: airline-statistics-departure-airport-country.php:74
+#: airline-statistics-departure-airport-country.php:158
+#: statistics-airport-arrival.php:81 airport-detailed.php:86
+#: statistics-airport-departure-country.php:72
+#: country-statistics-arrival-airport.php:109
+#: country-statistics-arrival-airport.php:135 search.php:455 search.php:490
+#: airport-statistics-time.php:49
+#: date-statistics-arrival-airport-country.php:87 archive-country.php:43
+#: archive-country.php:74 ident-statistics-arrival-airport.php:85
+#: registration-statistics-departure-airport.php:89
+#: airport-statistics-airline.php:48 airport-statistics-airline.php:89
+#: airline-statistics-aircraft.php:75 airline-detailed.php:109
+#: airline-detailed.php:130 pilot-statistics-departure-airport.php:90
+#: airport.php:76 date-statistics-arrival-airport.php:94
+#: country-statistics-departure-airport.php:112
+#: country-statistics-departure-airport.php:138
+#: manufacturer-statistics-airline-country.php:97
+#: airline-statistics-departure-airport.php:74
+#: airline-statistics-departure-airport.php:166 airport-data.php:52
+msgid "Country"
+msgstr ""
+
+#: statistics-sub-menu.php:80 statistics-sub-menu.php:86
+#: statistics-sub-menu.php:189 statistics-sub-menu.php:195
+#: statistics-airline.php:44 ident-statistics-departure-airport-country.php:21
+#: manufacturer-statistics-airline.php:58 country-sub-menu.php:19
+#: country-sub-menu.php:22 pilot-statistics-airline.php:42
+#: date-statistics-airline.php:48 flightid-overview.php:355
+#: country-statistics-airline.php:63 ident-statistics-airline.php:21
+#: ident-statistics-airline.php:37 manufacturer-sub-menu.php:18
+#: manufacturer-sub-menu.php:21 ident-statistics-arrival-airport-country.php:21
+#: ident-detailed.php:210 aircraft-sub-menu.php:10 aircraft-sub-menu.php:13
+#: ident-statistics-departure-airport.php:21 newest.php:64 newest.php:66
+#: ident-statistics-manufacturer.php:21 owner-statistics-airline.php:52
+#: ident-statistics-route.php:21 date-sub-menu.php:19 date-sub-menu.php:22
+#: ident-statistics-registration.php:21 aircraft-statistics-airline.php:67
+#: route-statistics-airline.php:40 ident-statistics-time.php:21
+#: table-output.php:45 table-output.php:48 table-output.php:50
+#: table-output.php:186 table-output.php:189 table-output.php:191
+#: table-output.php:238 table-output.php:247 table-output.php:260
+#: table-output.php:282 table-output.php:285 table-output.php:287
+#: table-output.php:443 table-output.php:446 table-output.php:448
+#: route-sub-menu.php:19 route-sub-menu.php:22 airport-sub-menu.php:19
+#: airport-sub-menu.php:22 search.php:444
+#: ident-statistics-arrival-airport.php:21 statistics-callsign.php:49
+#: airport-statistics-airline.php:88 airline-detailed.php:174
+#: ident-statistics-aircraft.php:25
+msgid "Airline"
+msgstr ""
+
+#: statistics-sub-menu.php:87 statistics-sub-menu.php:196
+#: country-sub-menu.php:23 manufacturer-sub-menu.php:22
+#: aircraft-sub-menu.php:14 date-sub-menu.php:23 route-sub-menu.php:23
+#: airport-sub-menu.php:23
+msgid "Airline by Country"
+msgstr ""
+
+#: statistics-sub-menu.php:91 statistics-sub-menu.php:200
+#: airline-statistics-time.php:78 js/map-marine.3d.js.php:138
+#: js/map-marine.3d.js.php:145 js/map-marine.2d.js.php:617
+#: js/map-marine.2d.js.php:619 airline-statistics-route.php:77
+#: airline-statistics-manufacturer.php:77
+#: airline-statistics-arrival-airport.php:77
+#: airline-statistics-arrival-airport-country.php:77
+#: airline-statistics-registration.php:79
+#: airline-statistics-departure-airport-country.php:77 search.php:464
+#: search.php:466 search.php:589 search.php:591 search.php:600 search.php:602
+#: statistics-callsign.php:48 airline-statistics-aircraft.php:78
+#: airline-detailed.php:112 airline-detailed.php:133
+#: airline-statistics-departure-airport.php:77
+msgid "Callsign"
+msgstr ""
+
+#: statistics-sub-menu.php:96 statistics-sub-menu.php:205
+#: airport-statistics-registration.php:120 statistics-airport-departure.php:79
+#: country-sub-menu.php:28 pilot-statistics-arrival-airport.php:89
+#: aircraft-statistics-departure-airport.php:113
+#: owner-statistics-arrival-airport.php:99
+#: aircraft-statistics-arrival-airport.php:116
+#: airport-statistics-departure-airport.php:117
+#: airport-statistics-departure-airport.php:146
+#: airport-statistics-route.php:103 manufacturer-sub-menu.php:27
+#: registration-statistics-arrival-airport.php:85
+#: airport-statistics-airline-country.php:137 registration-sub-menu.php:21
+#: manufacturer-statistics-departure-airport.php:104
+#: airport-statistics-manufacturer.php:97 aircraft-sub-menu.php:19
+#: airline-statistics-arrival-airport.php:165
+#: ident-statistics-departure-airport.php:84 date-sub-menu.php:28
+#: manufacturer-statistics-arrival-airport.php:105
+#: airport-statistics-arrival-airport-country.php:136
+#: airport-statistics-departure-airport-country.php:137
+#: owner-statistics-departure-airport.php:99 owner-sub-menu.php:27
+#: date-statistics-departure-airport.php:94 airport-statistics-aircraft.php:97
+#: airport-statistics-arrival-airport.php:118
+#: airport-statistics-arrival-airport.php:147 airport-sub-menu.php:28
+#: airline-sub-menu.php:19 statistics-airport-arrival.php:80
+#: country-statistics-arrival-airport.php:108 search.php:479
+#: airport-statistics-time.php:121 ident-statistics-arrival-airport.php:84
+#: pilot-sub-menu.php:19 registration-statistics-departure-airport.php:88
+#: pilot-statistics-departure-airport.php:89 airport.php:106
+#: date-statistics-arrival-airport.php:93 ident-sub-menu.php:19
+#: country-statistics-departure-airport.php:111
+#: airline-statistics-departure-airport.php:165
+msgid "Airport"
+msgstr ""
+
+#: statistics-sub-menu.php:99 statistics-sub-menu.php:208
+#: statistics-route-airport.php:42 country-sub-menu.php:31
+#: flightid-overview.php:397 manufacturer-statistics-route.php:57
+#: airline-statistics-route.php:113 airport-statistics-route.php:71
+#: manufacturer-sub-menu.php:30 country-statistics-route.php:62
+#: date-statistics-route.php:45 registration-sub-menu.php:24
+#: aircraft-sub-menu.php:22 owner-statistics-route.php:50 newest.php:71
+#: newest.php:73 ident-statistics-route.php:36 date-sub-menu.php:31
+#: pilot-statistics-route.php:41 registration-statistics-route.php:36
+#: owner-sub-menu.php:30 aircraft-statistics-route.php:64
+#: statistics-route-waypoint.php:23 airport-sub-menu.php:31
+#: airline-sub-menu.php:22 search.php:502 pilot-sub-menu.php:22
+#: ident-sub-menu.php:22
+msgid "Departure Airport"
+msgstr ""
+
+#: statistics-sub-menu.php:100 statistics-sub-menu.php:209
+#: country-sub-menu.php:32 manufacturer-sub-menu.php:31
+#: registration-sub-menu.php:25 aircraft-sub-menu.php:23 date-sub-menu.php:32
+#: owner-sub-menu.php:31 airport-sub-menu.php:32 airline-sub-menu.php:23
+#: pilot-sub-menu.php:23 ident-sub-menu.php:23
+msgid "Departure Airport by Country"
+msgstr ""
+
+#: statistics-sub-menu.php:101 statistics-sub-menu.php:210
+#: statistics-route-airport.php:43 country-sub-menu.php:33
+#: flightid-overview.php:422 manufacturer-statistics-route.php:58
+#: airline-statistics-route.php:114 airport-statistics-route.php:72
+#: manufacturer-sub-menu.php:32 country-statistics-route.php:63
+#: date-statistics-route.php:46 registration-sub-menu.php:26
+#: aircraft-sub-menu.php:24 owner-statistics-route.php:51 newest.php:78
+#: newest.php:80 ident-statistics-route.php:37 date-sub-menu.php:33
+#: pilot-statistics-route.php:42 registration-statistics-route.php:37
+#: owner-sub-menu.php:32 aircraft-statistics-route.php:65
+#: statistics-route-waypoint.php:24 airport-sub-menu.php:33
+#: airline-sub-menu.php:24 search.php:511 pilot-sub-menu.php:24
+#: ident-sub-menu.php:24
+msgid "Arrival Airport"
+msgstr ""
+
+#: statistics-sub-menu.php:102 statistics-sub-menu.php:211
+#: country-sub-menu.php:34 manufacturer-sub-menu.php:33
+#: registration-sub-menu.php:27 aircraft-sub-menu.php:25 date-sub-menu.php:34
+#: owner-sub-menu.php:33 airport-sub-menu.php:34 airline-sub-menu.php:25
+#: pilot-sub-menu.php:25 ident-sub-menu.php:25
+msgid "Arrival Airport by Country"
+msgstr ""
+
+#: statistics-sub-menu.php:107 statistics-sub-menu.php:217
+#: country-sub-menu.php:37 js/map.js.php:998 js/map-tracker.2d.js.php:516
+#: js/map-aircraft.2d.js.php:673 js/map-marine.2d.js.php:509
+#: flightid-overview.php:446 manufacturer-sub-menu.php:36
+#: registration-sub-menu.php:30 aircraft-sub-menu.php:28 date-sub-menu.php:37
+#: table-output.php:376 table-output.php:527 owner-sub-menu.php:36
+#: airport-sub-menu.php:37 airline-sub-menu.php:28 search.php:500
+#: pilot-sub-menu.php:28 aircraft-data.php:248 ident-sub-menu.php:28
+msgid "Route"
+msgstr ""
+
+#: statistics-sub-menu.php:110 statistics-sub-menu.php:220
+msgid "Route by Airport"
+msgstr ""
+
+#: statistics-sub-menu.php:111 statistics-sub-menu.php:221
+msgid "Route by Waypoint"
+msgstr ""
+
+#: statistics-sub-menu.php:116 statistics-sub-menu.php:143
+#: statistics-sub-menu.php:228 statistics-sub-menu.php:258
+msgid "Date &amp; Time"
+msgstr ""
+
+#: statistics-sub-menu.php:119 statistics-sub-menu.php:146
+#: statistics-sub-menu.php:231 statistics-sub-menu.php:261
+#: flightid-overview.php:525 flightid-overview.php:533 statistics-date.php:73
+#: table-output.php:172 table-output.php:175 table-output.php:177
+#: table-output.php:241 table-output.php:254 table-output.php:267
+#: table-output.php:423 table-output.php:426 table-output.php:428
+#: table-output.php:576 table-output.php:579 table-output.php:581
+#: statistics-year.php:66 search.php:665 statistics-month.php:68
+msgid "Date"
+msgstr ""
+
+#: statistics-sub-menu.php:120 statistics-sub-menu.php:147
+#: statistics-sub-menu.php:232 statistics-sub-menu.php:262
+#: country-sub-menu.php:38 manufacturer-sub-menu.php:37
+#: registration-sub-menu.php:31 date-sub-menu.php:38 table-output.php:403
+#: table-output.php:406 table-output.php:408 table-output.php:556
+#: table-output.php:559 table-output.php:561 route-sub-menu.php:26
+#: owner-sub-menu.php:37 airport-sub-menu.php:38 airline-sub-menu.php:29
+#: pilot-sub-menu.php:29 ident-sub-menu.php:29
+msgid "Time"
+msgstr ""
+
+#: statistics-sub-menu.php:128 statistics-sub-menu.php:242 table-output.php:252
+msgid "Fatalities"
+msgstr ""
+
+#: statistics-sub-menu.php:131 statistics-sub-menu.php:245
+#: statistics-fatalities-year.php:6 statistics-fatalities-year.php:14
+msgid "Fatalities by Year"
+msgstr ""
+
+#: statistics-sub-menu.php:132 statistics-sub-menu.php:246
+#: statistics-fatalities-month.php:6 statistics-fatalities-month.php:15
+msgid "Fatalities last 12 months"
+msgstr ""
+
+#: statistics-sub-menu.php:153 marine-type-detailed.php:64
+#: airline-statistics-time.php:79 js/map-marine.3d.js.php:138
+#: js/map-marine.3d.js.php:145 js/map-marine.2d.js.php:617
+#: js/map-marine.2d.js.php:619 tracker-data.php:134
+#: airline-statistics-route.php:78 airline-statistics-manufacturer.php:78
+#: airline-statistics-arrival-airport.php:78
+#: airline-statistics-arrival-airport-country.php:78
+#: airline-statistics-registration.php:80 atc-data.php:38 table-output.php:78
+#: table-output.php:81 table-output.php:83 table-output.php:88
+#: table-output.php:91 table-output.php:93 table-output.php:315
+#: table-output.php:318 table-output.php:320 table-output.php:325
+#: table-output.php:328 table-output.php:330 table-output.php:476
+#: table-output.php:479 table-output.php:481 airspace-data.php:35
+#: airline-statistics-departure-airport-country.php:78 search.php:395
+#: airline-statistics-aircraft.php:79 airline-detailed.php:113
+#: airline-detailed.php:134 marine-data.php:120 statistics-type.php:46
+#: airline-statistics-departure-airport.php:78
+msgid "Type"
+msgstr ""
+
+#: statistics-sub-menu.php:157 js/map-marine.3d.js.php:138
+#: js/map-marine.2d.js.php:617 table-output.php:348 table-output.php:351
+#: table-output.php:353 table-output.php:499 table-output.php:502
+#: table-output.php:504 marine-data.php:134 marine-data.php:136
+msgid "Race"
+msgstr ""
+
+#: statistics.php:64
+msgid "Statistics for "
+msgstr ""
+
+#: statistics.php:89 pilot-detailed.php:119 owner-detailed.php:69
+msgid "Flights"
+msgstr ""
+
+#: statistics.php:91
+msgid "Arrivals seen"
+msgstr ""
+
+#: statistics.php:96 header.php:485 pilot.php:16 pilot.php:19
+msgid "Pilots"
+msgstr ""
+
+#: statistics.php:102 owner.php:16 owner.php:19 header.php:479
+msgid "Owners"
+msgstr ""
+
+#: statistics.php:107
+msgid "Aircraft types"
+msgstr ""
+
+#: statistics.php:112 pilot-detailed.php:127 header.php:471
+#: owner-detailed.php:77 airline.php:18 airline.php:41
+msgid "Airlines"
+msgstr ""
+
+#: statistics.php:121 index.php:792 airline.php:52
+msgid "Military"
+msgstr ""
+
+#: statistics.php:130
+msgid "Vessels"
+msgstr ""
+
+#: statistics.php:135 statistics.php:144 statistics.php:152
+msgid "Types"
+msgstr ""
+
+#: statistics.php:137 race.php:16 race.php:19 header.php:587
+#: captain-detailed.php:127 table-output.php:111 table-output.php:114
+#: table-output.php:116
+msgid "Races"
+msgstr ""
+
+#: statistics.php:139 captain.php:16 captain.php:19 header.php:586
+#: race-detailed.php:128
+msgid "Captains"
+msgstr ""
+
+#: statistics.php:150 header.php:617
+msgid "Trackers"
+msgstr ""
+
+#: statistics.php:165
+msgid "Top 10 Most Common Aircraft Type"
+msgstr ""
+
+#: statistics.php:169 statistics.php:249 statistics.php:291 statistics.php:337
+#: statistics.php:382 statistics.php:411 statistics.php:443 statistics.php:486
+#: statistics.php:521 statistics.php:553 statistics.php:614 statistics.php:672
+#: statistics.php:862 statistics.php:890 statistics.php:919 statistics.php:947
+#: statistics.php:987 statistics.php:1016 statistics.php:1045
+#: statistics.php:1073 statistics.php:1113 statistics.php:1142
+#: statistics.php:1171 statistics.php:1199 statistics.php:1239
+#: statistics.php:1270 statistics.php:1313 statistics.php:1343
+#: statistics-date.php:40
+msgid "No data available"
+msgstr ""
+
+#: statistics.php:192 statistics.php:196 statistics.php:226 statistics.php:230
+#: statistics.php:272 statistics.php:276 statistics.php:313 statistics.php:317
+#: statistics.php:402 statistics.php:431 statistics.php:463 statistics.php:506
+#: statistics.php:540 statistics.php:596 statistics.php:657 statistics.php:715
+#: statistics.php:780 statistics.php:844 statistics.php:882 statistics.php:910
+#: statistics.php:939 statistics.php:967 statistics.php:1007
+#: statistics.php:1036 statistics.php:1065 statistics.php:1093
+#: statistics.php:1133 statistics.php:1162 statistics.php:1191
+#: statistics.php:1219 statistics.php:1260 statistics.php:1291
+#: statistics.php:1333 statistics.php:1363
+msgid "See full statistic"
+msgstr ""
+
+#: statistics.php:208
+msgid "Top 10 Most Common Airline"
+msgstr ""
+
+#: statistics.php:246
+msgid "Top 10 Most Common Vessel Type"
+msgstr ""
+
+#: statistics.php:288 statistics-race.php:6 statistics-race.php:17
+msgid "Top 10 Races Number of Participants"
+msgstr ""
+
+#: statistics.php:334
+msgid "Top 10 Most Common Tracker Type"
+msgstr ""
+
+#: statistics.php:379 statistics.php:518
+msgid "Top 10 Most Common Owners"
+msgstr ""
+
+#: statistics.php:408
+msgid "Top 10 Most Common Countries Owners"
+msgstr ""
+
+#: statistics.php:440
+msgid "Top 10 Most Common Launch Sites"
+msgstr ""
+
+#: statistics.php:483
+msgid "Top 10 Most Common Pilots"
+msgstr ""
+
+#: statistics.php:550
+msgid "Top 20 Most Common Country a Flight was Over"
+msgstr ""
+
+#: statistics.php:612
+msgid "Top 20 Most Common Country a Vessel was inside"
+msgstr ""
+
+#: statistics.php:670
+msgid "Top 20 Most Common Country a Tracker was inside"
+msgstr ""
+
+#: statistics.php:729
+msgid "Top 10 Most Common Departure Airports"
+msgstr ""
+
+#: statistics.php:790
+msgid "Top 10 Most Common Arrival Airports"
+msgstr ""
+
+#: statistics.php:859 statistics.php:984 statistics.php:1110
+msgid "Busiest Months of the last 12 Months"
+msgstr ""
+
+#: statistics.php:887 statistics.php:1013 statistics.php:1139
+msgid "Busiest Day in the last Month"
+msgstr ""
+
+#: statistics.php:916 statistics.php:1042 statistics.php:1168
+msgid "Busiest Day in the last 7 Days"
+msgstr ""
+
+#: statistics.php:944 statistics.php:1070 statistics.php:1196
+#: statistics-time.php:6 statistics-time.php:32
+msgid "Busiest Time of the Day"
+msgstr ""
+
+#: statistics.php:1236
+msgid "Busiest Launch Months of the last 12 Months"
+msgstr ""
+
+#: statistics.php:1267
+msgid "Busiest Launch Years of the last 10 Years"
+msgstr ""
+
+#: statistics.php:1310
+msgid "Fatalities by Years"
+msgstr ""
+
+#: statistics.php:1340
+msgid "Fatalities last 12 Months"
+msgstr ""
+
+#: statistics.php:1396
+msgid "Coverage pattern"
+msgstr ""
+
+#: statistics.php:1476
+msgid "Messages received"
+msgstr ""
+
+#: statistics.php:1550
+#, php-format
+msgid "Distance for %s"
+msgstr ""
+
+#: pilot-detailed.php:57 marine-type-detailed.php:38 ident-detailed.php:124
+#: owner-detailed.php:57 race-detailed.php:63 captain-detailed.php:62
+#: manufacturer-detailed.php:47 airline-detailed.php:52
+#, php-format
+msgid "Detailed View for %s"
+msgstr ""
+
+#: pilot-detailed.php:113
+msgid "Pilot ID"
+msgstr ""
+
+#: pilot-detailed.php:121 owner-detailed.php:71
+msgid "Aircraft type"
+msgstr ""
+
+#: pilot-detailed.php:125 owner-detailed.php:75
+msgid "Manufacturers"
+msgstr ""
+
+#: pilot-detailed.php:129 owner-detailed.php:79
+msgid "Total flights spotted duration"
+msgstr ""
+
+#: pilot-detailed.php:134
+#, php-format
+msgid ""
+"The table below shows the detailed information of all flights with the pilot "
+"<strong>%s</strong>."
+msgstr ""
+
+#: pilot-detailed.php:140 marine-type-detailed.php:54 latest.php:71
+#: aircraft-detailed.php:98 acars-archive.php:39 date-detailed.php:95
+#: currently.php:74 ident-detailed.php:225 accident-detailed.php:74
+#: upcoming.php:51 incident-detailed.php:61 newest.php:149
+#: highlights-table.php:57 owner-detailed.php:90 race-detailed.php:161
+#: highlights-display.php:73 incident-latest.php:42 captain-detailed.php:148
+#: registration-detailed.php:60 country-detailed.php:90 accident-latest.php:40
+#: airport-detailed.php:205 search.php:318 search.php:320 search.php:322
+#: manufacturer-detailed.php:82 airline-detailed.php:162 airport.php:97
+#: acars-latest.php:42 route-detailed.php:58
+msgid "Previous Page"
+msgstr ""
+
+#: pilot-detailed.php:144 marine-type-detailed.php:58 latest.php:75
+#: aircraft-detailed.php:102 acars-archive.php:40 date-detailed.php:99
+#: currently.php:78 ident-detailed.php:229 accident-detailed.php:75
+#: upcoming.php:55 incident-detailed.php:62 newest.php:153
+#: highlights-table.php:61 owner-detailed.php:94 race-detailed.php:165
+#: highlights-display.php:77 incident-latest.php:43 captain-detailed.php:152
+#: registration-detailed.php:64 country-detailed.php:94 accident-latest.php:41
+#: airport-detailed.php:209 search.php:328 search.php:330 search.php:332
+#: manufacturer-detailed.php:86 airline-detailed.php:166 airport.php:101
+#: acars-latest.php:45 route-detailed.php:62
+msgid "Next Page"
+msgstr ""
+
+#: pilot-detailed.php:149 space-data.php:147
+#: owner-statistics-registration.php:99
+#: owner-statistics-arrival-airport.php:128 flightid-overview.php:328
+#: owner-statistics-manufacturer.php:76 owner-statistics-route.php:86
+#: owner-statistics-airline.php:95 owner-detailed.php:99 race-detailed.php:170
+#: owner-statistics-arrival-airport-country.php:116
+#: owner-statistics-departure-airport-country.php:115
+#: owner-statistics-time.php:103 captain-detailed.php:157 table-output.php:150
+#: table-output.php:250 table-output.php:263 table-output.php:373
+#: table-output.php:524 owner-statistics-departure-airport.php:128
+#: aircraft-data.php:225 owner-statistics-aircraft.php:76
+msgid "Owner"
+msgstr ""
+
+#: pilot-detailed.php:151 owner-statistics-registration.php:101
+#: ident-statistics-departure-airport-country.php:104
+#: aircraft-statistics-registration.php:115
+#: pilot-statistics-arrival-airport-country.php:108
+#: pilot-statistics-time.php:95 airline-statistics-time.php:166
+#: airport-statistics-registration.php:122 route-statistics-manufacturer.php:69
+#: date-statistics-departure-airport-country.php:113
+#: manufacturer-statistics-airline.php:103 pilot-statistics-airline.php:87
+#: pilot-statistics-arrival-airport.php:120
+#: aircraft-statistics-departure-airport.php:144 date-statistics-airline.php:93
+#: owner-statistics-arrival-airport.php:130 flightid-overview.php:646
+#: manufacturer-statistics-route.php:95 country-statistics-registration.php:110
+#: aircraft-statistics-arrival-airport.php:147
+#: country-statistics-arrival-airport-country.php:133
+#: pilot-statistics-registration.php:93 airline-statistics-route.php:151
+#: airport-statistics-departure-airport.php:148
+#: country-statistics-airline.php:106 date-detailed.php:106
+#: airline-statistics-manufacturer.php:142 owner-statistics-manufacturer.php:78
+#: airport-statistics-route.php:105 ident-statistics-airline.php:82
+#: country-statistics-aircraft.php:86
+#: ident-statistics-arrival-airport-country.php:104
+#: registration-statistics-arrival-airport.php:114
+#: airport-statistics-airline-country.php:139 country-statistics-route.php:96
+#: registration-statistics-time.php:87 date-statistics-route.php:83
+#: ident-detailed.php:236
+#: manufacturer-statistics-departure-airport-country.php:125
+#: date-statistics-aircraft.php:74
+#: manufacturer-statistics-departure-airport.php:135
+#: airport-statistics-manufacturer.php:99 manufacturer-statistics-time.php:110
+#: date-statistics-time.php:98 manufacturer-statistics-registration.php:107
+#: country-statistics-manufacturer.php:87
+#: manufacturer-statistics-aircraft.php:84
+#: airline-statistics-arrival-airport.php:196
+#: date-statistics-manufacturer.php:73
+#: ident-statistics-departure-airport.php:115 owner-statistics-route.php:88
+#: aircraft-statistics-arrival-airport-country.php:134
+#: pilot-statistics-departure-airport-country.php:108
+#: ident-statistics-manufacturer.php:64 owner-statistics-airline.php:97
+#: route-statistics-aircraft.php:66 pilot-statistics-aircraft.php:71
+#: ident-statistics-route.php:74 owner-detailed.php:101
+#: airline-statistics-arrival-airport-country.php:185
+#: aircraft-statistics-time.php:118 route-statistics-airline-country.php:106
+#: pilot-statistics-route.php:79 race-detailed.php:172
+#: manufacturer-statistics-arrival-airport.php:136
+#: ident-statistics-registration.php:88
+#: aircraft-statistics-airline-country.php:134
+#: manufacturer-statistics-arrival-airport-country.php:125
+#: registration-statistics-route.php:70 airline-statistics-registration.php:176
+#: aircraft-statistics-airline.php:109
+#: owner-statistics-arrival-airport-country.php:118
+#: airport-statistics-arrival-airport-country.php:138
+#: route-statistics-airline.php:85
+#: owner-statistics-departure-airport-country.php:117
+#: owner-statistics-time.php:105 ident-statistics-time.php:89
+#: captain-detailed.php:159 country-statistics-time.php:116
+#: airport-statistics-departure-airport-country.php:139
+#: registration-detailed.php:71 owner-statistics-departure-airport.php:130
+#: registration-statistics-arrival-airport-country.php:103
+#: country-detailed.php:101 aircraft-statistics-route.php:102
+#: route-statistics-registration.php:92
+#: aircraft-statistics-departure-airport-country.php:132
+#: date-statistics-departure-airport.php:125 airport-statistics-aircraft.php:99
+#: date-statistics-airline-country.php:115
+#: airport-statistics-arrival-airport.php:149
+#: date-statistics-registration.php:96
+#: country-statistics-departure-airport-country.php:132
+#: country-statistics-airline-country.php:131
+#: registration-statistics-departure-airport-country.php:104
+#: airline-statistics-departure-airport-country.php:184
+#: airport-detailed.php:220 country-statistics-arrival-airport.php:137
+#: manufacturer-detailed.php:93 airport-statistics-time.php:123
+#: pilot-statistics-manufacturer.php:69
+#: date-statistics-arrival-airport-country.php:113 archive-country.php:100
+#: ident-statistics-arrival-airport.php:115
+#: registration-statistics-departure-airport.php:117
+#: airport-statistics-airline.php:133 airline-statistics-aircraft.php:146
+#: airline-detailed.php:176 pilot-statistics-departure-airport.php:120
+#: ident-statistics-aircraft.php:68 airport.php:108
+#: date-statistics-arrival-airport.php:124
+#: country-statistics-departure-airport.php:140
+#: manufacturer-statistics-airline-country.php:123 route-detailed.php:69
+#: owner-statistics-aircraft.php:78
+#: airline-statistics-departure-airport.php:196 route-statistics-time.php:95
+msgid "Error"
+msgstr ""
+
+#: pilot-detailed.php:152 pilot-statistics-arrival-airport-country.php:109
+#: pilot-statistics-time.php:96 pilot-statistics-airline.php:88
+#: pilot-statistics-arrival-airport.php:121
+#: pilot-statistics-registration.php:94
+#: pilot-statistics-departure-airport-country.php:109
+#: pilot-statistics-aircraft.php:72 pilot-statistics-route.php:80
+#: pilot-statistics-manufacturer.php:70
+#: pilot-statistics-departure-airport.php:121
+msgid "Sorry, this pilot is not in the database. :("
+msgstr ""
+
+#: marine-type-detailed.php:47
+#, php-format
+msgid ""
+"The table below shows the detailed information of all marine of type <strong>"
+"%s</strong>."
+msgstr ""
+
+#: marine-type-detailed.php:66 aircraft-detailed.php:112
+msgid "Errors"
+msgstr ""
+
+#: marine-type-detailed.php:67 aircraft-statistics-registration.php:116
+#: aircraft-detailed.php:113 aircraft-statistics-departure-airport.php:145
+#: aircraft-statistics-arrival-airport.php:148
+#: aircraft-statistics-arrival-airport-country.php:135
+#: aircraft-statistics-time.php:119 aircraft-statistics-airline-country.php:135
+#: aircraft-statistics-airline.php:110 aircraft-statistics-route.php:103
+#: aircraft-statistics-departure-airport-country.php:133
+msgid "Sorry, the aircraft type does not exist in this database. :("
+msgstr ""
+
+#: space-data.php:104
+msgid "Spacecraft"
+msgstr ""
+
+#: space-data.php:109 airport-statistics-registration.php:52 js/map.js.php:331
+#: js/map.js.php:427 js/map.js.php:963 js/map-tracker.2d.js.php:481
+#: js/map-aircraft.2d.js.php:81 js/map-aircraft.2d.js.php:638
+#: js/map-marine.2d.js.php:474 flightid-overview.php:494 tracker-data.php:81
+#: airport-statistics-departure-airport.php:50 airport-statistics-route.php:52
+#: airport-statistics-airline-country.php:51
+#: airport-statistics-manufacturer.php:52
+#: airport-statistics-arrival-airport-country.php:51 location-data.php:34
+#: airport-statistics-departure-airport-country.php:51
+#: airport-statistics-aircraft.php:52 airport-statistics-arrival-airport.php:51
+#: airport-detailed.php:89 airport-statistics-time.php:52
+#: airport-statistics-airline.php:51 airport.php:79 aircraft-data.php:125
+#: airport-data.php:45
+msgid "Altitude"
+msgstr ""
+
+#: space-data.php:121 space-data.php:132 js/map.js.php:975
+#: js/map-tracker.2d.js.php:493 js/map-aircraft.2d.js.php:650
+#: js/map-marine.2d.js.php:486 tracker-data.php:109 marine-data.php:95
+#: aircraft-data.php:175
+msgid "Speed"
+msgstr ""
+
+#: space-data.php:140 space-data.php:159
+msgid "Launch Date"
+msgstr ""
+
+#: space-data.php:144
+msgid "Owner Country"
+msgstr ""
+
+#: space-data.php:150
+msgid "Users"
+msgstr ""
+
+#: space-data.php:153
+msgid "Purpose"
+msgstr ""
+
+#: space-data.php:156
+msgid "Orbit"
+msgstr ""
+
+#: space-data.php:162
+msgid "Launch Site"
+msgstr ""
+
+#: space-data.php:165
+msgid "Launch Vehicule"
+msgstr ""
+
+#: statistics-airline.php:6 statistics-airline.php:16
+msgid "Most common Airline"
+msgstr ""
+
+#: statistics-airline.php:18
+msgid "Below are the <strong>Top 10</strong> most common airlines."
+msgstr ""
+
+#: statistics-airline.php:46 owner-statistics-registration.php:53
+#: ident-statistics-departure-airport-country.php:79
+#: aircraft-statistics-registration.php:67
+#: pilot-statistics-arrival-airport-country.php:83
+#: airport-statistics-registration.php:74 route-statistics-manufacturer.php:42
+#: statistics-route-airport.php:44 statistics-pilot.php:49
+#: statistics-airport-departure.php:81
+#: date-statistics-departure-airport-country.php:88
+#: manufacturer-statistics-airline.php:60 pilot-statistics-airline.php:44
+#: pilot-statistics-arrival-airport.php:91
+#: aircraft-statistics-departure-airport.php:115 date-statistics-airline.php:50
+#: owner-statistics-arrival-airport.php:101
+#: manufacturer-statistics-route.php:59 country-statistics-registration.php:64
+#: aircraft-statistics-arrival-airport.php:118
+#: country-statistics-arrival-airport-country.php:108
+#: pilot-statistics-registration.php:45 airline-statistics-route.php:115
+#: statistics-airline-country.php:68
+#: airport-statistics-departure-airport.php:119
+#: country-statistics-airline.php:65 airline-statistics-manufacturer.php:115
+#: statistics-owner.php:48 owner-statistics-manufacturer.php:51
+#: airport-statistics-route.php:73 ident-statistics-airline.php:39
+#: country-statistics-aircraft.php:61
+#: ident-statistics-arrival-airport-country.php:79
+#: registration-statistics-arrival-airport.php:87
+#: airport-statistics-airline-country.php:114 country-statistics-route.php:64
+#: date-statistics-route.php:47
+#: manufacturer-statistics-departure-airport-country.php:100
+#: date-statistics-aircraft.php:47
+#: manufacturer-statistics-departure-airport.php:106
+#: airport-statistics-manufacturer.php:72
+#: manufacturer-statistics-registration.php:59
+#: country-statistics-manufacturer.php:62
+#: manufacturer-statistics-aircraft.php:57 statistics-country.php:112
+#: airline-statistics-arrival-airport.php:167
+#: date-statistics-manufacturer.php:46
+#: ident-statistics-departure-airport.php:86 owner-statistics-route.php:52
+#: aircraft-statistics-arrival-airport-country.php:109
+#: pilot-statistics-departure-airport-country.php:83
+#: ident-statistics-manufacturer.php:37 owner-statistics-airline.php:54
+#: route-statistics-aircraft.php:39 pilot-statistics-aircraft.php:46
+#: ident-statistics-route.php:38
+#: airline-statistics-arrival-airport-country.php:160
+#: statistics-manufacturer.php:51 route-statistics-airline-country.php:81
+#: pilot-statistics-route.php:43
+#: manufacturer-statistics-arrival-airport.php:107
+#: ident-statistics-registration.php:40
+#: aircraft-statistics-airline-country.php:109
+#: manufacturer-statistics-arrival-airport-country.php:100
+#: registration-statistics-route.php:38 airline-statistics-registration.php:121
+#: aircraft-statistics-airline.php:69
+#: owner-statistics-arrival-airport-country.php:93
+#: airport-statistics-arrival-airport-country.php:113
+#: route-statistics-airline.php:42
+#: owner-statistics-departure-airport-country.php:92
+#: airport-statistics-departure-airport-country.php:114
+#: owner-statistics-departure-airport.php:101
+#: registration-statistics-arrival-airport-country.php:78
+#: aircraft-statistics-route.php:66 route-statistics-registration.php:44
+#: aircraft-statistics-departure-airport-country.php:107
+#: statistics-aircraft.php:51 statistics-airport-arrival-country.php:73
+#: date-statistics-departure-airport.php:96 airport-statistics-aircraft.php:72
+#: statistics-registration.php:53 date-statistics-airline-country.php:90
+#: airport-statistics-arrival-airport.php:120 statistics-route-waypoint.php:25
+#: date-statistics-registration.php:48
+#: country-statistics-departure-airport-country.php:107
+#: country-statistics-airline-country.php:106
+#: registration-statistics-departure-airport-country.php:79
+#: airline-statistics-departure-airport-country.php:159
+#: statistics-airport-arrival.php:82
+#: statistics-airport-departure-country.php:73
+#: country-statistics-arrival-airport.php:110
+#: pilot-statistics-manufacturer.php:42
+#: date-statistics-arrival-airport-country.php:88 archive-country.php:43
+#: archive-country.php:75 ident-statistics-arrival-airport.php:86
+#: statistics-callsign.php:50 registration-statistics-departure-airport.php:90
+#: airport-statistics-airline.php:90 airline-statistics-aircraft.php:119
+#: pilot-statistics-departure-airport.php:91 ident-statistics-aircraft.php:41
+#: date-statistics-arrival-airport.php:95
+#: country-statistics-departure-airport.php:113
+#: manufacturer-statistics-airline-country.php:98
+#: owner-statistics-aircraft.php:53 statistics-type.php:47
+#: airline-statistics-departure-airport.php:167
+msgid "# of times"
+msgstr ""
+
+#: owner-statistics-registration.php:26 pilot-statistics-registration.php:21
+#: ident-statistics-registration.php:16
+#, php-format
+msgid "Most Common Aircraft by Registration of %s"
+msgstr ""
+
+#: owner-statistics-registration.php:36 aircraft-statistics-registration.php:54
+#: airport-statistics-registration.php:61
+#: country-statistics-registration.php:52 pilot-statistics-registration.php:31
+#: manufacturer-statistics-registration.php:46
+#: ident-statistics-registration.php:26 airline-statistics-registration.php:98
+#: route-statistics-registration.php:31 date-statistics-registration.php:35
+msgid "Most Common Aircraft by Registration"
+msgstr ""
+
+#: owner-statistics-registration.php:37
+#, php-format
+msgid ""
+"The statistic below shows the most common aircraft by Registration of "
+"flights owned by <strong>%s</strong>."
+msgstr ""
+
+#: owner-statistics-registration.php:52 aircraft-statistics-registration.php:66
+#: aircraft-statistics-registration.php:113
+#: airport-statistics-registration.php:73 country-sub-menu.php:12
+#: aircraft-statistics-departure-airport.php:142
+#: country-statistics-registration.php:63
+#: aircraft-statistics-arrival-airport.php:145
+#: pilot-statistics-registration.php:44 country-statistics-aircraft.php:60
+#: manufacturer-sub-menu.php:12 date-statistics-aircraft.php:46
+#: manufacturer-statistics-registration.php:58
+#: manufacturer-statistics-aircraft.php:56 newest.php:50 newest.php:52
+#: aircraft-statistics-arrival-airport-country.php:132
+#: route-statistics-aircraft.php:38 pilot-statistics-aircraft.php:45
+#: aircraft-statistics-time.php:116 date-sub-menu.php:12
+#: ident-statistics-registration.php:39
+#: aircraft-statistics-airline-country.php:132
+#: airline-statistics-registration.php:120 route-sub-menu.php:12
+#: owner-sub-menu.php:20 aircraft-statistics-route.php:100
+#: route-statistics-registration.php:43
+#: aircraft-statistics-departure-airport-country.php:130
+#: statistics-aircraft.php:50 airport-statistics-aircraft.php:71
+#: date-statistics-registration.php:47 airport-sub-menu.php:12
+#: airline-sub-menu.php:12 pilot-sub-menu.php:12
+#: airline-statistics-aircraft.php:118 ident-statistics-aircraft.php:40
+#: ident-sub-menu.php:12 owner-statistics-aircraft.php:52
+msgid "Aircraft Type"
+msgstr ""
+
+#: owner-statistics-registration.php:66 owner-statistics-registration.php:68
+#: owner-statistics-registration.php:74 owner-statistics-registration.php:76
+#: aircraft-statistics-registration.php:80
+#: aircraft-statistics-registration.php:82
+#: aircraft-statistics-registration.php:88
+#: aircraft-statistics-registration.php:90
+#: airport-statistics-registration.php:87
+#: airport-statistics-registration.php:89
+#: airport-statistics-registration.php:95
+#: airport-statistics-registration.php:97
+#: country-statistics-registration.php:76
+#: country-statistics-registration.php:78
+#: country-statistics-registration.php:84
+#: country-statistics-registration.php:86 pilot-statistics-registration.php:58
+#: pilot-statistics-registration.php:60 pilot-statistics-registration.php:66
+#: pilot-statistics-registration.php:68
+#: manufacturer-statistics-registration.php:72
+#: manufacturer-statistics-registration.php:74
+#: manufacturer-statistics-registration.php:80
+#: manufacturer-statistics-registration.php:82
+#: ident-statistics-registration.php:53 ident-statistics-registration.php:55
+#: ident-statistics-registration.php:61 ident-statistics-registration.php:63
+#: airline-statistics-registration.php:141
+#: airline-statistics-registration.php:143
+#: airline-statistics-registration.php:149
+#: airline-statistics-registration.php:151 table-output.php:625
+#: table-output.php:627 table-output.php:634 table-output.php:636
+#: table-output.php:642 table-output.php:740 table-output.php:742
+#: table-output.php:744 table-output.php:746 table-output.php:753
+#: table-output.php:755 table-output.php:759 table-output.php:768
+#: table-output.php:770 table-output.php:772 table-output.php:774
+#: route-statistics-registration.php:57 route-statistics-registration.php:59
+#: route-statistics-registration.php:65 route-statistics-registration.php:67
+#: statistics-registration.php:64 statistics-registration.php:68
+#: date-statistics-registration.php:61 date-statistics-registration.php:63
+#: date-statistics-registration.php:69 date-statistics-registration.php:71
+#: search.php:229
+msgid "Registration:"
+msgstr ""
+
+#: owner-statistics-registration.php:66 owner-statistics-registration.php:68
+#: owner-statistics-registration.php:74 owner-statistics-registration.php:76
+#: aircraft-statistics-registration.php:80
+#: aircraft-statistics-registration.php:82
+#: aircraft-statistics-registration.php:88
+#: aircraft-statistics-registration.php:90
+#: airport-statistics-registration.php:87
+#: airport-statistics-registration.php:89
+#: airport-statistics-registration.php:95
+#: airport-statistics-registration.php:97
+#: country-statistics-registration.php:76
+#: country-statistics-registration.php:78
+#: country-statistics-registration.php:84
+#: country-statistics-registration.php:86 pilot-statistics-registration.php:58
+#: pilot-statistics-registration.php:60 pilot-statistics-registration.php:66
+#: pilot-statistics-registration.php:68
+#: manufacturer-statistics-registration.php:72
+#: manufacturer-statistics-registration.php:74
+#: manufacturer-statistics-registration.php:80
+#: manufacturer-statistics-registration.php:82
+#: ident-statistics-registration.php:53 ident-statistics-registration.php:55
+#: ident-statistics-registration.php:61 ident-statistics-registration.php:63
+#: airline-statistics-registration.php:141
+#: airline-statistics-registration.php:143
+#: airline-statistics-registration.php:149
+#: airline-statistics-registration.php:151 table-output.php:740
+#: table-output.php:742 table-output.php:744 table-output.php:746
+#: table-output.php:753 table-output.php:755 table-output.php:759
+#: table-output.php:768 table-output.php:770 table-output.php:772
+#: table-output.php:774 route-statistics-registration.php:57
+#: route-statistics-registration.php:59 route-statistics-registration.php:65
+#: route-statistics-registration.php:67 statistics-registration.php:64
+#: statistics-registration.php:68 date-statistics-registration.php:61
+#: date-statistics-registration.php:63 date-statistics-registration.php:69
+#: date-statistics-registration.php:71 search.php:227
+msgid "Aircraft:"
+msgstr ""
+
+#: owner-statistics-registration.php:66 owner-statistics-registration.php:68
+#: owner-statistics-registration.php:74 owner-statistics-registration.php:76
+#: aircraft-statistics-registration.php:80
+#: aircraft-statistics-registration.php:82
+#: aircraft-statistics-registration.php:88
+#: aircraft-statistics-registration.php:90
+#: airport-statistics-registration.php:87
+#: airport-statistics-registration.php:89
+#: airport-statistics-registration.php:95
+#: airport-statistics-registration.php:97
+#: country-statistics-registration.php:76
+#: country-statistics-registration.php:78
+#: country-statistics-registration.php:84
+#: country-statistics-registration.php:86 pilot-statistics-registration.php:58
+#: pilot-statistics-registration.php:60 pilot-statistics-registration.php:66
+#: pilot-statistics-registration.php:68
+#: manufacturer-statistics-registration.php:72
+#: manufacturer-statistics-registration.php:74
+#: manufacturer-statistics-registration.php:80
+#: manufacturer-statistics-registration.php:82
+#: ident-statistics-registration.php:53 ident-statistics-registration.php:55
+#: ident-statistics-registration.php:61 ident-statistics-registration.php:63
+#: table-output.php:625 table-output.php:627 table-output.php:634
+#: table-output.php:636 table-output.php:642 table-output.php:740
+#: table-output.php:742 table-output.php:744 table-output.php:746
+#: table-output.php:753 table-output.php:755 table-output.php:759
+#: table-output.php:768 table-output.php:770 table-output.php:772
+#: table-output.php:774 route-statistics-registration.php:57
+#: route-statistics-registration.php:59 route-statistics-registration.php:65
+#: route-statistics-registration.php:67 statistics-registration.php:64
+#: date-statistics-registration.php:61 date-statistics-registration.php:63
+#: date-statistics-registration.php:69 date-statistics-registration.php:71
+#: search.php:231
+msgid "Airline:"
+msgstr ""
+
+#: owner-statistics-registration.php:89
+#: aircraft-statistics-registration.php:103
+#: airport-statistics-registration.php:110 route-statistics-manufacturer.php:57
+#: manufacturer-statistics-airline.php:91 pilot-statistics-airline.php:75
+#: pilot-statistics-arrival-airport.php:109 date-statistics-airline.php:81
+#: owner-statistics-arrival-airport.php:119
+#: pilot-statistics-registration.php:81
+#: airport-statistics-departure-airport.php:137
+#: airline-statistics-manufacturer.php:130 owner-statistics-manufacturer.php:66
+#: ident-statistics-airline.php:70 date-statistics-aircraft.php:62
+#: manufacturer-statistics-departure-airport.php:124
+#: airport-statistics-manufacturer.php:87
+#: manufacturer-statistics-registration.php:95
+#: manufacturer-statistics-aircraft.php:72
+#: airline-statistics-arrival-airport.php:185
+#: date-statistics-manufacturer.php:61
+#: ident-statistics-departure-airport.php:104
+#: ident-statistics-manufacturer.php:52 owner-statistics-airline.php:85
+#: route-statistics-aircraft.php:54
+#: manufacturer-statistics-arrival-airport.php:125
+#: ident-statistics-registration.php:76 airline-statistics-registration.php:164
+#: route-statistics-airline.php:73 owner-statistics-departure-airport.php:119
+#: route-statistics-registration.php:80
+#: date-statistics-departure-airport.php:114 airport-statistics-aircraft.php:87
+#: airport-statistics-arrival-airport.php:138
+#: date-statistics-registration.php:84 pilot-statistics-manufacturer.php:57
+#: ident-statistics-arrival-airport.php:104 airport-statistics-airline.php:121
+#: airline-statistics-aircraft.php:134
+#: pilot-statistics-departure-airport.php:109 ident-statistics-aircraft.php:56
+#: date-statistics-arrival-airport.php:113
+#: airline-statistics-departure-airport.php:185
+msgid "Search flights"
+msgstr ""
+
+#: owner-statistics-registration.php:102
+#: owner-statistics-arrival-airport.php:131
+#: owner-statistics-manufacturer.php:79 owner-statistics-route.php:89
+#: owner-statistics-airline.php:98 owner-detailed.php:102
+#: owner-statistics-arrival-airport-country.php:119
+#: owner-statistics-departure-airport-country.php:118
+#: owner-statistics-time.php:106 owner-statistics-departure-airport.php:131
+#: owner-statistics-aircraft.php:79
+msgid "Sorry, this owner is not in the database. :("
+msgstr ""
+
+#: ident-statistics-departure-airport-country.php:16
+#, php-format
+msgid "Most Common Departure Airports by Country of %s"
+msgstr ""
+
+#: ident-statistics-departure-airport-country.php:20
+#: ident-statistics-departure-airport-country.php:102
+#: ident-statistics-airline.php:20 ident-statistics-airline.php:80
+#: ident-statistics-arrival-airport-country.php:20
+#: ident-statistics-arrival-airport-country.php:102 ident-detailed.php:207
+#: ident-detailed.php:234 ident-statistics-departure-airport.php:20
+#: ident-statistics-manufacturer.php:20 ident-statistics-manufacturer.php:62
+#: ident-statistics-route.php:20 ident-statistics-route.php:72
+#: ident-statistics-registration.php:20 ident-statistics-registration.php:86
+#: ident-statistics-time.php:20 ident-statistics-time.php:87
+#: table-output.php:57 table-output.php:60 table-output.php:62
+#: table-output.php:197 table-output.php:200 table-output.php:202
+#: table-output.php:239 table-output.php:248 table-output.php:261
+#: table-output.php:294 table-output.php:297 table-output.php:299
+#: table-output.php:455 table-output.php:458 table-output.php:460
+#: ident-statistics-arrival-airport.php:20
+#: ident-statistics-arrival-airport.php:113 ident-statistics-aircraft.php:24
+#: ident-statistics-aircraft.php:66
+msgid "Ident"
+msgstr ""
+
+#: ident-statistics-departure-airport-country.php:25
+#: date-statistics-departure-airport-country.php:35
+#: manufacturer-statistics-departure-airport-country.php:46
+#: pilot-statistics-departure-airport-country.php:30
+#: owner-statistics-departure-airport-country.php:36
+#: airport-statistics-departure-airport-country.php:60
+#: aircraft-statistics-departure-airport-country.php:54
+#: country-statistics-departure-airport-country.php:53
+#: registration-statistics-departure-airport-country.php:26
+#: airline-statistics-departure-airport-country.php:96
+msgid "Most Common Departure Airports by Country"
+msgstr ""
+
+#: ident-statistics-departure-airport-country.php:26
+#, php-format
+msgid ""
+"The statistic below shows all departure airports by Country of origin of "
+"flights with the ident/callsign <strong>%s</strong>."
+msgstr ""
+
+#: ident-statistics-departure-airport-country.php:105
+#: ident-statistics-airline.php:83
+#: ident-statistics-arrival-airport-country.php:105 ident-detailed.php:237
+#: ident-statistics-departure-airport.php:116
+#: ident-statistics-manufacturer.php:65 ident-statistics-route.php:75
+#: ident-statistics-registration.php:89 ident-statistics-time.php:90
+#: ident-statistics-arrival-airport.php:116 ident-statistics-aircraft.php:69
+msgid "Sorry, this ident/callsign is not in the database. :("
+msgstr ""
+
+#: aircraft-statistics-registration.php:17
+#: airline-statistics-registration.php:25
+#, php-format
+msgid "Most Common Aircraft by Registration from %s (%s)"
+msgstr ""
+
+#: aircraft-statistics-registration.php:45 aircraft-detailed.php:73
+#: aircraft-detailed.php:81 airline-statistics-time.php:74
+#: airline-statistics-time.php:88 airport-statistics-registration.php:47
+#: aircraft-statistics-departure-airport.php:45
+#: aircraft-statistics-arrival-airport.php:48 airline-statistics-route.php:73
+#: airline-statistics-route.php:87 airport-statistics-departure-airport.php:45
+#: airline-statistics-manufacturer.php:73
+#: airline-statistics-manufacturer.php:87 airport-statistics-route.php:47
+#: registration-statistics-arrival-airport.php:20
+#: airport-statistics-airline-country.php:46
+#: registration-statistics-time.php:18 airport-statistics-manufacturer.php:47
+#: statistics-country.php:111 airline-statistics-arrival-airport.php:73
+#: airline-statistics-arrival-airport.php:87
+#: aircraft-statistics-arrival-airport-country.php:46
+#: airline-statistics-arrival-airport-country.php:73
+#: airline-statistics-arrival-airport-country.php:87
+#: registration-statistics-route.php:19 airline-statistics-registration.php:75
+#: airline-statistics-registration.php:89 aircraft-statistics-airline.php:46
+#: airport-statistics-arrival-airport-country.php:46
+#: airport-statistics-departure-airport-country.php:46
+#: registration-detailed.php:47 atc-data.php:34
+#: registration-statistics-arrival-airport-country.php:19
+#: aircraft-statistics-route.php:45 airport-statistics-aircraft.php:47
+#: airport-statistics-arrival-airport.php:46
+#: registration-statistics-departure-airport-country.php:19
+#: airline-statistics-departure-airport-country.php:73
+#: airline-statistics-departure-airport-country.php:87 airport-detailed.php:84
+#: search.php:446 search.php:481 airport-statistics-time.php:47
+#: registration-statistics-departure-airport.php:20
+#: airport-statistics-airline.php:46 airline-statistics-aircraft.php:74
+#: airline-statistics-aircraft.php:88 airline-detailed.php:108
+#: airline-detailed.php:129 airline-detailed.php:145 airport.php:74
+#: airline-statistics-departure-airport.php:73
+#: airline-statistics-departure-airport.php:87
+msgid "Name"
+msgstr ""
+
+#: aircraft-statistics-registration.php:46 aircraft-detailed.php:74
+#: aircraft-detailed.php:82 airline-statistics-time.php:76
+#: airport-statistics-registration.php:50
+#: aircraft-statistics-departure-airport.php:46
+#: aircraft-statistics-arrival-airport.php:49 airline-statistics-route.php:75
+#: airport-statistics-departure-airport.php:48
+#: airline-statistics-manufacturer.php:75 airport-statistics-route.php:50
+#: registration-statistics-arrival-airport.php:21
+#: airport-statistics-airline-country.php:49
+#: registration-statistics-time.php:19 airport-statistics-manufacturer.php:50
+#: airline-statistics-arrival-airport.php:75
+#: aircraft-statistics-arrival-airport-country.php:47
+#: airline-statistics-arrival-airport-country.php:75
+#: registration-statistics-route.php:20 airline-statistics-registration.php:77
+#: aircraft-statistics-airline.php:47
+#: airport-statistics-arrival-airport-country.php:49
+#: airport-statistics-departure-airport-country.php:49
+#: registration-detailed.php:48
+#: registration-statistics-arrival-airport-country.php:20
+#: aircraft-statistics-route.php:46 airport-statistics-aircraft.php:50
+#: airport-statistics-arrival-airport.php:49
+#: registration-statistics-departure-airport-country.php:20
+#: airline-statistics-departure-airport-country.php:75 airport-detailed.php:87
+#: airport-statistics-time.php:50
+#: registration-statistics-departure-airport.php:21
+#: airport-statistics-airline.php:49 airline-statistics-aircraft.php:76
+#: airline-detailed.php:110 airline-detailed.php:131 airport.php:77
+#: airline-statistics-departure-airport.php:75
+msgid "ICAO"
+msgstr ""
+
+#: aircraft-statistics-registration.php:50 aircraft-detailed.php:87
+#: aircraft-statistics-departure-airport.php:50
+#: aircraft-statistics-arrival-airport.php:53
+#: aircraft-statistics-arrival-airport-country.php:51
+#: aircraft-statistics-time.php:52 aircraft-statistics-airline-country.php:52
+#: aircraft-statistics-airline.php:51 aircraft-statistics-route.php:50
+#: aircraft-statistics-departure-airport-country.php:50
+msgid ""
+"This special aircraft profile shows all flights in where the aircraft type "
+"is unknown."
+msgstr ""
+
+#: aircraft-statistics-registration.php:55
+#, php-format
+msgid ""
+"The statistic below shows the most common aircraft by registration of "
+"flights from aircraft type <strong>%s (%s)</strong>."
+msgstr ""
+
+#: latest.php:22 latest.php:47 header.php:491 header.php:593 header.php:634
+#: header.php:677
+msgid "Latest Activity"
+msgstr ""
+
+#: latest.php:50
+msgid "The table below shows the detailed information of all recent vessels."
+msgstr ""
+
+#: latest.php:51
+msgid "The table below shows the detailed information of all recent trackers."
+msgstr ""
+
+#: latest.php:52
+msgid "The table below shows the detailed information of all recent flights."
+msgstr ""
+
+#: pilot-statistics-arrival-airport-country.php:21
+#: ident-statistics-arrival-airport-country.php:16
+#: owner-statistics-arrival-airport-country.php:27
+#, php-format
+msgid "Most Common Arrival Airports by Country of %s"
+msgstr ""
+
+#: pilot-statistics-arrival-airport-country.php:31
+#: country-statistics-arrival-airport-country.php:53
+#: ident-statistics-arrival-airport-country.php:26
+#: aircraft-statistics-arrival-airport-country.php:56
+#: airline-statistics-arrival-airport-country.php:96
+#: manufacturer-statistics-arrival-airport-country.php:47
+#: owner-statistics-arrival-airport-country.php:37
+#: airport-statistics-arrival-airport-country.php:60
+#: registration-statistics-arrival-airport-country.php:26
+#: date-statistics-arrival-airport-country.php:34
+msgid "Most Common Arrival Airports by Country"
+msgstr ""
+
+#: pilot-statistics-arrival-airport-country.php:32
+#, php-format
+msgid ""
+"The statistic below shows all arrival airports by Country of origin of "
+"flights piloted by <strong>%s</strong>."
+msgstr ""
+
+#: pilot-statistics-arrival-airport-country.php:106
+#: pilot-statistics-time.php:93 pilot-statistics-airline.php:85
+#: pilot-statistics-arrival-airport.php:118 js/map.js.php:988
+#: js/map-tracker.2d.js.php:506 js/map-aircraft.2d.js.php:663
+#: js/map-marine.2d.js.php:499 pilot-statistics-registration.php:91
+#: pilot-statistics-departure-airport-country.php:106
+#: pilot-statistics-aircraft.php:69 pilot-statistics-route.php:77
+#: table-output.php:147 table-output.php:370 table-output.php:521
+#: pilot-statistics-manufacturer.php:67
+#: pilot-statistics-departure-airport.php:118 aircraft-data.php:219
+msgid "Pilot"
+msgstr ""
+
+#: aircraft-detailed.php:41 aircraft-detailed.php:43 airline-detailed.php:55
+#: airline-detailed.php:57
+#, php-format
+msgid "Detailed View for %s (%s)"
+msgstr ""
+
+#: aircraft-detailed.php:76
+msgid "Description"
+msgstr ""
+
+#: aircraft-detailed.php:77
+msgid "Engine"
+msgstr ""
+
+#: aircraft-detailed.php:78
+msgid "Engine count"
+msgstr ""
+
+#: aircraft-detailed.php:93
+#, php-format
+msgid ""
+"The table below shows the detailed information of all flights from <strong>"
+"%s (%s)</strong>."
+msgstr ""
+
+#: aircraft-detailed.php:107
+msgid "No flights of this aircraft type exist in this database."
+msgstr ""
+
+#: pilot-statistics-time.php:21 owner-statistics-time.php:27
+#: ident-statistics-time.php:16
+#, php-format
+msgid "Most Common Time of Day of %s"
+msgstr ""
+
+#: pilot-statistics-time.php:31 airline-statistics-time.php:97
+#: registration-statistics-time.php:25 manufacturer-statistics-time.php:46
+#: date-statistics-time.php:34 aircraft-statistics-time.php:56
+#: owner-statistics-time.php:37 ident-statistics-time.php:26
+#: country-statistics-time.php:53 airport-statistics-time.php:61
+#: route-statistics-time.php:31
+msgid "Most Common Time of Day"
+msgstr ""
+
+#: pilot-statistics-time.php:32
+#, php-format
+msgid ""
+"The statistic below shows the most common time of day of flights piloted by "
+"<strong>%s</strong>."
+msgstr ""
+
+#: pilot-statistics-time.php:74 airline-statistics-time.php:145
+#: registration-statistics-time.php:66 statistics-time.php:72
+#: manufacturer-statistics-time.php:89 date-statistics-time.php:77
+#: aircraft-statistics-time.php:97 owner-statistics-time.php:84
+#: ident-statistics-time.php:68 country-statistics-time.php:95
+#: airport-statistics-time.php:102 route-statistics-time.php:74
+msgid "Hour"
+msgstr ""
+
+#: pilot-statistics-time.php:75 airline-statistics-time.php:146
+#: registration-statistics-time.php:67 statistics-time.php:73
+#: manufacturer-statistics-time.php:90 date-statistics-time.php:78
+#: aircraft-statistics-time.php:98 owner-statistics-time.php:85
+#: ident-statistics-time.php:69 country-statistics-time.php:96
+#: statistics-year.php:67 airport-statistics-time.php:103
+#: statistics-month.php:69 route-statistics-time.php:75
+msgid "Number"
+msgstr ""
+
+#: airline-statistics-time.php:23 manufacturer-statistics-time.php:18
+#: country-statistics-time.php:21
+#, php-format
+msgid "Most Common Time of Day from %s"
+msgstr ""
+
+#: airline-statistics-time.php:25 aircraft-statistics-time.php:19
+#, php-format
+msgid "Most Common Time of Day from %s (%s)"
+msgstr ""
+
+#: airline-statistics-time.php:77 airport-statistics-registration.php:51
+#: airline-statistics-route.php:76 airport-statistics-departure-airport.php:49
+#: airline-statistics-manufacturer.php:76 airport-statistics-route.php:51
+#: airport-statistics-airline-country.php:50
+#: airport-statistics-manufacturer.php:51
+#: airline-statistics-arrival-airport.php:76
+#: airline-statistics-arrival-airport-country.php:76
+#: airline-statistics-registration.php:78
+#: airport-statistics-arrival-airport-country.php:50
+#: airport-statistics-departure-airport-country.php:50
+#: airport-statistics-aircraft.php:51 airport-statistics-arrival-airport.php:50
+#: airline-statistics-departure-airport-country.php:76 airport-detailed.php:88
+#: airport-statistics-time.php:51 airport-statistics-airline.php:50
+#: airline-statistics-aircraft.php:77 airline-detailed.php:111
+#: airline-detailed.php:132 airport.php:78
+#: airline-statistics-departure-airport.php:76
+msgid "IATA"
+msgstr ""
+
+#: airline-statistics-time.php:92 airline-statistics-route.php:91
+#: airline-statistics-manufacturer.php:91
+#: airline-statistics-arrival-airport.php:91
+#: airline-statistics-arrival-airport-country.php:91
+#: airline-statistics-registration.php:93
+#: airline-statistics-departure-airport-country.php:91
+#: airline-statistics-aircraft.php:92 airline-detailed.php:149
+#: airline-statistics-departure-airport.php:91
+msgid ""
+"This special airline profile shows all flights that do <u>not</u> have a "
+"airline associated with them."
+msgstr ""
+
+#: airline-statistics-time.php:99 airline-statistics-time.php:101
+#: manufacturer-statistics-time.php:47 aircraft-statistics-time.php:57
+#, php-format
+msgid ""
+"The statistic below shows the most common time of day from <strong>%s</"
+"strong>."
+msgstr ""
+
+#: airline-statistics-time.php:164 airline-statistics-route.php:149
+#: airline-statistics-manufacturer.php:140
+#: airline-statistics-arrival-airport.php:194
+#: airline-statistics-arrival-airport-country.php:183
+#: airline-statistics-registration.php:174
+#: airline-statistics-departure-airport-country.php:182
+#: airline-statistics-aircraft.php:144
+#: airline-statistics-departure-airport.php:194
+msgid "Airline Statistic"
+msgstr ""
+
+#: airline-statistics-time.php:167 airline-statistics-route.php:152
+#: airline-statistics-manufacturer.php:143
+#: airline-statistics-arrival-airport.php:197
+#: airline-statistics-arrival-airport-country.php:186
+#: airline-statistics-registration.php:177
+#: airline-statistics-departure-airport-country.php:185
+#: airline-statistics-aircraft.php:147 airline-detailed.php:177
+#: airline-statistics-departure-airport.php:197
+msgid "Sorry, the airline does not exist in this database. :("
+msgstr ""
+
+#: airport-statistics-registration.php:17
+#, php-format
+msgid "Most Common Aircraft by Registration to/from %s, %s (%s)"
+msgstr ""
+
+#: airport-statistics-registration.php:48 js/map.js.php:325 js/map.js.php:420
+#: js/map-aircraft.2d.js.php:75 airport-statistics-departure-airport.php:46
+#: airport-statistics-route.php:48 airport-statistics-airline-country.php:47
+#: airport-statistics-manufacturer.php:48
+#: airport-statistics-arrival-airport-country.php:47 location-data.php:43
+#: airport-statistics-departure-airport-country.php:47
+#: airport-statistics-aircraft.php:48 airport-statistics-arrival-airport.php:47
+#: airport-detailed.php:85 airport-statistics-time.php:48
+#: airport-statistics-airline.php:47 airport.php:75 airport-data.php:42
+msgid "City"
+msgstr ""
+
+#: airport-statistics-registration.php:53 js/map.js.php:979
+#: js/map-tracker.2d.js.php:497 js/map-aircraft.2d.js.php:654
+#: js/map-marine.2d.js.php:490 flightid-overview.php:513 tracker-data.php:118
+#: airport-statistics-departure-airport.php:51 airport-statistics-route.php:53
+#: airport-statistics-airline-country.php:52
+#: airport-statistics-manufacturer.php:53
+#: airport-statistics-arrival-airport-country.php:52 location-data.php:45
+#: airport-statistics-departure-airport-country.php:52 atc-data.php:43
+#: airport-statistics-aircraft.php:53 airport-statistics-arrival-airport.php:52
+#: airport-detailed.php:96 airport-statistics-time.php:53
+#: airport-statistics-airline.php:52 marine-data.php:104 airport.php:80
+#: aircraft-data.php:158 airport-data.php:53
+msgid "Coordinates"
+msgstr ""
+
+#: airport-statistics-registration.php:56
+#: airport-statistics-departure-airport.php:54 airport-statistics-route.php:56
+#: airport-statistics-manufacturer.php:56
+#: airport-statistics-arrival-airport-country.php:55
+#: airport-statistics-departure-airport-country.php:55
+#: airport-statistics-aircraft.php:56 airport-statistics-arrival-airport.php:55
+#: airport-detailed.php:192 airport-statistics-time.php:56
+#: airport-statistics-airline.php:55 airport.php:83
+msgid ""
+"This special airport profile shows all flights that do <u>not</u> have a "
+"departure and/or arrival airport associated with them."
+msgstr ""
+
+#: airport-statistics-registration.php:62
+#, php-format
+msgid ""
+"The statistic below shows the most common aircraft by registration of "
+"flights to/from <strong>%s, %s (%s)</strong>."
+msgstr ""
+
+#: airport-statistics-registration.php:123
+#: airport-statistics-departure-airport.php:149
+#: airport-statistics-route.php:106 airport-statistics-airline-country.php:140
+#: airport-statistics-manufacturer.php:100
+#: airport-statistics-arrival-airport-country.php:139
+#: airport-statistics-departure-airport-country.php:140
+#: airport-statistics-aircraft.php:100
+#: airport-statistics-arrival-airport.php:150 airport-detailed.php:221
+#: airport-statistics-time.php:124 airport-statistics-airline.php:134
+#: airport.php:109
+msgid "Sorry, the airport does not exist in this database. :("
+msgstr ""
+
+#: route-statistics-manufacturer.php:21
+#, php-format
+msgid "Most Common Aircraft Manufacturer between %s (%s), %s - %s (%s), %s"
+msgstr ""
+
+#: route-statistics-manufacturer.php:24 route-statistics-aircraft.php:21
+#: route-statistics-airline-country.php:21 route-statistics-airline.php:23
+#: route-statistics-registration.php:24 route-detailed.php:45
+#: route-statistics-time.php:24
+msgid "Flights between"
+msgstr ""
+
+#: route-statistics-manufacturer.php:25 route-statistics-aircraft.php:22
+#: route-statistics-airline-country.php:22 route-statistics-airline.php:24
+#: route-statistics-registration.php:25 route-detailed.php:46
+#: route-statistics-time.php:25
+msgid "Coming From"
+msgstr ""
+
+#: route-statistics-manufacturer.php:26 route-statistics-aircraft.php:23
+#: route-statistics-airline-country.php:23 route-statistics-airline.php:25
+#: route-statistics-registration.php:26 route-detailed.php:47
+#: route-statistics-time.php:26
+msgid "Flying To"
+msgstr ""
+
+#: route-statistics-manufacturer.php:31 airline-statistics-manufacturer.php:96
+#: owner-statistics-manufacturer.php:36 airport-statistics-manufacturer.php:61
+#: country-statistics-manufacturer.php:52 date-statistics-manufacturer.php:35
+#: ident-statistics-manufacturer.php:26 pilot-statistics-manufacturer.php:31
+msgid "Most Common Aircraft Manufacturer"
+msgstr ""
+
+#: route-statistics-manufacturer.php:32
+#, php-format
+msgid ""
+"The statistic below shows the most common Aircraft Manufacturer of flights "
+"between <strong>%s (%s), %s</strong> and <strong>%s (%s), %s</strong>."
+msgstr ""
+
+#: route-statistics-manufacturer.php:41 airline-statistics-manufacturer.php:114
+#: owner-statistics-manufacturer.php:50 airport-statistics-manufacturer.php:71
+#: country-statistics-manufacturer.php:61 date-statistics-manufacturer.php:45
+#: ident-statistics-manufacturer.php:36 statistics-manufacturer.php:50
+#: pilot-statistics-manufacturer.php:41
+msgid "Aircraft Manufacturer"
+msgstr ""
+
+#: route-statistics-manufacturer.php:67 route-statistics-aircraft.php:64
+#: route-statistics-airline-country.php:104 route-statistics-airline.php:83
+#: route-statistics-registration.php:90 route-detailed.php:67
+#: route-statistics-time.php:93
+msgid "Unknown Route"
+msgstr ""
+
+#: route-statistics-manufacturer.php:70 route-statistics-aircraft.php:67
+#: route-statistics-airline-country.php:107 route-statistics-airline.php:86
+#: route-statistics-registration.php:93 route-detailed.php:70
+#: route-statistics-time.php:96
+msgid "Sorry, this route does not exist in this database. :("
+msgstr ""
+
+#: statistics-route-airport.php:6 statistics-route-airport.php:14
+msgid "Most common Route by Airport"
+msgstr ""
+
+#: statistics-route-airport.php:16
+msgid ""
+"Below are the <strong>Top 10</strong> most common Departure &amp; Arrival "
+"airport combinations."
+msgstr ""
+
+#: statistics-route-airport.php:61 airline-statistics-route.php:138
+#: airport-statistics-route.php:92 country-statistics-route.php:83
+#: owner-statistics-route.php:75 ident-statistics-route.php:61
+#: pilot-statistics-route.php:66 registration-statistics-route.php:57
+#: table-output.php:1472
+msgid "Route Profile"
+msgstr ""
+
+#: statistics-pilot.php:6
+msgid "Most common Pilots"
+msgstr ""
+
+#: statistics-pilot.php:21
+msgid "Most common Pilot"
+msgstr ""
+
+#: statistics-pilot.php:23
+msgid "Below are the <strong>Top 10</strong> most common pilot."
+msgstr ""
+
+#: statistics-pilot.php:48 flightid-overview.php:335
+msgid "Pilot Name"
+msgstr ""
+
+#: statistics-airport-departure.php:6 statistics-airport-departure.php:22
+msgid "Most common Departure Airport"
+msgstr ""
+
+#: statistics-airport-departure.php:24
+msgid "Below are the <strong>Top 10</strong> most common departure airports."
+msgstr ""
+
+#: date-statistics-departure-airport-country.php:12
+#, php-format
+msgid "Most Common Departure Airports by Country on %s"
+msgstr ""
+
+#: date-statistics-departure-airport-country.php:18
+#: date-statistics-airline.php:20 date-detailed.php:69
+#: date-statistics-route.php:18 date-statistics-aircraft.php:18
+#: accident-detailed.php:38 date-statistics-time.php:17
+#: incident-detailed.php:38 date-statistics-manufacturer.php:18
+#: date-statistics-departure-airport.php:19
+#: date-statistics-airline-country.php:20 date-statistics-registration.php:18
+#: date-statistics-arrival-airport-country.php:17 archive-country.php:20
+#: date-statistics-arrival-airport.php:18
+msgid "Select a Date"
+msgstr ""
+
+#: date-statistics-departure-airport-country.php:30
+#: date-statistics-airline.php:32 date-detailed.php:82
+#: date-statistics-route.php:30 date-statistics-aircraft.php:31
+#: date-statistics-time.php:29 date-statistics-manufacturer.php:30
+#: date-statistics-departure-airport.php:31
+#: date-statistics-airline-country.php:32 date-statistics-registration.php:30
+#: date-statistics-arrival-airport-country.php:29 archive-country.php:27
+#: date-statistics-arrival-airport.php:30
+#, php-format
+msgid "Flights from %s"
+msgstr ""
+
+#: date-statistics-departure-airport-country.php:36
+#, php-format
+msgid ""
+"The statistic below shows all departure airports by Country of origin of "
+"flights on <strong>%s</strong>."
+msgstr ""
+
+#: date-statistics-departure-airport-country.php:111
+#: date-statistics-airline.php:91 date-detailed.php:104
+#: date-statistics-route.php:81 date-statistics-aircraft.php:72
+#: date-statistics-time.php:96 date-statistics-manufacturer.php:71
+#: date-statistics-departure-airport.php:123
+#: date-statistics-airline-country.php:113 date-statistics-registration.php:94
+#: date-statistics-arrival-airport-country.php:111 archive-country.php:98
+#: date-statistics-arrival-airport.php:122
+msgid "Unknown Date"
+msgstr ""
+
+#: date-statistics-departure-airport-country.php:114
+#: date-statistics-airline.php:94 date-detailed.php:107
+#: date-statistics-route.php:84 date-statistics-aircraft.php:75
+#: date-statistics-time.php:99 date-statistics-manufacturer.php:74
+#: date-statistics-departure-airport.php:126
+#: date-statistics-airline-country.php:116 date-statistics-registration.php:97
+#: date-statistics-arrival-airport-country.php:114 archive-country.php:101
+#: date-statistics-arrival-airport.php:125
+msgid "Sorry, this date does not exist in this database. :("
+msgstr ""
+
+#: manufacturer-statistics-airline.php:19
+#, php-format
+msgid "Most Common Airlines from %s"
+msgstr ""
+
+#: manufacturer-statistics-airline.php:48 pilot-statistics-airline.php:31
+#: date-statistics-airline.php:37 country-statistics-airline.php:52
+#: ident-statistics-airline.php:26 owner-statistics-airline.php:37
+#: aircraft-statistics-airline.php:55 route-statistics-airline.php:30
+#: airport-statistics-airline.php:60
+msgid "Most Common Airlines"
+msgstr ""
+
+#: manufacturer-statistics-airline.php:49
+#, php-format
+msgid ""
+"The statistic below shows the most common airlines of flights from <strong>"
+"%s</strong>."
+msgstr ""
+
+#: manufacturer-statistics-airline.php:104 manufacturer-statistics-route.php:96
+#: manufacturer-statistics-departure-airport-country.php:126
+#: manufacturer-statistics-departure-airport.php:136
+#: manufacturer-statistics-time.php:111
+#: manufacturer-statistics-registration.php:108
+#: manufacturer-statistics-aircraft.php:85
+#: manufacturer-statistics-arrival-airport.php:137
+#: manufacturer-statistics-arrival-airport-country.php:126
+#: manufacturer-detailed.php:94 manufacturer-statistics-airline-country.php:124
+msgid "Sorry, the aircraft manufacturer does not exist in this database. :("
+msgstr ""
+
+#: country-sub-menu.php:6 manufacturer-sub-menu.php:6
+#: registration-sub-menu.php:18 aircraft-sub-menu.php:6 date-sub-menu.php:6
+#: route-sub-menu.php:6 owner-sub-menu.php:14 airport-sub-menu.php:6
+#: airline-sub-menu.php:6 flightid-sub-menu.php:6 pilot-sub-menu.php:6
+#: ident-sub-menu.php:6
+msgid "Detailed"
+msgstr ""
+
+#: pilot-statistics-airline.php:21 country-statistics-airline.php:20
+#: ident-statistics-airline.php:16 owner-statistics-airline.php:27
+#, php-format
+msgid "Most Common Airlines of %s"
+msgstr ""
+
+#: pilot-statistics-airline.php:32 owner-statistics-airline.php:38
+#, php-format
+msgid ""
+"The statistic below shows the most common airlines of flights owned by "
+"<strong>%s</strong>."
+msgstr ""
+
+#: pilot-statistics-arrival-airport.php:21
+#: owner-statistics-arrival-airport.php:27
+#: ident-statistics-arrival-airport.php:16
+#, php-format
+msgid "Most Common Arrival Airports of %s"
+msgstr ""
+
+#: pilot-statistics-arrival-airport.php:31
+#: owner-statistics-arrival-airport.php:37
+#: aircraft-statistics-arrival-airport.php:58
+#: registration-statistics-arrival-airport.php:27
+#: airline-statistics-arrival-airport.php:96
+#: manufacturer-statistics-arrival-airport.php:47
+#: airport-statistics-arrival-airport.php:60
+#: country-statistics-arrival-airport.php:50
+#: ident-statistics-arrival-airport.php:26
+#: date-statistics-arrival-airport.php:35
+msgid "Most Common Arrival Airports"
+msgstr ""
+
+#: pilot-statistics-arrival-airport.php:32
+#, php-format
+msgid ""
+"The statistic below shows all arrival airports of flights piloted by <strong>"
+"%s</strong>."
+msgstr ""
+
+#: aircraft-statistics-departure-airport.php:17
+#, php-format
+msgid "Most Common Departure Airports for %s (%s)"
+msgstr ""
+
+#: aircraft-statistics-departure-airport.php:55
+#: airport-statistics-departure-airport.php:59
+#: manufacturer-statistics-departure-airport.php:46
+#: ident-statistics-departure-airport.php:26
+#: owner-statistics-departure-airport.php:37
+#: date-statistics-departure-airport.php:36
+#: registration-statistics-departure-airport.php:27
+#: pilot-statistics-departure-airport.php:31
+#: country-statistics-departure-airport.php:52
+#: airline-statistics-departure-airport.php:96
+msgid "Most Common Departure Airports"
+msgstr ""
+
+#: aircraft-statistics-departure-airport.php:56
+#, php-format
+msgid ""
+"The statistic below shows all departure airports of flights from <strong>%s "
+"(%s)</strong>."
+msgstr ""
+
+#: js/map-tracker.3d.js.php:144 js/map-tracker.3d.js.php:146
+#: js/map-tracker.2d.js.php:38
+msgid "Trackers detected"
+msgstr ""
+
+#: js/map-tracker.3d.js.php:253 js/map-tracker.2d.js.php:740
+#: js/map-aircraft.2d.js.php:976 js/map-marine.3d.js.php:274
+#: js/map-marine.2d.js.php:731 js/map-aircraft.3d.js.php:711 index.php:98
+msgid "Archive"
+msgstr ""
+
+#: js/map.js.php:341 js/map-aircraft.2d.js.php:91 airport-data.php:55
+#: airport-data.php:61 airport-data.php:65
+msgid "Links"
+msgstr ""
+
+#: js/map.js.php:342 js/map-aircraft.2d.js.php:92 airport-data.php:56
+#: airport-data.php:62
+msgid "Homepage"
+msgstr ""
+
+#: js/map.js.php:519
+msgid "Aircrafts detected"
+msgstr ""
+
+#: js/map.js.php:537 js/map.js.php:538 js/map.js.php:540
+#: js/map-aircraft.2d.js.php:238
+msgid "Archive Date & Time"
+msgstr ""
+
+#: js/map.js.php:936 js/map-tracker.2d.js.php:454 js/map-aircraft.2d.js.php:611
+#: js/map-marine.2d.js.php:447
+msgid "Route stop:"
+msgstr ""
+
+#: js/map.js.php:983 js/map-tracker.2d.js.php:501 js/map-aircraft.2d.js.php:658
+#: js/map-marine.2d.js.php:494 tracker-data.php:135 marine-data.php:121
+#: aircraft-data.php:208
+msgid "Heading"
+msgstr ""
+
+#: js/map.js.php:1003 js/map-tracker.2d.js.php:521
+#: js/map-aircraft.2d.js.php:678 js/map-marine.2d.js.php:514
+#: aircraft-data.php:249
+msgid "Latest ACARS message"
+msgstr ""
+
+#: js/map.js.php:1009 js/map-tracker.2d.js.php:527
+#: js/map-aircraft.2d.js.php:684 js/map-marine.2d.js.php:520
+#: table-output.php:740 table-output.php:742 table-output.php:744
+#: table-output.php:746 table-output.php:753 table-output.php:755
+#: table-output.php:759 table-output.php:768 table-output.php:770
+#: table-output.php:772 table-output.php:774 aircraft-data.php:250
+msgid "Squawk:"
+msgstr ""
+
+#: js/map.js.php:1633 js/map.js.php:1634 js/map.3d.js.php:253
+#: js/map.2d.js.php:584 js/map.2d.js.php:585
+msgid "Your location"
+msgstr ""
+
+#: js/map.js.php:1678 js/map.3d.js.php:288 js/map.2d.js.php:629
+msgid "Compass is not supported by this browser."
+msgstr ""
+
+#: js/map.js.php:2006 js/map-aircraft.2d.js.php:1261
+msgid "Segment name:"
+msgstr ""
+
+#: js/map.js.php:2007 js/map-aircraft.2d.js.php:1262 index.php:261
+msgid "From:"
+msgstr ""
+
+#: js/map.js.php:2010 js/map-aircraft.2d.js.php:1265 table-output.php:662
+#: table-output.php:670 table-output.php:796 table-output.php:805
+msgid "Ident:"
+msgstr ""
+
+#: js/map.js.php:2013 js/map-aircraft.2d.js.php:1268
+msgid "Altitude:"
+msgstr ""
+
+#: js/map.js.php:2018 js/map-aircraft.2d.js.php:1273
+msgid "Base Altitude:"
+msgstr ""
+
+#: js/map.js.php:2020 js/map-aircraft.2d.js.php:1275
+msgid "Top Altitude:"
+msgstr ""
+
+#: js/map.js.php:2047 js/map-aircraft.2d.js.php:1296
+msgid "Title:"
+msgstr ""
+
+#: js/map.js.php:2050 js/map-aircraft.2d.js.php:1299
+#: js/map-marine.2d.js.php:819 index.php:854 table-output.php:681
+#: table-output.php:686 table-output.php:688 table-output.php:690
+#: table-output.php:692 table-output.php:694 table-output.php:696
+#: table-output.php:698 table-output.php:700 table-output.php:702
+#: table-output.php:704 table-output.php:706 table-output.php:708
+#: table-output.php:710 table-output.php:712 table-output.php:714
+#: table-output.php:716 table-output.php:718 table-output.php:816
+#: table-output.php:821 table-output.php:823 table-output.php:825
+#: table-output.php:827 table-output.php:829 table-output.php:831
+#: table-output.php:833 table-output.php:835 table-output.php:837
+#: table-output.php:839 table-output.php:841 table-output.php:843
+#: table-output.php:845 table-output.php:847 table-output.php:849
+#: table-output.php:851 table-output.php:853
+msgid "Type:"
+msgstr ""
+
+#: js/map.js.php:2053 js/map-aircraft.2d.js.php:1302
+msgid "Tops:"
+msgstr ""
+
+#: js/map.js.php:2056 js/map-aircraft.2d.js.php:1305
+msgid "Base:"
+msgstr ""
+
+#: js/map-tracker.2d.js.php:650 js/map-aircraft.2d.js.php:886
+#: js/map-marine.2d.js.php:667
+msgid "Loading archive"
+msgstr ""
+
+#: js/map-aircraft.2d.js.php:226 js/map-aircraft.3d.js.php:340
+#: js/map-aircraft.3d.js.php:342
+msgid "Aircraft detected"
+msgstr ""
+
+#: js/map-marine.3d.js.php:123 js/map-marine.3d.js.php:125
+msgid "Marines detected"
+msgstr ""
+
+#: js/map-marine.3d.js.php:138 js/map-marine.2d.js.php:617 table-output.php:38
+#: table-output.php:275 table-output.php:436 marine-data.php:150
+msgid "Rank"
+msgstr ""
+
+#: js/map-marine.3d.js.php:138 js/map-marine.2d.js.php:617 table-output.php:163
+#: table-output.php:389 table-output.php:542 marine-data.php:127
+#: marine-data.php:129
+msgid "Captain"
+msgstr ""
+
+#: js/map-marine.3d.js.php:138 js/map-marine.3d.js.php:145
+#: js/map-marine.2d.js.php:617 js/map-marine.2d.js.php:619 tools-geoid.php:36
+#: search.php:566
+msgid "Latitude"
+msgstr ""
+
+#: js/map-marine.3d.js.php:138 js/map-marine.3d.js.php:145
+#: js/map-marine.2d.js.php:617 js/map-marine.2d.js.php:619 tools-geoid.php:42
+#: search.php:572
+msgid "Longitude"
+msgstr ""
+
+#: js/map-marine.3d.js.php:138 js/map-marine.3d.js.php:145
+#: js/map-marine.2d.js.php:617 js/map-marine.2d.js.php:619
+msgid "Last update"
+msgstr ""
+
+#: js/map-marine.2d.js.php:49
+msgid "Vessels detected"
+msgstr ""
+
+#: js/map-marine.2d.js.php:814
+msgid "Name:"
+msgstr ""
+
+#: js/map-marine.2d.js.php:821
+msgid "port startline buoy"
+msgstr ""
+
+#: js/map-marine.2d.js.php:823
+msgid "starboard startline buoy"
+msgstr ""
+
+#: js/map-marine.2d.js.php:825
+msgid "buoy starboard round (clockwise)"
+msgstr ""
+
+#: js/map-marine.2d.js.php:827
+msgid "buoy port round (counter clockwise)"
+msgstr ""
+
+#: js/map-marine.2d.js.php:829
+msgid "port finishline buoy"
+msgstr ""
+
+#: js/map-marine.2d.js.php:831
+msgid "starboard finishline buoy"
+msgstr ""
+
+#: js/map-satellite.2d.js.php:37
+msgid "Satellites displayed"
+msgstr ""
+
+#: date-statistics-airline.php:14
+#, php-format
+msgid "Most Common Airlines on %s"
+msgstr ""
+
+#: date-statistics-airline.php:38
+#, php-format
+msgid ""
+"The statistic below shows the most common airlines of flights on <strong>%s</"
+"strong>."
+msgstr ""
+
+#: owner-statistics-arrival-airport.php:38
+#, php-format
+msgid ""
+"The statistic below shows all arrival airports of flights owned by <strong>"
+"%s</strong>."
+msgstr ""
+
+#: flightid-overview.php:312
+msgid "Flight Information"
+msgstr ""
+
+#: flightid-overview.php:314
+msgid "Ident/Callsign"
+msgstr ""
+
+#: flightid-overview.php:347 flightid-overview.php:361
+#: flightid-overview.php:377
+msgid "N/A"
+msgstr ""
+
+#: flightid-overview.php:464
+msgid "Ground Speed"
+msgstr ""
+
+#: flightid-overview.php:487
+msgid "Heading (degrees)"
+msgstr ""
+
+#: flightid-overview.php:542
+msgid "Flight spotted duration"
+msgstr ""
+
+#: flightid-overview.php:552
+msgid "Distance from Departure Airport"
+msgstr ""
+
+#: flightid-overview.php:580
+msgid "Distance to Arrival Airport"
+msgstr ""
+
+#: flightid-overview.php:617
+msgid "Last 5 Flights of this Aircraft"
+msgstr ""
+
+#: flightid-overview.php:647
+msgid "Sorry, this flight is not in the database. :("
+msgstr ""
+
+#: index.php:31
+msgid "Home"
+msgstr ""
+
+#: index.php:34
+msgid "JavaScript <b>MUST</b> be enabled"
+msgstr ""
+
+#: index.php:37
+msgid "Session has timed-out"
+msgstr ""
+
+#: index.php:38
+msgid ""
+"In order to save data consumption web page times out after 30 minutes. Close "
+"this dialog to continue."
+msgstr ""
+
+#: index.php:52
+msgid "Aircraft Detected"
+msgstr ""
+
+#: index.php:53
+msgid "Vessels Detected"
+msgstr ""
+
+#: index.php:54
+msgid "Trackers Detected"
+msgstr ""
+
+#: index.php:55
+msgid "Satellites Displayed"
+msgstr ""
+
+#: index.php:90
+msgid "Zoom in"
+msgstr ""
+
+#: index.php:91
+msgid "Zoom out"
+msgstr ""
+
+#: index.php:92
+msgid "Plot your Location"
+msgstr ""
+
+#: index.php:93
+msgid "Compass Mode"
+msgstr ""
+
+#: index.php:103
+msgid "Layers"
+msgstr ""
+
+#: index.php:104 index.php:672
+msgid "Filters"
+msgstr ""
+
+#: index.php:105 index.php:328
+msgid "Settings"
+msgstr ""
+
+#: index.php:109 index.php:850 header.php:658
+msgid "Satellites"
+msgstr ""
+
+#: index.php:140
+msgid "Weather Winds"
+msgstr ""
+
+#: index.php:141
+msgid "Ocean surface currents"
+msgstr ""
+
+#: index.php:142 index.php:170
+msgid "NASA Fire Hotspots"
+msgstr ""
+
+#: index.php:143
+msgid "Weather Waves height background"
+msgstr ""
+
+#: index.php:148
+msgid "Weather Precipitation"
+msgstr ""
+
+#: index.php:149
+msgid "Weather Clouds"
+msgstr ""
+
+#: index.php:165
+msgid "Display 3D weather"
+msgstr ""
+
+#: index.php:166
+msgid "Display rain on 3D map"
+msgstr ""
+
+#: index.php:186 index.php:207
+msgid "Display waypoints"
+msgstr ""
+
+#: index.php:187 index.php:208
+msgid "Display airspace"
+msgstr ""
+
+#: index.php:192 index.php:213
+msgid "Display OpenSeaMap"
+msgstr ""
+
+#: index.php:228
+msgid "Display NOTAM"
+msgstr ""
+
+#: index.php:229
+msgid "NOTAM scope:"
+msgstr ""
+
+#: index.php:256
+msgid "Playback"
+msgstr ""
+
+#: index.php:270
+msgid "To:"
+msgstr ""
+
+#: index.php:302
+msgid "Playback speed:"
+msgstr ""
+
+#: index.php:311 index.php:315
+msgid "Show archive"
+msgstr ""
+
+#: index.php:321
+msgid "Back from archive view"
+msgstr ""
+
+#: index.php:331
+msgid "Type of Map:"
+msgstr ""
+
+#: index.php:438
+msgid "Type of Terrain:"
+msgstr ""
+
+#: index.php:454
+msgid "Use same type of map for 2D & 3D"
+msgstr ""
+
+#: index.php:461
+msgid "Display 2.5D buidings on map"
+msgstr ""
+
+#: index.php:466
+msgid "Display flight info as popup"
+msgstr ""
+
+#: index.php:467
+msgid "Display flight path"
+msgstr ""
+
+#: index.php:468
+msgid "Display flight route on click"
+msgstr ""
+
+#: index.php:469
+msgid "Display flight remaining route on click"
+msgstr ""
+
+#: index.php:470
+msgid "Planes animate between updates"
+msgstr ""
+
+#: index.php:474
+msgid "Enable map matching"
+msgstr ""
+
+#: index.php:479
+msgid "Satellites animate between updates"
+msgstr ""
+
+#: index.php:485
+msgid "Display airports on map"
+msgstr ""
+
+#: index.php:489
+msgid "Display ground station on map"
+msgstr ""
+
+#: index.php:490
+msgid "Display weather station on map"
+msgstr ""
+
+#: index.php:491
+msgid "Display lightning on map"
+msgstr ""
+
+#: index.php:495
+msgid "Display fires on map"
+msgstr ""
+
+#: index.php:500
+msgid "Only display selected flight on 3D mode"
+msgstr ""
+
+#: index.php:504
+msgid "Enable globe sun lighting"
+msgstr ""
+
+#: index.php:508
+msgid "Show mini-map"
+msgstr ""
+
+#: index.php:509
+msgid "Use shadows"
+msgstr ""
+
+#: index.php:510
+msgid "Use same 3D model for all aircraft (use fewer resources)"
+msgstr ""
+
+#: index.php:511
+msgid "Display realtime data in infobox"
+msgstr ""
+
+#: index.php:516
+msgid "Show Santa Claus now"
+msgstr ""
+
+#: index.php:524 index.php:534
+msgid "Display polar on map"
+msgstr ""
+
+#: index.php:545
+msgid "Max number of flights to display in 2D:"
+msgstr ""
+
+#: index.php:553
+msgid "Aircraft icon color based on altitude"
+msgstr ""
+
+#: index.php:557 index.php:612
+msgid "Aircraft icon color:"
+msgstr ""
+
+#: index.php:567 index.php:622
+msgid "Marine icon color:"
+msgstr ""
+
+#: index.php:578 index.php:632
+msgid "Tracker icon color:"
+msgstr ""
+
+#: index.php:588
+msgid "Show airport icon at zoom level:"
+msgstr ""
+
+#: index.php:600
+msgid "Set scaling factor for rendering resolution:"
+msgstr ""
+
+#: index.php:609
+msgid "Max number of flights to display in 3D:"
+msgstr ""
+
+#: index.php:610
+msgid "Use airlines liveries"
+msgstr ""
+
+#: index.php:611
+msgid "Force Aircraft color"
+msgstr ""
+
+#: index.php:621
+msgid "Force Marine color"
+msgstr ""
+
+#: index.php:631
+msgid "Force Tracker color"
+msgstr ""
+
+#: index.php:639
+msgid "Distance unit:"
+msgstr ""
+
+#: index.php:646
+msgid "Altitude unit:"
+msgstr ""
+
+#: index.php:652
+msgid "Speed unit:"
+msgstr ""
+
+#: index.php:659
+msgid "Coordinate unit:"
+msgstr ""
+
+#: index.php:669
+msgid "Any change in settings reload page"
+msgstr ""
+
+#: index.php:681
+msgid "Display VATSIM data"
+msgstr ""
+
+#: index.php:682
+msgid "Display IVAO data"
+msgstr ""
+
+#: index.php:683
+msgid "Display phpVMS data"
+msgstr ""
+
+#: index.php:691
+msgid "Display ADS-B data"
+msgstr ""
+
+#: index.php:694
+msgid "Display APRS data"
+msgstr ""
+
+#: index.php:696
+msgid "Only display FAA ASDI blocked aircrafts"
+msgstr ""
+
+#: index.php:700
+msgid "Display airlines:"
+msgstr ""
+
+#: index.php:727
+msgid "Display alliance:"
+msgstr ""
+
+#: index.php:730 index.php:789 index.php:817 airline.php:46
+msgid "All"
+msgstr ""
+
+#: index.php:752
+msgid "Display APRS sources name:"
+msgstr ""
+
+#: index.php:787
+msgid "Display airlines of type:"
+msgstr ""
+
+#: index.php:790 airline.php:48
+msgid "Passenger"
+msgstr ""
+
+#: index.php:791 airline.php:50
+msgid "Cargo"
+msgstr ""
+
+#: index.php:805
+msgid "Display vessels with MMSI:"
+msgstr ""
+
+#: index.php:815
+msgid "Display race:"
+msgstr ""
+
+#: index.php:836
+msgid "Display with ident:"
+msgstr ""
+
+#: index.php:842 index.php:843
+msgid "Remove all filters"
+msgstr ""
+
+#: index.php:853
+msgid "Show ISS, Tiangong-1 and Tiangong-2 on map"
+msgstr ""
+
+#: tracker-data.php:97 aircraft-data.php:146
+msgid "Ground Altitude"
+msgstr ""
+
+#: tracker-data.php:137 marine-data.php:140 aircraft-data.php:230
+msgid "Over country"
+msgstr ""
+
+#: tracker-data.php:142 marine-data.php:160 aircraft-data.php:235
+#: aircraft-data.php:247
+msgid "Source"
+msgstr ""
+
+#: tracker-data.php:147 table-output.php:168 table-output.php:392
+#: table-output.php:545 marine-data.php:165
+msgid "Comment"
+msgstr ""
+
+#: acars-archive.php:6 acars-archive.php:30
+msgid "Archived ACARS messages"
+msgstr ""
+
+#: acars-archive.php:34
+msgid "The table below shows the archived ACARS messages."
+msgstr ""
+
+#: notam-data.php:23
+msgid "Begin/End"
+msgstr ""
+
+#: notam-data.php:32
+msgid "FIR"
+msgstr ""
+
+#: notam-data.php:38
+msgid "Code"
+msgstr ""
+
+#: notam-data.php:44
+msgid "Subject"
+msgstr ""
+
+#: notam-data.php:50
+msgid "Scope"
+msgstr ""
+
+#: notam-data.php:56
+msgid "Limits"
+msgstr ""
+
+#: notam-data.php:62
+msgid "Text"
+msgstr ""
+
+#: statistics-date.php:6 statistics-date.php:32
+msgid "Busiest Day"
+msgstr ""
+
+#: statistics-date.php:34
+msgid ""
+"Below is a chart that plots the busiest day during the <strong>last 7 days</"
+"strong>."
+msgstr ""
+
+#: statistics-date.php:60
+#, php-format
+msgid ""
+"Below are the <strong>Top 10</strong> most busiest dates of last %d month(s)."
+msgstr ""
+
+#: statistics-date.php:62
+msgid "Below are the <strong>Top 10</strong> most busiest dates."
+msgstr ""
+
+#: statistics-date.php:74
+msgid "# of Flights"
+msgstr ""
+
+#: manufacturer-statistics-route.php:18 airline-statistics-route.php:22
+#: country-statistics-route.php:21
+#, php-format
+msgid "Most Common Routes from %s"
+msgstr ""
+
+#: manufacturer-statistics-route.php:47 airline-statistics-route.php:96
+#: airport-statistics-route.php:61 country-statistics-route.php:53
+#: date-statistics-route.php:35 owner-statistics-route.php:37
+#: ident-statistics-route.php:26 pilot-statistics-route.php:31
+#: registration-statistics-route.php:26 aircraft-statistics-route.php:54
+msgid "Most Common Routes"
+msgstr ""
+
+#: manufacturer-statistics-route.php:48 airline-statistics-route.php:98
+#: airline-statistics-route.php:100
+#, php-format
+msgid ""
+"The statistic below shows the most common routes from <strong>%s</strong>."
+msgstr ""
+
+#: manufacturer-statistics-route.php:79 airline-statistics-route.php:135
+msgid "Search Flights"
+msgstr ""
+
+#: manufacturer-statistics-route.php:82
+msgid "Route History"
+msgstr ""
+
+#: country-statistics-registration.php:20
+#, php-format
+msgid "Most Common Aircraft by registration from %s"
+msgstr ""
+
+#: country-statistics-registration.php:44
+#: country-statistics-arrival-airport-country.php:45
+#: country-statistics-airline.php:44 country-statistics-aircraft.php:42
+#: country-statistics-route.php:45 country-statistics-manufacturer.php:44
+#: country-statistics-time.php:45 country-detailed.php:76
+#: country-statistics-departure-airport-country.php:45
+#: country-statistics-airline-country.php:45
+#: country-statistics-arrival-airport.php:42
+#: country-statistics-departure-airport.php:44
+#, php-format
+msgid "Airports &amp; Airlines from %s"
+msgstr ""
+
+#: country-statistics-registration.php:47
+#: country-statistics-arrival-airport-country.php:48
+#: country-statistics-airline.php:47 country-statistics-aircraft.php:45
+#: country-statistics-route.php:48 country-statistics-manufacturer.php:47
+#: country-statistics-time.php:48 country-detailed.php:79
+#: country-statistics-departure-airport-country.php:48
+#: country-statistics-airline-country.php:48
+#: country-statistics-arrival-airport.php:45
+#: country-statistics-departure-airport.php:47
+msgid ""
+"This special country profile shows all flights that do <u>not</u> have a "
+"country of a airline or departure/arrival airport associated with them."
+msgstr ""
+
+#: country-statistics-registration.php:53
+#, php-format
+msgid ""
+"The statistic below shows the most common aircraft by registration of "
+"airlines or departure/arrival airports from <strong>%s</strong>."
+msgstr ""
+
+#: country-statistics-registration.php:111
+#: country-statistics-arrival-airport-country.php:134
+#: country-statistics-airline.php:107 country-statistics-aircraft.php:87
+#: country-statistics-route.php:97 country-statistics-manufacturer.php:88
+#: country-statistics-time.php:117 country-detailed.php:102
+#: country-statistics-departure-airport-country.php:133
+#: country-statistics-airline-country.php:132
+#: country-statistics-arrival-airport.php:138
+#: country-statistics-departure-airport.php:141
+msgid "Sorry, the country does not exist in this database. :("
+msgstr ""
+
+#: aircraft-statistics-arrival-airport.php:20
+#, php-format
+msgid "Most Common Arrival Airports for %s (%s)"
+msgstr ""
+
+#: aircraft-statistics-arrival-airport.php:59
+#, php-format
+msgid ""
+"The statistic below shows all arrival airports of flights from <strong>%s "
+"(%s)</strong>."
+msgstr ""
+
+#: country-statistics-arrival-airport-country.php:21
+#: airline-statistics-arrival-airport-country.php:22
+#: manufacturer-statistics-arrival-airport-country.php:18
+#, php-format
+msgid "Most Common Arrival Airports by Country from %s"
+msgstr ""
+
+#: country-statistics-arrival-airport-country.php:54
+#, php-format
+msgid ""
+"The statistic below shows all arrival airports by Country of origin of "
+"flights of airports &amp; airlines from <strong>%s</strong>."
+msgstr ""
+
+#: pilot-statistics-registration.php:32
+#, php-format
+msgid ""
+"The statistic below shows the most common aircraft by Registration of "
+"flights piloted by <strong>%s</strong>."
+msgstr ""
+
+#: airline-statistics-route.php:24 aircraft-statistics-route.php:17
+#, php-format
+msgid "Most Common Routes from %s (%s)"
+msgstr ""
+
+#: statistics-airline-country.php:6 statistics-airline-country.php:17
+msgid "Most common Airline by Country"
+msgstr ""
+
+#: statistics-airline-country.php:19
+msgid ""
+"Below are the <strong>Top 10</strong> countries that an airline belongs to."
+msgstr ""
+
+#: airport-statistics-departure-airport.php:17
+#, php-format
+msgid "Most Common Departure Airports to %s, %s (%s)"
+msgstr ""
+
+#: airport-statistics-departure-airport.php:60
+#, php-format
+msgid ""
+"The statistic below shows all departure airports of flights to <strong>%s, "
+"%s (%s)</strong>."
+msgstr ""
+
+#: country-statistics-airline.php:53
+#, php-format
+msgid ""
+"The statistic below shows the most common airlines of flights from airports "
+"&amp; airlines of <strong>%s</strong>."
+msgstr ""
+
+#: date-detailed.php:61
+#, php-format
+msgid "Detailed View for vessels from %s"
+msgstr ""
+
+#: date-detailed.php:62
+#, php-format
+msgid "Detailed View for trackers from %s"
+msgstr ""
+
+#: date-detailed.php:63
+#, php-format
+msgid "Detailed View for flights from %s"
+msgstr ""
+
+#: date-detailed.php:81
+#, php-format
+msgid "Vessels from %s"
+msgstr ""
+
+#: date-detailed.php:87
+#, php-format
+msgid ""
+"The table below shows the detailed information of all vessels on <strong>%s</"
+"strong>."
+msgstr ""
+
+#: date-detailed.php:88
+#, php-format
+msgid ""
+"The table below shows the detailed information of all trackers on <strong>"
+"%s</strong>."
+msgstr ""
+
+#: date-detailed.php:89
+#, php-format
+msgid ""
+"The table below shows the detailed information of all flights on <strong>%s</"
+"strong>."
+msgstr ""
+
+#: airline-statistics-manufacturer.php:22
+#: country-statistics-manufacturer.php:20
+#, php-format
+msgid "Most Common Aircraft Manufacturer from %s"
+msgstr ""
+
+#: airline-statistics-manufacturer.php:24
+#, php-format
+msgid "Most Common Aircraft Manufacturer from %s (%s)"
+msgstr ""
+
+#: airline-statistics-manufacturer.php:98
+#: airline-statistics-manufacturer.php:100
+#, php-format
+msgid ""
+"The statistic below shows the most common Aircraft Manufacturer of flights "
+"from <strong>%s</strong>."
+msgstr ""
+
+#: statistics-owner.php:6
+msgid "Most common owners"
+msgstr ""
+
+#: statistics-owner.php:20
+msgid "Most common owner"
+msgstr ""
+
+#: statistics-owner.php:22
+msgid "Below are the <strong>Top 10</strong> most common owner."
+msgstr ""
+
+#: statistics-owner.php:47
+msgid "Owner Name"
+msgstr ""
+
+#: owner-statistics-manufacturer.php:26 ident-statistics-manufacturer.php:16
+#: pilot-statistics-manufacturer.php:21
+#, php-format
+msgid "Most Common Aircraft Manufacturer of %s"
+msgstr ""
+
+#: owner-statistics-manufacturer.php:37
+#, php-format
+msgid ""
+"The statistic below shows the most common Aircraft Manufacturer of flights "
+"owned by <strong>%s</strong>."
+msgstr ""
+
+#: airport-statistics-route.php:17
+#, php-format
+msgid "Most Common Routes to/from %s, %s (%s)"
+msgstr ""
+
+#: airport-statistics-route.php:62
+#, php-format
+msgid ""
+"The statistic below shows the most common routes to/from <strong>%s, %s "
+"(%s)</strong>."
+msgstr ""
+
+#: ident-statistics-airline.php:27
+#, php-format
+msgid ""
+"The statistic below shows the most common airlines of flights using the "
+"ident/callsign <strong>%s</strong>."
+msgstr ""
+
+#: country-statistics-aircraft.php:17 manufacturer-statistics-aircraft.php:17
+#: airline-statistics-aircraft.php:23
+#, php-format
+msgid "Most Common Aircraft from %s"
+msgstr ""
+
+#: country-statistics-aircraft.php:50 date-statistics-aircraft.php:36
+#: manufacturer-statistics-aircraft.php:46 route-statistics-aircraft.php:28
+#: pilot-statistics-aircraft.php:35 airport-statistics-aircraft.php:61
+#: airline-statistics-aircraft.php:97 ident-statistics-aircraft.php:30
+#: owner-statistics-aircraft.php:38
+msgid "Most Common Aircraft"
+msgstr ""
+
+#: country-statistics-aircraft.php:51 manufacturer-statistics-aircraft.php:47
+#: airline-statistics-aircraft.php:99 airline-statistics-aircraft.php:101
+#, php-format
+msgid ""
+"The statistic below shows the most common aircraft of flights from <strong>"
+"%s</strong>."
+msgstr ""
+
+#: ident-statistics-arrival-airport-country.php:27
+#, php-format
+msgid ""
+"The statistic below shows all arrival airports by Country of origin of "
+"flights with the ident/callsign <strong>%s</strong>."
+msgstr ""
+
+#: statistics-race.php:19
+msgid ""
+"Below are the <strong>Top 10</strong> races with the most number of "
+"participants."
+msgstr ""
+
+#: statistics-race.php:44
+msgid "Race Name"
+msgstr ""
+
+#: statistics-race.php:45
+msgid "# of captains"
+msgstr ""
+
+#: registration-statistics-arrival-airport.php:15
+#, php-format
+msgid "Most Common Arrival Airports of aircraft with registration %s"
+msgstr ""
+
+#: registration-statistics-arrival-airport.php:28
+#, php-format
+msgid ""
+"The statistic below shows all arrival airports of flights with aircraft "
+"registration <strong>%s</strong>."
+msgstr ""
+
+#: registration-statistics-arrival-airport.php:115
+#: registration-statistics-time.php:88 registration-statistics-route.php:71
+#: registration-detailed.php:72
+#: registration-statistics-arrival-airport-country.php:104
+#: registration-statistics-departure-airport-country.php:105
+#: registration-statistics-departure-airport.php:118
+msgid "Sorry, this registration does not exist in this database. :("
+msgstr ""
+
+#: airport-statistics-airline-country.php:17
+#, php-format
+msgid "Most Common Airlines by Country to/from %s, %s (%s)"
+msgstr ""
+
+#: airport-statistics-airline-country.php:55
+msgid ""
+"This special airport profile shows all flights that do NOT have a departure "
+"and/or arrival airport associated with them."
+msgstr ""
+
+#: airport-statistics-airline-country.php:60
+#: route-statistics-airline-country.php:28
+#: aircraft-statistics-airline-country.php:56
+#: date-statistics-airline-country.php:37
+#: country-statistics-airline-country.php:53 archive-country.php:32
+#: manufacturer-statistics-airline-country.php:46
+msgid "Most Common Airlines by Country"
+msgstr ""
+
+#: airport-statistics-airline-country.php:61
+#, php-format
+msgid ""
+"The statistic below shows the most common airlines by Country of origin of "
+"flights to/from <strong>%s, %s (%s)</strong>."
+msgstr ""
+
+#: currently.php:49 header.php:490 header.php:592 header.php:633 header.php:676
+msgid "Current Activity"
+msgstr ""
+
+#: currently.php:53
+msgid "The table below shows the detailed information of all current flights."
+msgstr ""
+
+#: currently.php:54
+msgid "The table below shows the detailed information of all current vessels."
+msgstr ""
+
+#: currently.php:55
+msgid "The table below shows the detailed information of all current trackers."
+msgstr ""
+
+#: header.php:418 news.php:7 news.php:38
+msgid "News"
+msgstr ""
+
+#: header.php:459
+msgid "Aircraft News"
+msgstr ""
+
+#: header.php:465 header.php:581 header.php:631 header.php:674
+msgid "Explore"
+msgstr ""
+
+#: header.php:467 aircraft.php:13 aircraft.php:16
+msgid "Aircraft Types"
+msgstr ""
+
+#: header.php:475 airport.php:115 airport.php:118
+msgid "Airports"
+msgstr ""
+
+#: header.php:492 header.php:594 header.php:635 header.php:678
+msgid "Today's Activity"
+msgstr ""
+
+#: header.php:493
+msgid "Newest by Category"
+msgstr ""
+
+#: header.php:499
+msgid "ACARS data not available publicly"
+msgstr ""
+
+#: header.php:500 header.php:506 acars-latest.php:6 acars-latest.php:32
+msgid "Latest ACARS messages"
+msgstr ""
+
+#: header.php:501 header.php:507
+msgid "Archive ACARS messages"
+msgstr ""
+
+#: header.php:516
+msgid "Latest accident"
+msgstr ""
+
+#: header.php:517
+msgid "Today's Accident"
+msgstr ""
+
+#: header.php:518
+msgid "Latest incident"
+msgstr ""
+
+#: header.php:519
+msgid "Today's Incident"
+msgstr ""
+
+#: header.php:524 highlights-display.php:6 highlights-display.php:36
+msgid "Special Highlights"
+msgstr ""
+
+#: header.php:528
+msgid "Upcoming Flights"
+msgstr ""
+
+#: header.php:534 header.php:596 header.php:638 header.php:746 header.php:747
+#: search.php:19 search.php:341 search.php:348 search.php:756
+msgid "Search"
+msgstr ""
+
+#: header.php:537
+msgid "Tools"
+msgstr ""
+
+#: header.php:539
+msgid "ACARS translator"
+msgstr ""
+
+#: header.php:540
+msgid "METAR translator"
+msgstr ""
+
+#: header.php:541
+msgid "NOTAM translator"
+msgstr ""
+
+#: header.php:545 tools-geoid.php:8 tools-geoid.php:11 tools-geoid.php:18
+#: tools-geoid.php:28
+msgid "Geoid Height Calculator"
+msgstr ""
+
+#: header.php:567
+msgid "Marines"
+msgstr ""
+
+#: header.php:576
+msgid "Marines News"
+msgstr ""
+
+#: header.php:626
+msgid "Trackers News"
+msgstr ""
+
+#: header.php:667
+msgid "Satellites News"
+msgstr ""
+
+#: header.php:696
+msgid "About"
+msgstr ""
+
+#: header.php:698
+msgid "About The Project"
+msgstr ""
+
+#: header.php:702
+msgid "Exporting Data"
+msgstr ""
+
+#: header.php:704
+msgid "Spotter TV"
+msgstr ""
+
+#: header.php:710
+msgid "Contribute"
+msgstr ""
+
+#: header.php:715
+msgid "Report any Issues"
+msgstr ""
+
+#: country-statistics-route.php:54
+#, php-format
+msgid ""
+"The statistic below shows the most common routes of airports &amp; airlines "
+"from <strong>%s</strong>."
+msgstr ""
+
+#: registration-statistics-time.php:13
+#, php-format
+msgid "Most Common Time of Day of aircraft with registration %s"
+msgstr ""
+
+#: registration-statistics-time.php:26
+#, php-format
+msgid ""
+"The statistic below shows the most common time of day from aircraft with "
+"registration <strong>%s</strong>."
+msgstr ""
+
+#: date-statistics-route.php:12
+#, php-format
+msgid "Most Common Routes on %s"
+msgstr ""
+
+#: date-statistics-route.php:36
+#, php-format
+msgid ""
+"The statistic below shows the most common routes on <strong>%s</strong>."
+msgstr ""
+
+#: ident-detailed.php:208 aircraft-data.php:80
+msgid "Callsign is in blocked FAA list"
+msgstr ""
+
+#: ident-detailed.php:212
+msgid "Flight History"
+msgstr ""
+
+#: ident-detailed.php:212
+msgid "View the Flight History of this callsign"
+msgstr ""
+
+#: ident-detailed.php:217
+#, php-format
+msgid ""
+"The table below shows the detailed information of all flights with the ident/"
+"callsign of <strong>%s</strong>."
+msgstr ""
+
+#: ident-detailed.php:218
+#, php-format
+msgid ""
+"The table below shows the detailed information of all vessels with the ident/"
+"callsign of <strong>%s</strong>."
+msgstr ""
+
+#: ident-detailed.php:219
+#, php-format
+msgid ""
+"The table below shows the detailed information of all trackers with the "
+"ident/callsign of <strong>%s</strong>."
+msgstr ""
+
+#: manufacturer-statistics-departure-airport-country.php:17
+#, php-format
+msgid "'Most Common Departure Airports by Country from %s"
+msgstr ""
+
+#: manufacturer-statistics-departure-airport-country.php:47
+#: airline-statistics-departure-airport-country.php:98
+#: airline-statistics-departure-airport-country.php:100
+#, php-format
+msgid ""
+"The statistic below shows all departure airports by Country of origin of "
+"flights from <strong>%s</strong>."
+msgstr ""
+
+#: date-statistics-aircraft.php:13
+#, php-format
+msgid "Most Common Aircraft on %s"
+msgstr ""
+
+#: date-statistics-aircraft.php:37
+#, php-format
+msgid ""
+"The statistic below shows the most common aircraft of flights on <strong>%s</"
+"strong>."
+msgstr ""
+
+#: registration-sub-menu.php:8
+msgid "This aircraft has a Highlight:"
+msgstr ""
+
+#: manufacturer-statistics-departure-airport.php:17
+#: country-statistics-departure-airport.php:21
+#: airline-statistics-departure-airport.php:22
+#, php-format
+msgid "Most Common Departure Airports from %s"
+msgstr ""
+
+#: manufacturer-statistics-departure-airport.php:47
+#: airline-statistics-departure-airport.php:98
+#: airline-statistics-departure-airport.php:100
+#, php-format
+msgid ""
+"The statistic below shows all departure airports of flights from <strong>%s</"
+"strong>."
+msgstr ""
+
+#: statistics-time.php:34
+msgid "Below is a list of the most common <strong>time of day</strong>."
+msgstr ""
+
+#: airport-statistics-manufacturer.php:17
+#, php-format
+msgid "Most Common Aircraft Manufacturer to/from %s, %s (%s)"
+msgstr ""
+
+#: airport-statistics-manufacturer.php:62
+#, php-format
+msgid ""
+"The statistic below shows the most common Aircraft Manufacturer of flights "
+"to/from <strong>%s, %s (%s)</strong>."
+msgstr ""
+
+#: accident-detailed.php:6 accident-latest.php:6
+msgid "Latest accidents"
+msgstr ""
+
+#: accident-detailed.php:52 accident-detailed.php:54 accident-detailed.php:56
+#, php-format
+msgid "Accidents from %s"
+msgstr ""
+
+#: accident-detailed.php:63 accident-detailed.php:65 accident-detailed.php:67
+#, php-format
+msgid "The table below shows the Accidents on <strong>%s</strong>."
+msgstr ""
+
+#: date-statistics-time.php:12
+#, php-format
+msgid "Most Common Time of Day on %s"
+msgstr ""
+
+#: date-statistics-time.php:35
+#, php-format
+msgid ""
+"The statistic below shows the most common time of day on <strong>%s</strong>."
+msgstr ""
+
+#: upcoming.php:36
+msgid ""
+"This page shows all upcoming flights within the next 3 hours calculated "
+"using historical data, based on the number of same flights on the current "
+"day of the week &amp; current time. This does not take into account real-"
+"time delays and other factors."
+msgstr ""
+
+#: manufacturer-statistics-registration.php:17
+#: airline-statistics-registration.php:23
+#, php-format
+msgid "Most Common Aircraft by Registration from %s"
+msgstr ""
+
+#: manufacturer-statistics-registration.php:47
+#, php-format
+msgid ""
+"The statistic below shows the most common aircraft by registration of "
+"flights from <strong>%s</strong>."
+msgstr ""
+
+#: country-statistics-manufacturer.php:53
+#, php-format
+msgid ""
+"The statistic below shows the most common Aircraft Manufacturer of airlines "
+"or departure/arrival airports from <strong>%s</strong>."
+msgstr ""
+
+#: incident-detailed.php:6 incident-latest.php:6 incident-latest.php:32
+msgid "Latest incidents"
+msgstr ""
+
+#: incident-detailed.php:51
+#, php-format
+msgid "Incidents from %s"
+msgstr ""
+
+#: incident-detailed.php:55
+#, php-format
+msgid "The table below shows the Incidents on <strong>%s</strong>."
+msgstr ""
+
+#: statistics-country.php:11 statistics-country.php:37
+msgid "Most common Country a vessel was inside"
+msgstr ""
+
+#: statistics-country.php:16 statistics-country.php:39
+msgid "Most common Country a tracker was inside"
+msgstr ""
+
+#: statistics-country.php:20 statistics-country.php:35
+msgid "Most common Country a flight was over"
+msgstr ""
+
+#: statistics-country.php:43
+msgid ""
+"Below are the <strong>Top 10</strong> most common country a flight was over."
+msgstr ""
+
+#: statistics-country.php:45
+msgid ""
+"Below are the <strong>Top 10</strong> most common country a vessel was "
+"inside."
+msgstr ""
+
+#: statistics-country.php:47
+msgid ""
+"Below are the <strong>Top 10</strong> most common country a tracker was "
+"inside."
+msgstr ""
+
+#: airline-statistics-arrival-airport.php:22
+#: manufacturer-statistics-arrival-airport.php:18
+#: country-statistics-arrival-airport.php:17
+#, php-format
+msgid "Most Common Arrival Airports from %s"
+msgstr ""
+
+#: airline-statistics-arrival-airport.php:24
+#, php-format
+msgid "Most Common Arrival Airports from %s (%s)"
+msgstr ""
+
+#: airline-statistics-arrival-airport.php:98
+#: airline-statistics-arrival-airport.php:100
+#: manufacturer-statistics-arrival-airport.php:48
+#, php-format
+msgid ""
+"The statistic below shows all arrival airports of flights from <strong>%s</"
+"strong>."
+msgstr ""
+
+#: tools-geoid.php:32
+msgid ""
+"Calculate geoid at a point. GPS use a theoretical sea level estimated by a "
+"World Geodetic System (WGS84), Earth Gravity Model is better."
+msgstr ""
+
+#: tools-geoid.php:48
+msgid "GPS Elevation"
+msgstr ""
+
+#: date-statistics-manufacturer.php:12
+#, php-format
+msgid "Most Common Aircraft Manufacturer on %s"
+msgstr ""
+
+#: date-statistics-manufacturer.php:36
+#, php-format
+msgid ""
+"The statistic below shows the most common Aircraft Manufacturer of flights "
+"on <strong>%s</strong>."
+msgstr ""
+
+#: ident-statistics-departure-airport.php:16
+#: owner-statistics-departure-airport.php:27
+#: pilot-statistics-departure-airport.php:21
+#, php-format
+msgid "Most Common Departure Airports of %s"
+msgstr ""
+
+#: ident-statistics-departure-airport.php:27
+#, php-format
+msgid ""
+"The statistic below shows all departure airports of flights with the ident/"
+"callsign <strong>%s</strong>."
+msgstr ""
+
+#: owner-statistics-route.php:27 ident-statistics-route.php:16
+#: pilot-statistics-route.php:21
+#, php-format
+msgid "Most Common Routes of %s"
+msgstr ""
+
+#: owner-statistics-route.php:38
+#, php-format
+msgid ""
+"The statistic below shows the most common routes from flights owner by "
+"<strong>%s</strong>."
+msgstr ""
+
+#: newest.php:13
+msgid "Newest"
+msgstr ""
+
+#: newest.php:57 newest.php:59
+msgid "Aircraft Registration"
+msgstr ""
+
+#: newest.php:92
+msgid "Newest Aircraft Type"
+msgstr ""
+
+#: newest.php:95
+msgid "Newest Aircraft Registration"
+msgstr ""
+
+#: newest.php:98
+msgid "Newest Airline"
+msgstr ""
+
+#: newest.php:101
+msgid "Newest Departure Airport"
+msgstr ""
+
+#: newest.php:104
+msgid "Newest Arrival Airport"
+msgstr ""
+
+#: newest.php:111
+msgid ""
+"The table below shows the detailed information sorted by the newest recorded "
+"aircraft type. Each aircraft type is grouped and is shown only once, the "
+"first time it flew nearby."
+msgstr ""
+
+#: newest.php:114
+msgid ""
+"The table below shows the detailed information sorted by the newest recorded "
+"aircraft by registration. Each aircraft registration is grouped and is shown "
+"only once, the first time it flew nearby."
+msgstr ""
+
+#: newest.php:117
+msgid ""
+"The table below shows the detailed information sorted by the newest recorded "
+"airline. Each airline is grouped and is shown only once, the first time it "
+"flew nearby."
+msgstr ""
+
+#: newest.php:120
+msgid ""
+"The table below shows the detailed information sorted by the newest recorded "
+"departure airport. Each departure airport is grouped and is shown only once, "
+"the first time an aircraft flew nearby from the airport."
+msgstr ""
+
+#: newest.php:123
+msgid ""
+"The table below shows the detailed information sorted by the newest recorded "
+"arrival airport. Each arrival airport is grouped and is shown only once, the "
+"first time an aircraft flew nearby to the airport."
+msgstr ""
+
+#: aircraft-statistics-arrival-airport-country.php:18
+#, php-format
+msgid "Most Common Arrival Airports by Country for %s (%s)"
+msgstr ""
+
+#: aircraft-statistics-arrival-airport-country.php:57
+#, php-format
+msgid ""
+"The statistic below shows all arrival airports by Country of origin of "
+"flights from <strong>%s (%s)</strong>."
+msgstr ""
+
+#: statistics-fatalities-year.php:16
+msgid "Below is a chart that plots the fatalities by <strong>year</strong>."
+msgstr ""
+
+#: statistics-fatalities-year.php:48
+msgid "Year"
+msgstr ""
+
+#: statistics-fatalities-year.php:49 statistics-fatalities-month.php:51
+msgid "# of Fatalities"
+msgstr ""
+
+#: pilot-statistics-departure-airport-country.php:21
+#: owner-statistics-departure-airport-country.php:27
+#, php-format
+msgid "Most Common Departure Airports by Owner of %s"
+msgstr ""
+
+#: pilot-statistics-departure-airport-country.php:31
+#, php-format
+msgid ""
+"The statistic below shows all departure airports by Country of origin of "
+"flights piloted by <strong>%s</strong>."
+msgstr ""
+
+#: ident-statistics-manufacturer.php:27
+#, php-format
+msgid ""
+"The statistic below shows the most common Aircraft Manufacturer of flights "
+"using the ident/callsign <strong>%s</strong>."
+msgstr ""
+
+#: route-statistics-aircraft.php:18
+#, php-format
+msgid "Most Common Aircraft between %s (%s), %s - %s (%s), %s"
+msgstr ""
+
+#: route-statistics-aircraft.php:29
+#, php-format
+msgid ""
+"The statistic below shows the most common aircraft of flights between "
+"<strong>%s (%s), %s</strong> and <strong>%s (%s), %s</strong>."
+msgstr ""
+
+#: pilot-statistics-aircraft.php:25 ident-statistics-aircraft.php:20
+#: owner-statistics-aircraft.php:28
+#, php-format
+msgid "Most Common Aircraft of %s"
+msgstr ""
+
+#: pilot-statistics-aircraft.php:36
+#, php-format
+msgid ""
+"The statistic below shows the most common aircraft of flights piloted by "
+"<strong>%s</strong>."
+msgstr ""
+
+#: ident-statistics-route.php:27
+#, php-format
+msgid ""
+"The statistic below shows the most common routes from flights with the ident/"
+"callsign <strong>%s</strong>."
+msgstr ""
+
+#: highlights-table.php:6 highlights-table.php:36
+msgid "Special Highlights - Table View"
+msgstr ""
+
+#: highlights-table.php:33
+msgid "Display View"
+msgstr ""
+
+#: highlights-table.php:34
+msgid "Table View"
+msgstr ""
+
+#: highlights-table.php:40
+msgid ""
+"The table below shows the detailed information of all custom selected "
+"flights who have special aspects to it, such as unique liveries, "
+"destinations etc."
+msgstr ""
+
+#: owner-detailed.php:84
+#, php-format
+msgid ""
+"The table below shows the detailed information of all flights with the owner "
+"<strong>%s</strong>."
+msgstr ""
+
+#: airline-statistics-arrival-airport-country.php:24
+#, php-format
+msgid "Most Common Arrival Airports by Country from %s (%s)"
+msgstr ""
+
+#: airline-statistics-arrival-airport-country.php:98
+#: airline-statistics-arrival-airport-country.php:100
+#: manufacturer-statistics-arrival-airport-country.php:48
+#, php-format
+msgid ""
+"The statistic below shows all arrival airports by Country of origin of "
+"flights from <strong>%s</strong>."
+msgstr ""
+
+#: statistics-manufacturer.php:6 statistics-manufacturer.php:23
+msgid "Most common Aircraft Manufacturer"
+msgstr ""
+
+#: statistics-manufacturer.php:25
+msgid ""
+"Below are the <strong>Top 10</strong> most common aircraft manufacturers."
+msgstr ""
+
+#: tools-metar.php:8 tools-metar.php:16
+msgid "Parse METAR messages"
+msgstr ""
+
+#: tools-metar.php:20
+msgid "Parse METAR messages and translate them in human readable format."
+msgstr ""
+
+#: tools-metar.php:24
+msgid "METAR Message"
+msgstr ""
+
+#: tools-metar.php:36
+msgid "METAR message in human readable format:"
+msgstr ""
+
+#: tools-metar.php:38
+msgid "Location:"
+msgstr ""
+
+#: tools-metar.php:42 airport-detailed.php:158 airport-data.php:82
+msgid "Wind:"
+msgstr ""
+
+#: tools-metar.php:54 airport-detailed.php:170 airport-data.php:94
+msgid "Visibility:"
+msgstr ""
+
+#: tools-metar.php:57 airport-detailed.php:173 airport-data.php:97
+msgid "Weather:"
+msgstr ""
+
+#: tools-metar.php:60
+msgid "Cloud:"
+msgstr ""
+
+#: tools-metar.php:68 airport-detailed.php:176 airport-data.php:100
+msgid "Temperature:"
+msgstr ""
+
+#: tools-metar.php:71 airport-detailed.php:179 airport-data.php:103
+msgid "Dew point:"
+msgstr ""
+
+#: tools-metar.php:75 airport-detailed.php:183 airport-data.php:107
+msgid "Humidity:"
+msgstr ""
+
+#: tools-metar.php:78 airport-detailed.php:186 airport-data.php:110
+msgid "Pressure:"
+msgstr ""
+
+#: tools-metar.php:81
+msgid "This METAR message can't be translated in human readable format :("
+msgstr ""
+
+#: route-statistics-airline-country.php:18
+#, php-format
+msgid "Most Common Airlines by Country between %s (%s), %s - %s (%s), %s"
+msgstr ""
+
+#: route-statistics-airline-country.php:29
+#, php-format
+msgid ""
+"The statistic below shows the most common airlines by Country of origin of "
+"flights between <strong>%s (%s), %s</strong> and <strong>%s (%s), %s</"
+"strong>."
+msgstr ""
+
+#: pilot-statistics-route.php:32
+#, php-format
+msgid ""
+"The statistic below shows the most common routes from flights piloted by "
+"<strong>%s</strong>."
+msgstr ""
+
+#: race-detailed.php:119
+msgid "race ID"
+msgstr ""
+
+#: race-detailed.php:130 captain-detailed.php:129
+msgid "Boat type"
+msgstr ""
+
+#: race-detailed.php:140
+msgid "Creator"
+msgstr ""
+
+#: race-detailed.php:146
+msgid "Start date"
+msgstr ""
+
+#: race-detailed.php:155
+#, php-format
+msgid ""
+"The table below shows the detailed information of all races with the race "
+"<strong>%s</strong>."
+msgstr ""
+
+#: race-detailed.php:173
+msgid "Sorry, this race is not in the database. :("
+msgstr ""
+
+#: highlights-display.php:40
+msgid ""
+"The view below shows all aircraft that have been selected to have some sort "
+"of special characteristic about them, such as unique liveries, destinations "
+"etc."
+msgstr ""
+
+#: news.php:43
+msgid "This page show latest news."
+msgstr ""
+
+#: ident-statistics-registration.php:27
+#, php-format
+msgid ""
+"The statistic below shows the most common aircraft by Registration of "
+"flights using the ident/callsign <strong>%s</strong>."
+msgstr ""
+
+#: incident-latest.php:36
+msgid "The table below shows the latest Incidents."
+msgstr ""
+
+#: aircraft-statistics-airline-country.php:18
+#, php-format
+msgid "Most Common Airlines by Country from %s (%s)"
+msgstr ""
+
+#: aircraft-statistics-airline-country.php:57
+#, php-format
+msgid ""
+"The statistic below shows the most common airlines by Country of origin of "
+"flights from <strong>%s (%s)</strong>."
+msgstr ""
+
+#: registration-statistics-route.php:14
+#, php-format
+msgid "Most Common Routes from aircraft with registration %s"
+msgstr ""
+
+#: registration-statistics-route.php:27
+#, php-format
+msgid ""
+"The statistic below shows the most common routes of aircraft with "
+"registration <strong>%s</strong>."
+msgstr ""
+
+#: airline-statistics-registration.php:100
+#: airline-statistics-registration.php:102
+#, php-format
+msgid ""
+"The statistic below shows the most common aircraft by their registration of "
+"flights from <strong>%s</strong>."
+msgstr ""
+
+#: aircraft-statistics-airline.php:18
+#, php-format
+msgid "Most Common Airlines from %s (%s)"
+msgstr ""
+
+#: aircraft-statistics-airline.php:56
+#, php-format
+msgid ""
+"The statistic below shows the most common airlines of flights from <strong>"
+"%s (%s)</strong>."
+msgstr ""
+
+#: owner-statistics-arrival-airport-country.php:38
+#, php-format
+msgid ""
+"The statistic below shows all arrival airports by Country of origin of "
+"flights owned by <strong>%s</strong>."
+msgstr ""
+
+#: airport-statistics-arrival-airport-country.php:17
+#, php-format
+msgid "Most Common Arrival Airports by Country from %s, %s (%s)"
+msgstr ""
+
+#: airport-statistics-arrival-airport-country.php:61
+#, php-format
+msgid ""
+"The statistic below shows all arrival airports by Country of origin of "
+"flights from <strong>%s, %s (%s)</strong>."
+msgstr ""
+
+#: route-statistics-airline.php:20
+#, php-format
+msgid "Most Common Airlines between %s (%s), %s - %s (%s), %s"
+msgstr ""
+
+#: route-statistics-airline.php:31
+#, php-format
+msgid ""
+"The statistic below shows the most common airlines of flights between "
+"<strong>%s (%s), %s</strong> and <strong>%s (%s), %s</strong>."
+msgstr ""
+
+#: owner-statistics-departure-airport-country.php:37
+#, php-format
+msgid ""
+"The statistic below shows all departure airports by Country of origin of "
+"flights owned by <strong>%s</strong>."
+msgstr ""
+
+#: location-data.php:22
+msgid "Lightning"
+msgstr ""
+
+#: location-data.php:23
+msgid "Weather Station"
+msgstr ""
+
+#: location-data.php:24
+msgid "Fire"
+msgstr ""
+
+#: location-data.php:39
+msgid "Last Seen"
+msgstr ""
+
+#: location-data.php:56
+msgid "Temperature"
+msgstr ""
+
+#: location-data.php:57
+msgid "Pressure"
+msgstr ""
+
+#: location-data.php:58
+msgid "Wind Gust"
+msgstr ""
+
+#: location-data.php:59
+msgid "Humidity"
+msgstr ""
+
+#: location-data.php:60
+msgid "Rain"
+msgstr ""
+
+#: location-data.php:61
+msgid "Precipitation 24H"
+msgstr ""
+
+#: location-data.php:62
+msgid "Precipitation Today"
+msgstr ""
+
+#: location-data.php:70 atc-data.php:51
+msgid "Info"
+msgstr ""
+
+#: owner-statistics-time.php:38
+#, php-format
+msgid ""
+"The statistic below shows the most common time of day of flights owned by "
+"<strong>%s</strong>."
+msgstr ""
+
+#: ident-statistics-time.php:27
+#, php-format
+msgid ""
+"The statistic below shows the most common time of day of flights with the "
+"ident/callsign <strong>%s</strong>."
+msgstr ""
+
+#: captain-detailed.php:118
+msgid "Captain ID"
+msgstr ""
+
+#: captain-detailed.php:137
+msgid "Total races spotted duration"
+msgstr ""
+
+#: captain-detailed.php:142
+#, php-format
+msgid ""
+"The table below shows the detailed information of all races with the captain "
+"<strong>%s</strong>."
+msgstr ""
+
+#: captain-detailed.php:160
+msgid "Sorry, this captain is not in the database. :("
+msgstr ""
+
+#: country-statistics-time.php:54
+#, php-format
+msgid ""
+"The statistic below shows the most common time of day of airports &amp; "
+"airlines from <strong>%s</strong>."
+msgstr ""
+
+#: airport-statistics-departure-airport-country.php:17
+#, php-format
+msgid "Most Common Departure Airports by Country to %s, %s (%s)"
+msgstr ""
+
+#: airport-statistics-departure-airport-country.php:61
+#, php-format
+msgid ""
+"The statistic below shows all departure airports by Country of origin of "
+"flights to <strong>%s, %s, (%s)</strong>."
+msgstr ""
+
+#: registration-detailed.php:43
+#, php-format
+msgid "Detailed View of aircraft with registration %s"
+msgstr ""
+
+#: registration-detailed.php:54
+#, php-format
+msgid ""
+"The table below shows the detailed information of all flights of aircraft "
+"with the registration <strong>%s</strong>."
+msgstr ""
+
+#: atc-data.php:29
+msgid "Frequency"
+msgstr ""
+
+#: atc-data.php:45
+msgid "Range"
+msgstr ""
+
+#: table-output.php:99 table-output.php:102 table-output.php:104
+#: table-output.php:207 table-output.php:210 table-output.php:212
+#: table-output.php:336 table-output.php:339 table-output.php:341
+#: table-output.php:487 table-output.php:490 table-output.php:492
+msgid "Coming from"
+msgstr ""
+
+#: table-output.php:99 table-output.php:102 table-output.php:104
+#: table-output.php:207 table-output.php:210 table-output.php:212
+#: table-output.php:336 table-output.php:339 table-output.php:341
+#: table-output.php:487 table-output.php:490 table-output.php:492
+msgid "From"
+msgstr ""
+
+#: table-output.php:118 table-output.php:355 table-output.php:506
+msgid "Status"
+msgstr ""
+
+#: table-output.php:122 table-output.php:125 table-output.php:127
+#: table-output.php:359 table-output.php:362 table-output.php:364
+#: table-output.php:510 table-output.php:513 table-output.php:515
+msgid "Going to"
+msgstr ""
+
+#: table-output.php:122 table-output.php:125 table-output.php:127
+#: table-output.php:216 table-output.php:219 table-output.php:221
+#: table-output.php:348 table-output.php:359 table-output.php:362
+#: table-output.php:364 table-output.php:510 table-output.php:513
+#: table-output.php:515
+msgid "To"
+msgstr ""
+
+#: table-output.php:133
+msgid "Route stop"
+msgstr ""
+
+#: table-output.php:133
+msgid "Stop"
+msgstr ""
+
+#: table-output.php:138 table-output.php:141 table-output.php:143
+#: table-output.php:156 table-output.php:159 table-output.php:161
+#: table-output.php:382 table-output.php:385 table-output.php:387
+#: table-output.php:534 table-output.php:537 table-output.php:539
+#: search.php:578 marine-data.php:155
+msgid "Distance"
+msgstr ""
+
+#: table-output.php:147 table-output.php:370 table-output.php:521
+#: search.php:419 search.php:421
+msgid "Pilot name"
+msgstr ""
+
+#: table-output.php:150 table-output.php:373 table-output.php:524
+#: search.php:428 search.php:430
+msgid "Owner name"
+msgstr ""
+
+#: table-output.php:163 table-output.php:389 table-output.php:542
+#: search.php:619 search.php:621
+msgid "Captain name"
+msgstr ""
+
+#: table-output.php:164 table-output.php:395 table-output.php:548
+msgid "Race duration"
+msgstr ""
+
+#: table-output.php:216 table-output.php:219 table-output.php:221
+msgid "Flying to"
+msgstr ""
+
+#: table-output.php:240 table-output.php:253 table-output.php:266
+msgid "Message"
+msgstr ""
+
+#: table-output.php:397 table-output.php:550
+msgid "Spotted duration"
+msgstr ""
+
+#: table-output.php:397 table-output.php:550
+msgid "Duration"
+msgstr ""
+
+#: table-output.php:413 table-output.php:416 table-output.php:418
+#: table-output.php:566 table-output.php:569 table-output.php:571
+msgid "Date last seen"
+msgstr ""
+
+#: table-output.php:627 table-output.php:636 table-output.php:642
+#: table-output.php:740 table-output.php:744 table-output.php:753
+#: table-output.php:768 table-output.php:770 table-output.php:772
+#: table-output.php:890 table-output.php:895 table-output.php:901
+#: table-output.php:906 table-output.php:912 table-output.php:917
+#: table-output.php:940 table-output.php:947 table-output.php:955
+#: table-output.php:968 table-output.php:969 table-output.php:1028
+#: table-output.php:1029 table-output.php:1096 table-output.php:1097
+#: table-output.php:1105 table-output.php:1115 table-output.php:1116
+#: table-output.php:1326
+msgid "Not available"
+msgstr ""
+
+#: table-output.php:660 table-output.php:668 table-output.php:793
+#: table-output.php:803 search.php:247
+msgid "MMSI:"
+msgstr ""
+
+#: table-output.php:864 table-output.php:869
+msgid "Click to see airline information"
+msgstr ""
+
+#: table-output.php:877 table-output.php:1047 table-output.php:1048
+#: table-output.php:1316 table-output.php:1340
+msgid "Not Available"
+msgstr ""
+
+#: table-output.php:1037 table-output.php:1041
+msgid "Real:"
+msgstr ""
+
+#: table-output.php:1039
+msgid "Scheduled:"
+msgstr ""
+
+#: table-output.php:1449
+msgid "Detailed Flight Information"
+msgstr ""
+
+#: table-output.php:1450 flightid-sub-menu.php:13
+msgid "Download Flight Data"
+msgstr ""
+
+#: table-output.php:1455 table-output.php:1459
+msgid "Aircraft History"
+msgstr ""
+
+#: table-output.php:1463
+msgid "Manufacturer Profile"
+msgstr ""
+
+#: table-output.php:1467
+msgid "Flights of Aircraft Type &amp; Airline"
+msgstr ""
+
+#: table-output.php:1476
+msgid "Airline Country Profile"
+msgstr ""
+
+#: table-output.php:1481
+msgid "Departure Airport Country Profile"
+msgstr ""
+
+#: table-output.php:1485
+msgid "Arrival Airport Country Profile"
+msgstr ""
+
+#: table-output.php:1490
+msgid "Detailed information"
+msgstr ""
+
+#: statistics-year.php:17 statistics-month.php:6
+msgid "Busiest Month of Last Year"
+msgstr ""
+
+#: statistics-year.php:32
+msgid "Busiest Month"
+msgstr ""
+
+#: statistics-year.php:34
+msgid ""
+"Below is a chart that plots the busiest month during the <strong>last year</"
+"strong>."
+msgstr ""
+
+#: owner-statistics-departure-airport.php:38
+#, php-format
+msgid ""
+"The statistic below shows all departure airports of flights owned by <strong>"
+"%s</strong>."
+msgstr ""
+
+#: registration-statistics-arrival-airport-country.php:15
+#, php-format
+msgid ""
+"Most Common Arrival Airports by Country of aircraft with registration %s"
+msgstr ""
+
+#: registration-statistics-arrival-airport-country.php:27
+#, php-format
+msgid ""
+"The statistic below shows all arrival airports by Country of origin of "
+"flights with aircraft registration <strong>%s</strong>."
+msgstr ""
+
+#: route-sub-menu.php:27
+msgid "Upcoming Schedule"
+msgstr ""
+
+#: country-detailed.php:51
+#, php-format
+msgid "Detailed View for Airports &amp; Airlines from %s"
+msgstr ""
+
+#: country-detailed.php:84
+#, php-format
+msgid ""
+"The table below shows the detailed information of all flights of airports "
+"(both departure &amp; arrival) OR airlines from <strong>%s</strong>."
+msgstr ""
+
+#: aircraft-statistics-route.php:55
+#, php-format
+msgid ""
+"The statistic below shows the most common routes from <strong>%s (%s)</"
+"strong>."
+msgstr ""
+
+#: route-statistics-registration.php:21
+#, php-format
+msgid "Most Common Aircraft by Registration between %s (%s), %s - %s (%s), %s"
+msgstr ""
+
+#: route-statistics-registration.php:32
+#, php-format
+msgid ""
+"The statistic below shows the most common aircraft by registration of "
+"flights between <strong>%s (%s), %s</strong> and <strong>%s (%s), %s</"
+"strong>."
+msgstr ""
+
+#: aircraft-statistics-departure-airport-country.php:17
+#, php-format
+msgid "Most Common Departure Airports by Country for %s (%s)"
+msgstr ""
+
+#: aircraft-statistics-departure-airport-country.php:55
+#, php-format
+msgid ""
+"The statistic below shows all departure airports by Country of origin of "
+"flights from <strong>%s (%s)</strong>."
+msgstr ""
+
+#: tools-acars.php:6 tools-acars.php:14
+msgid "Parse ACARS messages"
+msgstr ""
+
+#: tools-acars.php:18
+msgid "Parse ACARS messages and translate them in human readable format."
+msgstr ""
+
+#: tools-acars.php:22
+msgid "ACARS Message"
+msgstr ""
+
+#: tools-acars.php:33
+msgid "ACARS message in human readable format:"
+msgstr ""
+
+#: tools-acars.php:38
+msgid "This ACARS message can't be translated in human readable format :("
+msgstr ""
+
+#: statistics-aircraft.php:6 statistics-aircraft.php:22
+msgid "Most common Aircraft"
+msgstr ""
+
+#: statistics-aircraft.php:24
+msgid "Below are the <strong>Top 10</strong> most common aircraft types."
+msgstr ""
+
+#: statistics-airport-arrival-country.php:6
+#: statistics-airport-arrival-country.php:22
+msgid "Most common Arrival Airport by Country"
+msgstr ""
+
+#: statistics-airport-arrival-country.php:24
+msgid ""
+"Below are the <strong>Top 10</strong> most common countries of all the "
+"arrival airports."
+msgstr ""
+
+#: airspace-data.php:42
+msgid "Class"
+msgstr ""
+
+#: airspace-data.php:49
+msgid "Tops"
+msgstr ""
+
+#: airspace-data.php:55
+msgid "Base"
+msgstr ""
+
+#: date-statistics-departure-airport.php:13
+#, php-format
+msgid "Most Common Departure Airports on %s"
+msgstr ""
+
+#: date-statistics-departure-airport.php:37
+#, php-format
+msgid ""
+"The statistic below shows all departure airports of flights on <strong>%s</"
+"strong>."
+msgstr ""
+
+#: airport-statistics-aircraft.php:18
+#, php-format
+msgid "Most Common Aircraft to/from %s, %s (%s)"
+msgstr ""
+
+#: airport-statistics-aircraft.php:62
+#, php-format
+msgid ""
+"The statistic below shows the most common aircraft of flights to/from "
+"<strong>%s, %s (%s)</strong>."
+msgstr ""
+
+#: accident-latest.php:31
+msgid "Latest Accidents"
+msgstr ""
+
+#: accident-latest.php:35
+msgid "The table below shows the latest Accidents."
+msgstr ""
+
+#: statistics-registration.php:6 statistics-registration.php:23
+msgid "Most common Aircraft Registrations"
+msgstr ""
+
+#: statistics-registration.php:25
+msgid ""
+"Below are the <strong>Top 10</strong> most common aircraft registrations."
+msgstr ""
+
+#: date-statistics-airline-country.php:15 archive-country.php:16
+#, php-format
+msgid "Most Common Airlines by Country on %s"
+msgstr ""
+
+#: date-statistics-airline-country.php:38 archive-country.php:33
+#, php-format
+msgid ""
+"The statistic below shows the most common airlines by Country of origin of "
+"flights on <strong>%s</strong>."
+msgstr ""
+
+#: airport-statistics-arrival-airport.php:17
+#, php-format
+msgid "Most Common Arrival Airports from %s, %s (%s)"
+msgstr ""
+
+#: airport-statistics-arrival-airport.php:61
+#, php-format
+msgid ""
+"The statistic below shows all arrival airports of flights from <strong>%s, "
+"%s (%s)</strong>."
+msgstr ""
+
+#: statistics-route-waypoint.php:6 statistics-route-waypoint.php:12
+msgid "Most common Route by Waypoint"
+msgstr ""
+
+#: statistics-route-waypoint.php:14
+msgid ""
+"Below are the <strong>Top 10</strong> most common routes, based on the "
+"waypoint data. Theoretically, since the waypoint data is the full 'planned "
+"flight route' this statistic would show the actual most common route."
+msgstr ""
+
+#: statistics-route-waypoint.php:42
+msgid "Recent Flight on this route"
+msgstr ""
+
+#: date-statistics-registration.php:36
+#, php-format
+msgid ""
+"The statistic below shows the most common aircraft by registration of "
+"flights on <strong>%s</strong>."
+msgstr ""
+
+#: country-statistics-departure-airport-country.php:21
+#: airline-statistics-departure-airport-country.php:22
+#, php-format
+msgid "Most Common Departure Airports by Country from %s"
+msgstr ""
+
+#: country-statistics-departure-airport-country.php:54
+#, php-format
+msgid ""
+"The statistic below shows all departure airports by Country of origin of "
+"flights of airports &amp; airlines from <strong>%s</strong>."
+msgstr ""
+
+#: country-statistics-airline-country.php:21
+#, php-format
+msgid "Most Common Airlines by Country of %s"
+msgstr ""
+
+#: country-statistics-airline-country.php:54
+#, php-format
+msgid ""
+"The statistic below shows the most common airlines by Country of origin of "
+"flights from airports &amp; airlines of <strong>%s</strong>."
+msgstr ""
+
+#: registration-statistics-departure-airport-country.php:15
+#, php-format
+msgid ""
+"Most Common Departure Airports by Country of aircraft with registration %s"
+msgstr ""
+
+#: registration-statistics-departure-airport-country.php:27
+#, php-format
+msgid ""
+"The statistic below shows all departure airports by Country of origin of "
+"flights with aircraft registration <strong>%s</strong>."
+msgstr ""
+
+#: airline-statistics-departure-airport-country.php:24
+#, php-format
+msgid "Most Common Departure Airports by Country from %s (%s)"
+msgstr ""
+
+#: statistics-fatalities-month.php:17
+msgid ""
+"Below is a chart that plots the fatalities <strong>last 12 months</strong>."
+msgstr ""
+
+#: statistics-fatalities-month.php:50
+msgid "Month"
+msgstr ""
+
+#: flightid-sub-menu.php:2
+msgid "Additional Data"
+msgstr ""
+
+#: flightid-sub-menu.php:8
+msgid "Flight Status"
+msgstr ""
+
+#: flightid-sub-menu.php:9
+msgid "Flight Log"
+msgstr ""
+
+#: flightid-sub-menu.php:19
+msgid "For Advanced Users"
+msgstr ""
+
+#: flightid-sub-menu.php:25
+msgid "For Geo/Map Users"
+msgstr ""
+
+#: statistics-airport-arrival.php:6 statistics-airport-arrival.php:23
+msgid "Most common Arrival Airport"
+msgstr ""
+
+#: statistics-airport-arrival.php:25
+msgid "Below are the <strong>Top 10</strong> most common arrival airports."
+msgstr ""
+
+#: airport-detailed.php:53
+#, php-format
+msgid "Detailed View for %s, %s (%s)"
+msgstr ""
+
+#: airport-detailed.php:97 airport-data.php:70
+msgid "Live Air Traffic"
+msgstr ""
+
+#: airport-detailed.php:100
+msgid "Diagram"
+msgstr ""
+
+#: airport-detailed.php:199
+#, php-format
+msgid ""
+"The table below shows the detailed information of all flights to/from "
+"<strong>%s, %s (%s)</strong>."
+msgstr ""
+
+#: airport-detailed.php:215
+msgid "Sorry, no flights used the airport in this database."
+msgstr ""
+
+#: statistics-airport-departure-country.php:6
+#: statistics-airport-departure-country.php:23
+msgid "Most common Departure Airport by Country"
+msgstr ""
+
+#: statistics-airport-departure-country.php:25
+msgid ""
+"Below are the <strong>Top 10</strong> most common countries of all the "
+"departure airports."
+msgstr ""
+
+#: tv.php:54 tv.php:58
+msgid "Click to see more information about this flight"
+msgstr ""
+
+#: country-statistics-arrival-airport.php:51
+#, php-format
+msgid ""
+"The statistic below shows all arrival airports of flights of airports &amp; "
+"airlines from <strong>%s</strong>."
+msgstr ""
+
+#: search.php:175
+msgid "Download Search Results"
+msgstr ""
+
+#: search.php:193
+msgid "Download Info/Licence"
+msgstr ""
+
+#: search.php:201 search.php:203
+msgid "Table"
+msgstr ""
+
+#: search.php:206 search.php:208
+msgid "3D Map"
+msgstr ""
+
+#: search.php:225
+msgid "Search Results for"
+msgstr ""
+
+#: search.php:226
+msgid "Keyword:"
+msgstr ""
+
+#: search.php:228
+msgid "Manufacturer:"
+msgstr ""
+
+#: search.php:230
+msgid "Highlights:"
+msgstr ""
+
+#: search.php:232
+msgid "Airline country:"
+msgstr ""
+
+#: search.php:233
+msgid "Airline type:"
+msgstr ""
+
+#: search.php:234
+msgid "Airport:"
+msgstr ""
+
+#: search.php:235
+msgid "Airport country:"
+msgstr ""
+
+#: search.php:236
+msgid "Callsign:"
+msgstr ""
+
+#: search.php:237
+msgid "Owner:"
+msgstr ""
+
+#: search.php:238
+msgid "Pilot id:"
+msgstr ""
+
+#: search.php:239
+msgid "Pilot name:"
+msgstr ""
+
+#: search.php:240
+msgid "Captain id:"
+msgstr ""
+
+#: search.php:241
+msgid "Captain name:"
+msgstr ""
+
+#: search.php:242
+msgid "Race id:"
+msgstr ""
+
+#: search.php:243
+msgid "Race name:"
+msgstr ""
+
+#: search.php:244
+msgid "Route out of:"
+msgstr ""
+
+#: search.php:245
+msgid "Route into:"
+msgstr ""
+
+#: search.php:246
+msgid "Route between:"
+msgstr ""
+
+#: search.php:248
+msgid "IMO:"
+msgstr ""
+
+#: search.php:249
+msgid "Date starting at:"
+msgstr ""
+
+#: search.php:250
+msgid "Date ending at:"
+msgstr ""
+
+#: search.php:251
+msgid "Date between:"
+msgstr ""
+
+#: search.php:252
+msgid "Altitude starting at:"
+msgstr ""
+
+#: search.php:253
+msgid "Altitude ending at:"
+msgstr ""
+
+#: search.php:254
+msgid "Altitude between:"
+msgstr ""
+
+#: search.php:254
+msgid "and"
+msgstr ""
+
+#: search.php:255
+msgid "limit per page:"
+msgstr ""
+
+#: search.php:343
+msgid "Sorry, your search did not produce any results. :("
+msgstr ""
+
+#: search.php:372 search.php:374
+msgid "Keywords"
+msgstr ""
+
+#: search.php:413 search.php:415
+msgid "Pilot id"
+msgstr ""
+
+#: search.php:438 search.php:439
+msgid ""
+"Include only aircraft with special highlights (unique liveries, destinations "
+"etc.)"
+msgstr ""
+
+#: search.php:471
+msgid "All airlines types"
+msgstr ""
+
+#: search.php:472
+msgid "Only Passenger airlines"
+msgstr ""
+
+#: search.php:473
+msgid "Only Cargo airlines"
+msgstr ""
+
+#: search.php:474
+msgid "Only Military airlines"
+msgstr ""
+
+#: search.php:523
+msgid "Lowest Altitude"
+msgstr ""
+
+#: search.php:543
+msgid "Highest Altitude"
+msgstr ""
+
+#: search.php:564
+msgid "Flights near"
+msgstr ""
+
+#: search.php:568
+msgid "Center point latitude"
+msgstr ""
+
+#: search.php:574
+msgid "Center point longitude"
+msgstr ""
+
+#: search.php:580
+msgid "Distance from center point"
+msgstr ""
+
+#: search.php:611 search.php:613
+msgid "Captain id"
+msgstr ""
+
+#: search.php:627 search.php:629
+msgid "Race id"
+msgstr ""
+
+#: search.php:635 search.php:637
+msgid "Race name"
+msgstr ""
+
+#: search.php:646 search.php:648 marine-data.php:123
+msgid "MMSI"
+msgstr ""
+
+#: search.php:654 search.php:656
+msgid "IMO"
+msgstr ""
+
+#: search.php:667
+msgid "Start Date"
+msgstr ""
+
+#: search.php:670
+msgid "Start Date/Time"
+msgstr ""
+
+#: search.php:678
+msgid "End Date"
+msgstr ""
+
+#: search.php:681
+msgid "End Date/Time"
+msgstr ""
+
+#: search.php:707
+msgid "Limit per Page"
+msgstr ""
+
+#: search.php:709
+msgid "Number of Results"
+msgstr ""
+
+#: search.php:735 search.php:746
+#, php-format
+msgid "Search in archive (older than %s months)"
+msgstr ""
+
+#: manufacturer-detailed.php:75 airline-detailed.php:156
+#, php-format
+msgid ""
+"The table below shows the detailed information of all flights from <strong>"
+"%s</strong>."
+msgstr ""
+
+#: airport-statistics-time.php:17
+#, php-format
+msgid "Most Common Time of Day to/from %s, %s (%s)"
+msgstr ""
+
+#: airport-statistics-time.php:62
+#, php-format
+msgid ""
+"The statistic below shows the most common time of day to/from <strong>%s, %s "
+"(%s)</strong>."
+msgstr ""
+
+#: footer.php:11
+msgid "Page generated in"
+msgstr ""
+
+#: pilot-statistics-manufacturer.php:32
+#, php-format
+msgid ""
+"The statistic below shows the most common Aircraft Manufacturer of flights "
+"piloted by <strong>%s</strong>."
+msgstr ""
+
+#: date-statistics-arrival-airport-country.php:12
+#, php-format
+msgid "Most Common Arrival Airports by Country on %s"
+msgstr ""
+
+#: date-statistics-arrival-airport-country.php:35
+#, php-format
+msgid ""
+"The statistic below shows all arrival airports by Country of origin of "
+"flights on <strong>%s</strong>."
+msgstr ""
+
+#: ident-statistics-arrival-airport.php:27
+#, php-format
+msgid ""
+"The statistic below shows all arrival airports of flights with the ident/"
+"callsign <strong>%s</strong>."
+msgstr ""
+
+#: statistics-callsign.php:6 statistics-callsign.php:21
+msgid "Most common Callsign"
+msgstr ""
+
+#: statistics-callsign.php:23
+msgid ""
+"Below are the <strong>Top 10</strong> most common ident/callsigns of all "
+"airlines."
+msgstr ""
+
+#: registration-statistics-departure-airport.php:15
+#, php-format
+msgid "Most Common Departure Airports of aircraft with registration %s"
+msgstr ""
+
+#: registration-statistics-departure-airport.php:29
+#, php-format
+msgid ""
+"The statistic below shows all departure airports of flights with aircraft "
+"registration <strong>%s</strong>."
+msgstr ""
+
+#: airport-statistics-airline.php:17
+#, php-format
+msgid "Most Common Airlines to/from %s, %s (%s)"
+msgstr ""
+
+#: airport-statistics-airline.php:61
+#, php-format
+msgid ""
+"The statistic below shows the most common airlines of flights to/from "
+"<strong>%s, %s (%s)</strong>."
+msgstr ""
+
+#: airline-statistics-aircraft.php:25
+#, php-format
+msgid "Most Common Aircraft from %s (%s)"
+msgstr ""
+
+#: airline-detailed.php:116 airline-detailed.php:135
+msgid "This airline is banned in Europe"
+msgstr ""
+
+#: airline-detailed.php:171
+msgid "Sorry, no flights of this airline exist in this database."
+msgstr ""
+
+#: pilot-statistics-departure-airport.php:32
+#, php-format
+msgid ""
+"The statistic below shows all departure airports of flights piloted by "
+"<strong>%s</strong>."
+msgstr ""
+
+#: statistics-month.php:31
+msgid "Busiest Day Last Month"
+msgstr ""
+
+#: statistics-month.php:33
+msgid ""
+"Below is a chart that plots the busiest day during the <strong>last month</"
+"strong>."
+msgstr ""
+
+#: marine-data.php:145
+msgid "Destination"
+msgstr ""
+
+#: ident-statistics-aircraft.php:31
+#, php-format
+msgid ""
+"The statistic below shows the most common aircraft of flights using the "
+"ident/callsign <strong>%s</strong>."
+msgstr ""
+
+#: airport.php:90
+#, php-format
+msgid ""
+"The table below shows the route(s) aircraft have used to/from <strong>%s</"
+"strong>, sorted by the most recent one."
+msgstr ""
+
+#: aircraft-data.php:185
+msgid "Calculated Speed"
+msgstr ""
+
+#: aircraft-data.php:196
+msgid "Cam Coordinates"
+msgstr ""
+
+#: aircraft-data.php:210
+msgid "Vertical rate"
+msgstr ""
+
+#: acars-latest.php:36
+msgid "The table below shows the latest ACARS messages."
+msgstr ""
+
+#: date-statistics-arrival-airport.php:12
+#, php-format
+msgid "Most Common Arrival Airports on %s"
+msgstr ""
+
+#: date-statistics-arrival-airport.php:36
+#, php-format
+msgid ""
+"The statistic below shows all arrival airports of flights on <strong>%s</"
+"strong>."
+msgstr ""
+
+#: airline.php:28
+msgid "Alliances"
+msgstr ""
+
+#: airline.php:35
+msgid "Click to see alliance activity"
+msgstr ""
+
+#: airline.php:100 airline.php:104
+msgid "Click to see airline activity"
+msgstr ""
+
+#: airline.php:105 airline.php:108
+msgid "Banned in Europe"
+msgstr ""
+
+#: country-statistics-departure-airport.php:53
+#, php-format
+msgid ""
+"The statistic below shows all departure airports of flights of airports "
+"&amp; airlines from <strong>%s</strong>."
+msgstr ""
+
+#: manufacturer-statistics-airline-country.php:17
+#, php-format
+msgid "Most Common Airlines by Country from %s"
+msgstr ""
+
+#: manufacturer-statistics-airline-country.php:47
+#, php-format
+msgid ""
+"The statistic below shows the most common airlines by Country of origin of "
+"flights from <strong>%s</strong>."
+msgstr ""
+
+#: route-detailed.php:42
+#, php-format
+msgid "Detailed View for flights between %s (%s), %s - %s (%s), %s"
+msgstr ""
+
+#: route-detailed.php:52
+#, php-format
+msgid ""
+"The table below shows the detailed information of all flights that used the "
+"route <strong>%s - %s</strong>."
+msgstr ""
+
+#: owner-statistics-aircraft.php:39
+#, php-format
+msgid ""
+"The statistic below shows the most common aircraft of flights owned by "
+"<strong>%s</strong>."
+msgstr ""
+
+#: statistics-type.php:6
+msgid "Most common Vessel Type"
+msgstr ""
+
+#: statistics-type.php:19
+msgid "Most common vessel Type"
+msgstr ""
+
+#: statistics-type.php:21
+msgid "Below are the <strong>Top 10</strong> most common vessel types."
+msgstr ""
+
+#: airline-statistics-departure-airport.php:24
+#, php-format
+msgid "Most Common Departure Airports from %s (%s)"
+msgstr ""
+
+#: route-statistics-time.php:21
+#, php-format
+msgid "Most Common Time of Day between %s (%s), %s - %s (%s), %s"
+msgstr ""
+
+#: route-statistics-time.php:32
+#, php-format
+msgid ""
+"The statistic below shows the most common time of day of flights between "
+"<strong>%s (%s), %s</strong> and <strong>%s (%s), %s</strong>."
+msgstr ""
