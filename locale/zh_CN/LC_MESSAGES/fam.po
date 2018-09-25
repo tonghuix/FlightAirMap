@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-25 21:15+0800\n"
-"PO-Revision-Date: 2018-09-26 00:34+0800\n"
+"PO-Revision-Date: 2018-09-26 00:42+0800\n"
 "Last-Translator: Tong Hui <tonghuix@gmail.com>\n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -1817,7 +1817,7 @@ msgstr "%s 的最常见到达机场"
 #: ident-statistics-arrival-airport.php:26
 #: date-statistics-arrival-airport.php:35
 msgid "Most Common Arrival Airports"
-msgstr ""
+msgstr "最常见到达机场"
 
 #: pilot-statistics-arrival-airport.php:32
 #, php-format
@@ -1827,9 +1827,9 @@ msgid ""
 msgstr ""
 
 #: aircraft-statistics-departure-airport.php:17
-#, php-format
+#, php-format, fuzzy
 msgid "Most Common Departure Airports for %s (%s)"
-msgstr ""
+msgstr "%s (%s) 的最常见出发机场"
 
 #: aircraft-statistics-departure-airport.php:55
 #: airport-statistics-departure-airport.php:59
@@ -1842,7 +1842,7 @@ msgstr ""
 #: country-statistics-departure-airport.php:52
 #: airline-statistics-departure-airport.php:96
 msgid "Most Common Departure Airports"
-msgstr ""
+msgstr "最常见出发机场"
 
 #: aircraft-statistics-departure-airport.php:56
 #, php-format
@@ -1854,7 +1854,7 @@ msgstr ""
 #: js/map-tracker.3d.js.php:144 js/map-tracker.3d.js.php:146
 #: js/map-tracker.2d.js.php:38
 msgid "Trackers detected"
-msgstr ""
+msgstr "检测到追踪器"
 
 #: js/map-tracker.3d.js.php:253 js/map-tracker.2d.js.php:740
 #: js/map-aircraft.2d.js.php:976 js/map-marine.3d.js.php:274
