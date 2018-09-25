@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-25 21:15+0800\n"
-"PO-Revision-Date: 2018-09-25 21:20+0800\n"
+"PO-Revision-Date: 2018-09-25 23:33+0800\n"
 "Last-Translator: Tong Hui <tonghuix@gmail.com>\n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -28,15 +28,15 @@ msgstr "解析 NOTAM 消息并将其翻译为人类可读的格式。"
 
 #: tools-notam.php:24
 msgid "NOTAM Message"
-msgstr ""
+msgstr "NOTAM 消息"
 
 #: tools-notam.php:35
 msgid "NOTAM message in human readable format:"
-msgstr ""
+msgstr "人类可读格式的 NOTAM 消息："
 
 #: tools-notam.php:40
 msgid "This NOTAM message can't be translated in human readable format :("
-msgstr ""
+msgstr "此 NOTAM 消息不能翻译为人类可读的格式 :("
 
 #: about-tv.php:11
 msgid ""
@@ -48,7 +48,7 @@ msgstr ""
 
 #: about-tv.php:16
 msgid "Launch Spotter TV"
-msgstr ""
+msgstr "启动 Spotter TV"
 
 #: statistics-sub-menu.php:2 statistics.php:40 statistics.php:42
 #: statistics.php:64 statistics-airline.php:6 statistics-route-airport.php:6
@@ -69,7 +69,7 @@ msgstr ""
 #: statistics-callsign.php:6 pilot-sub-menu.php:2 statistics-month.php:6
 #: ident-sub-menu.php:2 statistics-type.php:6
 msgid "Statistics"
-msgstr ""
+msgstr "统计"
 
 #: statistics-sub-menu.php:69 statistics-sub-menu.php:72
 #: statistics-sub-menu.php:178 statistics-sub-menu.php:181
@@ -85,7 +85,7 @@ msgstr ""
 #: airport-sub-menu.php:9 airline-sub-menu.php:9 search.php:384
 #: pilot-sub-menu.php:9 aircraft-data.php:114 ident-sub-menu.php:9
 msgid "Aircraft"
-msgstr ""
+msgstr "航空器"
 
 #: statistics-sub-menu.php:73 statistics-sub-menu.php:182
 #: owner-statistics-registration.php:51 aircraft-statistics-registration.php:65
@@ -108,7 +108,7 @@ msgstr ""
 #: registration-statistics-departure-airport.php:115 aircraft-data.php:123
 #: ident-sub-menu.php:13
 msgid "Registration"
-msgstr ""
+msgstr "注册号"
 
 #: statistics-sub-menu.php:74 statistics-sub-menu.php:183
 #: aircraft-statistics-registration.php:47 aircraft-detailed.php:75
@@ -136,7 +136,7 @@ msgstr ""
 #: pilot-sub-menu.php:14 registration-statistics-departure-airport.php:22
 #: ident-sub-menu.php:14 manufacturer-statistics-airline-country.php:121
 msgid "Manufacturer"
-msgstr ""
+msgstr "制造商"
 
 #: statistics-sub-menu.php:75 statistics-sub-menu.php:184
 #: statistics-airline.php:45 ident-statistics-departure-airport-country.php:78
@@ -222,7 +222,7 @@ msgstr ""
 #: airline-statistics-departure-airport.php:74
 #: airline-statistics-departure-airport.php:166 airport-data.php:52
 msgid "Country"
-msgstr ""
+msgstr "国籍"
 
 #: statistics-sub-menu.php:80 statistics-sub-menu.php:86
 #: statistics-sub-menu.php:189 statistics-sub-menu.php:195
@@ -250,14 +250,14 @@ msgstr ""
 #: airport-statistics-airline.php:88 airline-detailed.php:174
 #: ident-statistics-aircraft.php:25
 msgid "Airline"
-msgstr ""
+msgstr "航空公司"
 
 #: statistics-sub-menu.php:87 statistics-sub-menu.php:196
 #: country-sub-menu.php:23 manufacturer-sub-menu.php:22
 #: aircraft-sub-menu.php:14 date-sub-menu.php:23 route-sub-menu.php:23
 #: airport-sub-menu.php:23
 msgid "Airline by Country"
-msgstr ""
+msgstr "按国籍的航空公司"
 
 #: statistics-sub-menu.php:91 statistics-sub-menu.php:200
 #: airline-statistics-time.php:78 js/map-marine.3d.js.php:138
@@ -273,7 +273,7 @@ msgstr ""
 #: airline-detailed.php:112 airline-detailed.php:133
 #: airline-statistics-departure-airport.php:77
 msgid "Callsign"
-msgstr ""
+msgstr "呼号"
 
 #: statistics-sub-menu.php:96 statistics-sub-menu.php:205
 #: airport-statistics-registration.php:120 statistics-airport-departure.php:79
@@ -306,7 +306,7 @@ msgstr ""
 #: country-statistics-departure-airport.php:111
 #: airline-statistics-departure-airport.php:165
 msgid "Airport"
-msgstr ""
+msgstr "机场"
 
 #: statistics-sub-menu.php:99 statistics-sub-menu.php:208
 #: statistics-route-airport.php:42 country-sub-menu.php:31
@@ -322,7 +322,7 @@ msgstr ""
 #: airline-sub-menu.php:22 search.php:502 pilot-sub-menu.php:22
 #: ident-sub-menu.php:22
 msgid "Departure Airport"
-msgstr ""
+msgstr "出发机场"
 
 #: statistics-sub-menu.php:100 statistics-sub-menu.php:209
 #: country-sub-menu.php:32 manufacturer-sub-menu.php:31
@@ -330,7 +330,7 @@ msgstr ""
 #: owner-sub-menu.php:31 airport-sub-menu.php:32 airline-sub-menu.php:23
 #: pilot-sub-menu.php:23 ident-sub-menu.php:23
 msgid "Departure Airport by Country"
-msgstr ""
+msgstr "按国籍的出发机场"
 
 #: statistics-sub-menu.php:101 statistics-sub-menu.php:210
 #: statistics-route-airport.php:43 country-sub-menu.php:33
@@ -346,7 +346,7 @@ msgstr ""
 #: airline-sub-menu.php:24 search.php:511 pilot-sub-menu.php:24
 #: ident-sub-menu.php:24
 msgid "Arrival Airport"
-msgstr ""
+msgstr "到达机场"
 
 #: statistics-sub-menu.php:102 statistics-sub-menu.php:211
 #: country-sub-menu.php:34 manufacturer-sub-menu.php:33
@@ -354,7 +354,7 @@ msgstr ""
 #: owner-sub-menu.php:33 airport-sub-menu.php:34 airline-sub-menu.php:25
 #: pilot-sub-menu.php:25 ident-sub-menu.php:25
 msgid "Arrival Airport by Country"
-msgstr ""
+msgstr "按国籍的到达机场"
 
 #: statistics-sub-menu.php:107 statistics-sub-menu.php:217
 #: country-sub-menu.php:37 js/map.js.php:998 js/map-tracker.2d.js.php:516
@@ -365,20 +365,20 @@ msgstr ""
 #: airport-sub-menu.php:37 airline-sub-menu.php:28 search.php:500
 #: pilot-sub-menu.php:28 aircraft-data.php:248 ident-sub-menu.php:28
 msgid "Route"
-msgstr ""
+msgstr "航路"
 
 #: statistics-sub-menu.php:110 statistics-sub-menu.php:220
 msgid "Route by Airport"
-msgstr ""
+msgstr "按机场的航路"
 
 #: statistics-sub-menu.php:111 statistics-sub-menu.php:221
 msgid "Route by Waypoint"
-msgstr ""
+msgstr "按航路点的航路"
 
 #: statistics-sub-menu.php:116 statistics-sub-menu.php:143
 #: statistics-sub-menu.php:228 statistics-sub-menu.php:258
 msgid "Date &amp; Time"
-msgstr ""
+msgstr "日期 &amp；时间"
 
 #: statistics-sub-menu.php:119 statistics-sub-menu.php:146
 #: statistics-sub-menu.php:231 statistics-sub-menu.php:261
@@ -389,7 +389,7 @@ msgstr ""
 #: table-output.php:576 table-output.php:579 table-output.php:581
 #: statistics-year.php:66 search.php:665 statistics-month.php:68
 msgid "Date"
-msgstr ""
+msgstr "日期"
 
 #: statistics-sub-menu.php:120 statistics-sub-menu.php:147
 #: statistics-sub-menu.php:232 statistics-sub-menu.php:262
@@ -400,21 +400,21 @@ msgstr ""
 #: owner-sub-menu.php:37 airport-sub-menu.php:38 airline-sub-menu.php:29
 #: pilot-sub-menu.php:29 ident-sub-menu.php:29
 msgid "Time"
-msgstr ""
+msgstr "时间"
 
 #: statistics-sub-menu.php:128 statistics-sub-menu.php:242 table-output.php:252
 msgid "Fatalities"
-msgstr ""
+msgstr "设施"
 
 #: statistics-sub-menu.php:131 statistics-sub-menu.php:245
 #: statistics-fatalities-year.php:6 statistics-fatalities-year.php:14
 msgid "Fatalities by Year"
-msgstr ""
+msgstr "按年份的设施"
 
 #: statistics-sub-menu.php:132 statistics-sub-menu.php:246
 #: statistics-fatalities-month.php:6 statistics-fatalities-month.php:15
 msgid "Fatalities last 12 months"
-msgstr ""
+msgstr "最后 12 个月的设施"
 
 #: statistics-sub-menu.php:153 marine-type-detailed.php:64
 #: airline-statistics-time.php:79 js/map-marine.3d.js.php:138
@@ -434,74 +434,74 @@ msgstr ""
 #: airline-detailed.php:134 marine-data.php:120 statistics-type.php:46
 #: airline-statistics-departure-airport.php:78
 msgid "Type"
-msgstr ""
+msgstr "型号"
 
 #: statistics-sub-menu.php:157 js/map-marine.3d.js.php:138
 #: js/map-marine.2d.js.php:617 table-output.php:348 table-output.php:351
 #: table-output.php:353 table-output.php:499 table-output.php:502
 #: table-output.php:504 marine-data.php:134 marine-data.php:136
 msgid "Race"
-msgstr ""
+msgstr "比赛"
 
 #: statistics.php:64
 msgid "Statistics for "
-msgstr ""
+msgstr "统计方式"
 
 #: statistics.php:89 pilot-detailed.php:119 owner-detailed.php:69
 msgid "Flights"
-msgstr ""
+msgstr "飞行"
 
 #: statistics.php:91
 msgid "Arrivals seen"
-msgstr ""
+msgstr "可见的到达次数"
 
 #: statistics.php:96 header.php:485 pilot.php:16 pilot.php:19
 msgid "Pilots"
-msgstr ""
+msgstr "飞行员"
 
 #: statistics.php:102 owner.php:16 owner.php:19 header.php:479
 msgid "Owners"
-msgstr ""
+msgstr "所有者"
 
 #: statistics.php:107
 msgid "Aircraft types"
-msgstr ""
+msgstr "航空器型号"
 
 #: statistics.php:112 pilot-detailed.php:127 header.php:471
 #: owner-detailed.php:77 airline.php:18 airline.php:41
 msgid "Airlines"
-msgstr ""
+msgstr "航空公司"
 
 #: statistics.php:121 index.php:792 airline.php:52
 msgid "Military"
-msgstr ""
+msgstr "军机"
 
 #: statistics.php:130
 msgid "Vessels"
-msgstr ""
+msgstr "船只"
 
 #: statistics.php:135 statistics.php:144 statistics.php:152
 msgid "Types"
-msgstr ""
+msgstr "型号"
 
 #: statistics.php:137 race.php:16 race.php:19 header.php:587
 #: captain-detailed.php:127 table-output.php:111 table-output.php:114
 #: table-output.php:116
 msgid "Races"
-msgstr ""
+msgstr "比赛"
 
 #: statistics.php:139 captain.php:16 captain.php:19 header.php:586
 #: race-detailed.php:128
 msgid "Captains"
-msgstr ""
+msgstr "机长 / 船长"
 
 #: statistics.php:150 header.php:617
 msgid "Trackers"
-msgstr ""
+msgstr "追踪器"
 
 #: statistics.php:165
 msgid "Top 10 Most Common Aircraft Type"
-msgstr ""
+msgstr "最常见的 10 款航空器型号"
 
 #: statistics.php:169 statistics.php:249 statistics.php:291 statistics.php:337
 #: statistics.php:382 statistics.php:411 statistics.php:443 statistics.php:486
@@ -513,7 +513,7 @@ msgstr ""
 #: statistics.php:1270 statistics.php:1313 statistics.php:1343
 #: statistics-date.php:40
 msgid "No data available"
-msgstr ""
+msgstr "无可用数据"
 
 #: statistics.php:192 statistics.php:196 statistics.php:226 statistics.php:230
 #: statistics.php:272 statistics.php:276 statistics.php:313 statistics.php:317
@@ -526,135 +526,135 @@ msgstr ""
 #: statistics.php:1219 statistics.php:1260 statistics.php:1291
 #: statistics.php:1333 statistics.php:1363
 msgid "See full statistic"
-msgstr ""
+msgstr "查看完整统计"
 
 #: statistics.php:208
 msgid "Top 10 Most Common Airline"
-msgstr ""
+msgstr "最常见 10 个航空公司"
 
 #: statistics.php:246
 msgid "Top 10 Most Common Vessel Type"
-msgstr ""
+msgstr "最常见 10 款船只型号"
 
 #: statistics.php:288 statistics-race.php:6 statistics-race.php:17
 msgid "Top 10 Races Number of Participants"
-msgstr ""
+msgstr "比赛参与人数前 10 个比赛"
 
 #: statistics.php:334
 msgid "Top 10 Most Common Tracker Type"
-msgstr ""
+msgstr "最常见 10 款追踪器"
 
 #: statistics.php:379 statistics.php:518
 msgid "Top 10 Most Common Owners"
-msgstr ""
+msgstr "最常见 10 位所有者"
 
 #: statistics.php:408
 msgid "Top 10 Most Common Countries Owners"
-msgstr ""
+msgstr "最常见 10 个国家所有者"
 
 #: statistics.php:440
 msgid "Top 10 Most Common Launch Sites"
-msgstr ""
+msgstr "最常见 10 处发射地"
 
 #: statistics.php:483
 msgid "Top 10 Most Common Pilots"
-msgstr ""
+msgstr "最常见 10 位飞行员"
 
 #: statistics.php:550
 msgid "Top 20 Most Common Country a Flight was Over"
-msgstr ""
+msgstr "20 个最常飞跃的国家"
 
 #: statistics.php:612
 msgid "Top 20 Most Common Country a Vessel was inside"
-msgstr ""
+msgstr "20 个最常见的船只经过国"
 
 #: statistics.php:670
 msgid "Top 20 Most Common Country a Tracker was inside"
-msgstr ""
+msgstr "20 个最常见追踪器所在国"
 
 #: statistics.php:729
 msgid "Top 10 Most Common Departure Airports"
-msgstr ""
+msgstr "最常见 10 个出发机场"
 
 #: statistics.php:790
 msgid "Top 10 Most Common Arrival Airports"
-msgstr ""
+msgstr "最常见 10 个到达机场"
 
 #: statistics.php:859 statistics.php:984 statistics.php:1110
 msgid "Busiest Months of the last 12 Months"
-msgstr ""
+msgstr "过去 12 个月最繁忙的月"
 
 #: statistics.php:887 statistics.php:1013 statistics.php:1139
 msgid "Busiest Day in the last Month"
-msgstr ""
+msgstr "过去一个月中最繁忙的一天"
 
 #: statistics.php:916 statistics.php:1042 statistics.php:1168
 msgid "Busiest Day in the last 7 Days"
-msgstr ""
+msgstr "过去 7 天中最繁忙的一天"
 
 #: statistics.php:944 statistics.php:1070 statistics.php:1196
 #: statistics-time.php:6 statistics-time.php:32
 msgid "Busiest Time of the Day"
-msgstr ""
+msgstr "一天中最繁忙时段"
 
 #: statistics.php:1236
 msgid "Busiest Launch Months of the last 12 Months"
-msgstr ""
+msgstr "过去 12 个月中最多出发月"
 
 #: statistics.php:1267
 msgid "Busiest Launch Years of the last 10 Years"
-msgstr ""
+msgstr "过去 10 年中最多启动年份"
 
 #: statistics.php:1310
 msgid "Fatalities by Years"
-msgstr ""
+msgstr "按年份排序遇难"
 
 #: statistics.php:1340
 msgid "Fatalities last 12 Months"
-msgstr ""
+msgstr "过去 12 个月的遇难者"
 
 #: statistics.php:1396
 msgid "Coverage pattern"
-msgstr ""
+msgstr "覆盖区域"
 
 #: statistics.php:1476
 msgid "Messages received"
-msgstr ""
+msgstr "收到的信息"
 
 #: statistics.php:1550
 #, php-format
 msgid "Distance for %s"
-msgstr ""
+msgstr "与 %s 的距离"
 
 #: pilot-detailed.php:57 marine-type-detailed.php:38 ident-detailed.php:124
 #: owner-detailed.php:57 race-detailed.php:63 captain-detailed.php:62
 #: manufacturer-detailed.php:47 airline-detailed.php:52
 #, php-format
 msgid "Detailed View for %s"
-msgstr ""
+msgstr "%s 的详细视图"
 
 #: pilot-detailed.php:113
 msgid "Pilot ID"
-msgstr ""
+msgstr "飞行员 ID"
 
 #: pilot-detailed.php:121 owner-detailed.php:71
 msgid "Aircraft type"
-msgstr ""
+msgstr "航空器型号"
 
 #: pilot-detailed.php:125 owner-detailed.php:75
 msgid "Manufacturers"
-msgstr ""
+msgstr "制造商"
 
 #: pilot-detailed.php:129 owner-detailed.php:79
 msgid "Total flights spotted duration"
-msgstr ""
+msgstr "标记的飞行总计小时数"
 
 #: pilot-detailed.php:134
 #, php-format
 msgid ""
 "The table below shows the detailed information of all flights with the pilot "
 "<strong>%s</strong>."
-msgstr ""
+msgstr "下表列出了飞行员 <strong>%s</strong> 的所有飞行的详细信息。"
 
 #: pilot-detailed.php:140 marine-type-detailed.php:54 latest.php:71
 #: aircraft-detailed.php:98 acars-archive.php:39 date-detailed.php:95
@@ -667,7 +667,7 @@ msgstr ""
 #: manufacturer-detailed.php:82 airline-detailed.php:162 airport.php:97
 #: acars-latest.php:42 route-detailed.php:58
 msgid "Previous Page"
-msgstr ""
+msgstr "前一页"
 
 #: pilot-detailed.php:144 marine-type-detailed.php:58 latest.php:75
 #: aircraft-detailed.php:102 acars-archive.php:40 date-detailed.php:99
@@ -680,7 +680,7 @@ msgstr ""
 #: manufacturer-detailed.php:86 airline-detailed.php:166 airport.php:101
 #: acars-latest.php:45 route-detailed.php:62
 msgid "Next Page"
-msgstr ""
+msgstr "下一页"
 
 #: pilot-detailed.php:149 space-data.php:147
 #: owner-statistics-registration.php:99
@@ -694,7 +694,7 @@ msgstr ""
 #: table-output.php:524 owner-statistics-departure-airport.php:128
 #: aircraft-data.php:225 owner-statistics-aircraft.php:76
 msgid "Owner"
-msgstr ""
+msgstr "所有者"
 
 #: pilot-detailed.php:151 owner-statistics-registration.php:101
 #: ident-statistics-departure-airport-country.php:104
@@ -780,7 +780,7 @@ msgstr ""
 #: owner-statistics-aircraft.php:78
 #: airline-statistics-departure-airport.php:196 route-statistics-time.php:95
 msgid "Error"
-msgstr ""
+msgstr "错误"
 
 #: pilot-detailed.php:152 pilot-statistics-arrival-airport-country.php:109
 #: pilot-statistics-time.php:96 pilot-statistics-airline.php:88
@@ -791,18 +791,18 @@ msgstr ""
 #: pilot-statistics-manufacturer.php:70
 #: pilot-statistics-departure-airport.php:121
 msgid "Sorry, this pilot is not in the database. :("
-msgstr ""
+msgstr "对不起，数据库中没有该飞行员。:("
 
 #: marine-type-detailed.php:47
 #, php-format
 msgid ""
 "The table below shows the detailed information of all marine of type <strong>"
 "%s</strong>."
-msgstr ""
+msgstr "下表列出了船只型号 <strong>%s</strong> 的所有飞行的详细信息。"
 
 #: marine-type-detailed.php:66 aircraft-detailed.php:112
 msgid "Errors"
-msgstr ""
+msgstr "错误"
 
 #: marine-type-detailed.php:67 aircraft-statistics-registration.php:116
 #: aircraft-detailed.php:113 aircraft-statistics-departure-airport.php:145
@@ -812,11 +812,11 @@ msgstr ""
 #: aircraft-statistics-airline.php:110 aircraft-statistics-route.php:103
 #: aircraft-statistics-departure-airport-country.php:133
 msgid "Sorry, the aircraft type does not exist in this database. :("
-msgstr ""
+msgstr "对不起，数据库中没有该航空器型号。:("
 
 #: space-data.php:104
 msgid "Spacecraft"
-msgstr ""
+msgstr "航天器"
 
 #: space-data.php:109 airport-statistics-registration.php:52 js/map.js.php:331
 #: js/map.js.php:427 js/map.js.php:963 js/map-tracker.2d.js.php:481
@@ -832,50 +832,50 @@ msgstr ""
 #: airport-statistics-airline.php:51 airport.php:79 aircraft-data.php:125
 #: airport-data.php:45
 msgid "Altitude"
-msgstr ""
+msgstr "高度"
 
 #: space-data.php:121 space-data.php:132 js/map.js.php:975
 #: js/map-tracker.2d.js.php:493 js/map-aircraft.2d.js.php:650
 #: js/map-marine.2d.js.php:486 tracker-data.php:109 marine-data.php:95
 #: aircraft-data.php:175
 msgid "Speed"
-msgstr ""
+msgstr "速度"
 
 #: space-data.php:140 space-data.php:159
 msgid "Launch Date"
-msgstr ""
+msgstr "发射日期"
 
 #: space-data.php:144
 msgid "Owner Country"
-msgstr ""
+msgstr "所有者国籍"
 
 #: space-data.php:150
 msgid "Users"
-msgstr ""
+msgstr "用户"
 
 #: space-data.php:153
 msgid "Purpose"
-msgstr ""
+msgstr "目的"
 
 #: space-data.php:156
 msgid "Orbit"
-msgstr ""
+msgstr "轨道"
 
 #: space-data.php:162
 msgid "Launch Site"
-msgstr ""
+msgstr "发射地"
 
 #: space-data.php:165
 msgid "Launch Vehicule"
-msgstr ""
+msgstr "发射车"
 
 #: statistics-airline.php:6 statistics-airline.php:16
 msgid "Most common Airline"
-msgstr ""
+msgstr "最常见航空公司"
 
 #: statistics-airline.php:18
 msgid "Below are the <strong>Top 10</strong> most common airlines."
-msgstr ""
+msgstr "以下是<strong>最常见的 10 个</strong>航空公司。"
 
 #: statistics-airline.php:46 owner-statistics-registration.php:53
 #: ident-statistics-departure-airport-country.php:79
@@ -960,13 +960,13 @@ msgstr ""
 #: owner-statistics-aircraft.php:53 statistics-type.php:47
 #: airline-statistics-departure-airport.php:167
 msgid "# of times"
-msgstr ""
+msgstr "次数"
 
 #: owner-statistics-registration.php:26 pilot-statistics-registration.php:21
 #: ident-statistics-registration.php:16
 #, php-format
 msgid "Most Common Aircraft by Registration of %s"
-msgstr ""
+msgstr "按注册号 %s 的最常见航空器"
 
 #: owner-statistics-registration.php:36 aircraft-statistics-registration.php:54
 #: airport-statistics-registration.php:61
@@ -975,14 +975,14 @@ msgstr ""
 #: ident-statistics-registration.php:26 airline-statistics-registration.php:98
 #: route-statistics-registration.php:31 date-statistics-registration.php:35
 msgid "Most Common Aircraft by Registration"
-msgstr ""
+msgstr "按注册号的最常见航空器"
 
 #: owner-statistics-registration.php:37
 #, php-format
 msgid ""
 "The statistic below shows the most common aircraft by Registration of "
 "flights owned by <strong>%s</strong>."
-msgstr ""
+msgstr "以下按  <strong>%s</strong> 的飞行所有者的注册号列出最常见的航空器。"
 
 #: owner-statistics-registration.php:52 aircraft-statistics-registration.php:66
 #: aircraft-statistics-registration.php:113
@@ -1009,7 +1009,7 @@ msgstr ""
 #: airline-statistics-aircraft.php:118 ident-statistics-aircraft.php:40
 #: ident-sub-menu.php:12 owner-statistics-aircraft.php:52
 msgid "Aircraft Type"
-msgstr ""
+msgstr "航空器型号"
 
 #: owner-statistics-registration.php:66 owner-statistics-registration.php:68
 #: owner-statistics-registration.php:74 owner-statistics-registration.php:76
@@ -1049,7 +1049,7 @@ msgstr ""
 #: date-statistics-registration.php:69 date-statistics-registration.php:71
 #: search.php:229
 msgid "Registration:"
-msgstr ""
+msgstr "注册号："
 
 #: owner-statistics-registration.php:66 owner-statistics-registration.php:68
 #: owner-statistics-registration.php:74 owner-statistics-registration.php:76
@@ -1087,7 +1087,7 @@ msgstr ""
 #: date-statistics-registration.php:63 date-statistics-registration.php:69
 #: date-statistics-registration.php:71 search.php:227
 msgid "Aircraft:"
-msgstr ""
+msgstr "航空器："
 
 #: owner-statistics-registration.php:66 owner-statistics-registration.php:68
 #: owner-statistics-registration.php:74 owner-statistics-registration.php:76
@@ -1123,7 +1123,7 @@ msgstr ""
 #: date-statistics-registration.php:69 date-statistics-registration.php:71
 #: search.php:231
 msgid "Airline:"
-msgstr ""
+msgstr "航空公司："
 
 #: owner-statistics-registration.php:89
 #: aircraft-statistics-registration.php:103
@@ -1157,7 +1157,7 @@ msgstr ""
 #: date-statistics-arrival-airport.php:113
 #: airline-statistics-departure-airport.php:185
 msgid "Search flights"
-msgstr ""
+msgstr "搜索飞行"
 
 #: owner-statistics-registration.php:102
 #: owner-statistics-arrival-airport.php:131
@@ -1168,12 +1168,12 @@ msgstr ""
 #: owner-statistics-time.php:106 owner-statistics-departure-airport.php:131
 #: owner-statistics-aircraft.php:79
 msgid "Sorry, this owner is not in the database. :("
-msgstr ""
+msgstr "对不起，数据库中没有该所有者。:("
 
 #: ident-statistics-departure-airport-country.php:16
 #, php-format
 msgid "Most Common Departure Airports by Country of %s"
-msgstr ""
+msgstr "按 %s 的国家排列最常见的出发机场"
 
 #: ident-statistics-departure-airport-country.php:20
 #: ident-statistics-departure-airport-country.php:102
@@ -1194,7 +1194,7 @@ msgstr ""
 #: ident-statistics-arrival-airport.php:113 ident-statistics-aircraft.php:24
 #: ident-statistics-aircraft.php:66
 msgid "Ident"
-msgstr ""
+msgstr "识别码"
 
 #: ident-statistics-departure-airport-country.php:25
 #: date-statistics-departure-airport-country.php:35
