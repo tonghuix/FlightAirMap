@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-25 21:15+0800\n"
-"PO-Revision-Date: 2018-09-26 16:28+0800\n"
+"PO-Revision-Date: 2018-09-26 17:33+0800\n"
 "Last-Translator: Tong Hui <tonghuix@gmail.com>\n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -2300,7 +2300,7 @@ msgstr "在地图上显示地面站"
 
 #: index.php:490
 msgid "Display weather station on map"
-msgstr "在地图上显示天气情报站"
+msgstr "在地图上显示气象站"
 
 #: index.php:491
 msgid "Display lightning on map"
@@ -3408,7 +3408,7 @@ msgstr ""
 #: aircraft-statistics-arrival-airport-country.php:18
 #, php-format
 msgid "Most Common Arrival Airports by Country for %s (%s)"
-msgstr ""
+msgstr "按国籍排列 %s (%s) 的最常见到达机场"
 
 #: aircraft-statistics-arrival-airport-country.php:57
 #, php-format
@@ -3423,7 +3423,7 @@ msgstr ""
 
 #: statistics-fatalities-year.php:48
 msgid "Year"
-msgstr ""
+msgstr "年份"
 
 #: statistics-fatalities-year.php:49 statistics-fatalities-month.php:51
 msgid "# of Fatalities"
@@ -3433,7 +3433,7 @@ msgstr "遇难编号"
 #: owner-statistics-departure-airport-country.php:27
 #, php-format
 msgid "Most Common Departure Airports by Owner of %s"
-msgstr ""
+msgstr "按 %s 的所有者排列的最常见出发机场"
 
 #: pilot-statistics-departure-airport-country.php:31
 #, php-format
@@ -3465,7 +3465,7 @@ msgstr ""
 #: owner-statistics-aircraft.php:28
 #, php-format
 msgid "Most Common Aircraft of %s"
-msgstr ""
+msgstr "%s 的最常见航空器"
 
 #: pilot-statistics-aircraft.php:36
 #, php-format
@@ -3483,22 +3483,22 @@ msgstr ""
 
 #: highlights-table.php:6 highlights-table.php:36
 msgid "Special Highlights - Table View"
-msgstr ""
+msgstr "特别关注——表格视图"
 
 #: highlights-table.php:33
 msgid "Display View"
-msgstr ""
+msgstr "显示视图"
 
 #: highlights-table.php:34
 msgid "Table View"
-msgstr ""
+msgstr "表格视图"
 
 #: highlights-table.php:40
 msgid ""
 "The table below shows the detailed information of all custom selected "
 "flights who have special aspects to it, such as unique liveries, "
 "destinations etc."
-msgstr ""
+msgstr "此表显示了所有选择航班的特别关注，比如特殊涂装、终点站等。"
 
 #: owner-detailed.php:84
 #, php-format
@@ -3510,7 +3510,7 @@ msgstr ""
 #: airline-statistics-arrival-airport-country.php:24
 #, php-format
 msgid "Most Common Arrival Airports by Country from %s (%s)"
-msgstr ""
+msgstr "按国籍列出来自 %s (%s) 的最常见到达机场"
 
 #: airline-statistics-arrival-airport-country.php:98
 #: airline-statistics-arrival-airport-country.php:100
@@ -3523,7 +3523,7 @@ msgstr ""
 
 #: statistics-manufacturer.php:6 statistics-manufacturer.php:23
 msgid "Most common Aircraft Manufacturer"
-msgstr ""
+msgstr "最常见航空器制造商"
 
 #: statistics-manufacturer.php:25
 msgid ""
@@ -3532,59 +3532,59 @@ msgstr ""
 
 #: tools-metar.php:8 tools-metar.php:16
 msgid "Parse METAR messages"
-msgstr ""
+msgstr "解析 METAR 消息"
 
 #: tools-metar.php:20
 msgid "Parse METAR messages and translate them in human readable format."
-msgstr ""
+msgstr "解析 METAR 消息并将其翻译成人类可读的格式。"
 
 #: tools-metar.php:24
 msgid "METAR Message"
-msgstr ""
+msgstr "METAR 消息"
 
 #: tools-metar.php:36
 msgid "METAR message in human readable format:"
-msgstr ""
+msgstr "以人类可读格式显示的 METAR 消息："
 
 #: tools-metar.php:38
 msgid "Location:"
-msgstr ""
+msgstr "位置："
 
 #: tools-metar.php:42 airport-detailed.php:158 airport-data.php:82
 msgid "Wind:"
-msgstr ""
+msgstr "风："
 
 #: tools-metar.php:54 airport-detailed.php:170 airport-data.php:94
 msgid "Visibility:"
-msgstr ""
+msgstr "能见度："
 
 #: tools-metar.php:57 airport-detailed.php:173 airport-data.php:97
 msgid "Weather:"
-msgstr ""
+msgstr "天气："
 
 #: tools-metar.php:60
 msgid "Cloud:"
-msgstr ""
+msgstr "云："
 
 #: tools-metar.php:68 airport-detailed.php:176 airport-data.php:100
 msgid "Temperature:"
-msgstr ""
+msgstr "温度："
 
 #: tools-metar.php:71 airport-detailed.php:179 airport-data.php:103
 msgid "Dew point:"
-msgstr ""
+msgstr "露点："
 
 #: tools-metar.php:75 airport-detailed.php:183 airport-data.php:107
 msgid "Humidity:"
-msgstr ""
+msgstr "湿度："
 
 #: tools-metar.php:78 airport-detailed.php:186 airport-data.php:110
 msgid "Pressure:"
-msgstr ""
+msgstr "气压："
 
 #: tools-metar.php:81
 msgid "This METAR message can't be translated in human readable format :("
-msgstr ""
+msgstr "此 METAR 不能翻译为人类可读的格式 :("
 
 #: route-statistics-airline-country.php:18
 #, php-format
@@ -3608,19 +3608,19 @@ msgstr ""
 
 #: race-detailed.php:119
 msgid "race ID"
-msgstr ""
+msgstr "比赛 ID"
 
 #: race-detailed.php:130 captain-detailed.php:129
 msgid "Boat type"
-msgstr ""
+msgstr "船只型号"
 
 #: race-detailed.php:140
 msgid "Creator"
-msgstr ""
+msgstr "创作者"
 
 #: race-detailed.php:146
 msgid "Start date"
-msgstr ""
+msgstr "开始日期"
 
 #: race-detailed.php:155
 #, php-format
@@ -3631,7 +3631,7 @@ msgstr ""
 
 #: race-detailed.php:173
 msgid "Sorry, this race is not in the database. :("
-msgstr ""
+msgstr "对不起，数据库中没有此比赛。:("
 
 #: highlights-display.php:40
 msgid ""
@@ -3642,7 +3642,7 @@ msgstr ""
 
 #: news.php:43
 msgid "This page show latest news."
-msgstr ""
+msgstr "此页显示最近的新闻。"
 
 #: ident-statistics-registration.php:27
 #, php-format
@@ -3653,12 +3653,12 @@ msgstr ""
 
 #: incident-latest.php:36
 msgid "The table below shows the latest Incidents."
-msgstr ""
+msgstr "下表展示最近的事件。"
 
 #: aircraft-statistics-airline-country.php:18
 #, php-format
 msgid "Most Common Airlines by Country from %s (%s)"
-msgstr ""
+msgstr "来自 %s (%s) 的最常见航空公司"
 
 #: aircraft-statistics-airline-country.php:57
 #, php-format
@@ -3670,7 +3670,7 @@ msgstr ""
 #: registration-statistics-route.php:14
 #, php-format
 msgid "Most Common Routes from aircraft with registration %s"
-msgstr ""
+msgstr "注册号是 %s 航空器的最常飞航路"
 
 #: registration-statistics-route.php:27
 #, php-format
@@ -3690,7 +3690,7 @@ msgstr ""
 #: aircraft-statistics-airline.php:18
 #, php-format
 msgid "Most Common Airlines from %s (%s)"
-msgstr ""
+msgstr "来自 %s (%s) 的最常见航空公司"
 
 #: aircraft-statistics-airline.php:56
 #, php-format
@@ -3739,51 +3739,51 @@ msgstr ""
 
 #: location-data.php:22
 msgid "Lightning"
-msgstr ""
+msgstr "闪电"
 
 #: location-data.php:23
 msgid "Weather Station"
-msgstr ""
+msgstr "气象站"
 
 #: location-data.php:24
 msgid "Fire"
-msgstr ""
+msgstr "火灾"
 
 #: location-data.php:39
 msgid "Last Seen"
-msgstr ""
+msgstr "最后上线"
 
 #: location-data.php:56
 msgid "Temperature"
-msgstr ""
+msgstr "温度"
 
 #: location-data.php:57
 msgid "Pressure"
-msgstr ""
+msgstr "气压"
 
 #: location-data.php:58
 msgid "Wind Gust"
-msgstr ""
+msgstr "阵风"
 
 #: location-data.php:59
 msgid "Humidity"
-msgstr ""
+msgstr "湿度"
 
 #: location-data.php:60
 msgid "Rain"
-msgstr ""
+msgstr "降雨"
 
 #: location-data.php:61
 msgid "Precipitation 24H"
-msgstr ""
+msgstr "24 小时降水"
 
 #: location-data.php:62
 msgid "Precipitation Today"
-msgstr ""
+msgstr "今日降水"
 
 #: location-data.php:70 atc-data.php:51
 msgid "Info"
-msgstr ""
+msgstr "信息"
 
 #: owner-statistics-time.php:38
 #, php-format
@@ -3801,11 +3801,11 @@ msgstr ""
 
 #: captain-detailed.php:118
 msgid "Captain ID"
-msgstr ""
+msgstr "船长 ID"
 
 #: captain-detailed.php:137
 msgid "Total races spotted duration"
-msgstr ""
+msgstr "选定范围内的所有比赛"
 
 #: captain-detailed.php:142
 #, php-format
@@ -3816,7 +3816,7 @@ msgstr ""
 
 #: captain-detailed.php:160
 msgid "Sorry, this captain is not in the database. :("
-msgstr ""
+msgstr "对不起，数据库中没有此船长。:("
 
 #: country-statistics-time.php:54
 #, php-format
@@ -3828,7 +3828,7 @@ msgstr ""
 #: airport-statistics-departure-airport-country.php:17
 #, php-format
 msgid "Most Common Departure Airports by Country to %s, %s (%s)"
-msgstr ""
+msgstr "按国籍列出前往 %s、%s (%s) 的最常见出发机场"
 
 #: airport-statistics-departure-airport-country.php:61
 #, php-format
@@ -3840,7 +3840,7 @@ msgstr ""
 #: registration-detailed.php:43
 #, php-format
 msgid "Detailed View of aircraft with registration %s"
-msgstr ""
+msgstr "注册号为 %s 航空器的详细视图"
 
 #: registration-detailed.php:54
 #, php-format
@@ -3851,35 +3851,35 @@ msgstr ""
 
 #: atc-data.php:29
 msgid "Frequency"
-msgstr ""
+msgstr "频率"
 
 #: atc-data.php:45
 msgid "Range"
-msgstr ""
+msgstr "范围"
 
 #: table-output.php:99 table-output.php:102 table-output.php:104
 #: table-output.php:207 table-output.php:210 table-output.php:212
 #: table-output.php:336 table-output.php:339 table-output.php:341
 #: table-output.php:487 table-output.php:490 table-output.php:492
 msgid "Coming from"
-msgstr ""
+msgstr "来自"
 
 #: table-output.php:99 table-output.php:102 table-output.php:104
 #: table-output.php:207 table-output.php:210 table-output.php:212
 #: table-output.php:336 table-output.php:339 table-output.php:341
 #: table-output.php:487 table-output.php:490 table-output.php:492
 msgid "From"
-msgstr ""
+msgstr "来自"
 
 #: table-output.php:118 table-output.php:355 table-output.php:506
 msgid "Status"
-msgstr ""
+msgstr "状态"
 
 #: table-output.php:122 table-output.php:125 table-output.php:127
 #: table-output.php:359 table-output.php:362 table-output.php:364
 #: table-output.php:510 table-output.php:513 table-output.php:515
 msgid "Going to"
-msgstr ""
+msgstr "正前往"
 
 #: table-output.php:122 table-output.php:125 table-output.php:127
 #: table-output.php:216 table-output.php:219 table-output.php:221
@@ -3887,15 +3887,15 @@ msgstr ""
 #: table-output.php:364 table-output.php:510 table-output.php:513
 #: table-output.php:515
 msgid "To"
-msgstr ""
+msgstr "前往"
 
 #: table-output.php:133
 msgid "Route stop"
-msgstr ""
+msgstr "航路终点"
 
 #: table-output.php:133
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 #: table-output.php:138 table-output.php:141 table-output.php:143
 #: table-output.php:156 table-output.php:159 table-output.php:161
@@ -3903,47 +3903,47 @@ msgstr ""
 #: table-output.php:534 table-output.php:537 table-output.php:539
 #: search.php:578 marine-data.php:155
 msgid "Distance"
-msgstr ""
+msgstr "距离"
 
 #: table-output.php:147 table-output.php:370 table-output.php:521
 #: search.php:419 search.php:421
 msgid "Pilot name"
-msgstr ""
+msgstr "飞行员名字"
 
 #: table-output.php:150 table-output.php:373 table-output.php:524
 #: search.php:428 search.php:430
 msgid "Owner name"
-msgstr ""
+msgstr "所有者名字"
 
 #: table-output.php:163 table-output.php:389 table-output.php:542
 #: search.php:619 search.php:621
 msgid "Captain name"
-msgstr ""
+msgstr "机长名字"
 
 #: table-output.php:164 table-output.php:395 table-output.php:548
 msgid "Race duration"
-msgstr ""
+msgstr "比赛时长"
 
 #: table-output.php:216 table-output.php:219 table-output.php:221
 msgid "Flying to"
-msgstr ""
+msgstr "正飞往"
 
 #: table-output.php:240 table-output.php:253 table-output.php:266
 msgid "Message"
-msgstr ""
+msgstr "消息"
 
 #: table-output.php:397 table-output.php:550
 msgid "Spotted duration"
-msgstr ""
+msgstr "选定的时长"
 
 #: table-output.php:397 table-output.php:550
 msgid "Duration"
-msgstr ""
+msgstr "用时"
 
 #: table-output.php:413 table-output.php:416 table-output.php:418
 #: table-output.php:566 table-output.php:569 table-output.php:571
 msgid "Date last seen"
-msgstr ""
+msgstr "最后上线日期"
 
 #: table-output.php:627 table-output.php:636 table-output.php:642
 #: table-output.php:740 table-output.php:744 table-output.php:753
@@ -3956,73 +3956,73 @@ msgstr ""
 #: table-output.php:1105 table-output.php:1115 table-output.php:1116
 #: table-output.php:1326
 msgid "Not available"
-msgstr ""
+msgstr "不可用"
 
 #: table-output.php:660 table-output.php:668 table-output.php:793
 #: table-output.php:803 search.php:247
 msgid "MMSI:"
-msgstr ""
+msgstr "MMSI："
 
 #: table-output.php:864 table-output.php:869
 msgid "Click to see airline information"
-msgstr ""
+msgstr "点击以查看航空公司信息"
 
 #: table-output.php:877 table-output.php:1047 table-output.php:1048
 #: table-output.php:1316 table-output.php:1340
 msgid "Not Available"
-msgstr ""
+msgstr "不可用"
 
 #: table-output.php:1037 table-output.php:1041
 msgid "Real:"
-msgstr ""
+msgstr "真实："
 
 #: table-output.php:1039
 msgid "Scheduled:"
-msgstr ""
+msgstr "计划："
 
 #: table-output.php:1449
 msgid "Detailed Flight Information"
-msgstr ""
+msgstr "详细的飞行信息"
 
 #: table-output.php:1450 flightid-sub-menu.php:13
 msgid "Download Flight Data"
-msgstr ""
+msgstr "下载飞行数据"
 
 #: table-output.php:1455 table-output.php:1459
 msgid "Aircraft History"
-msgstr ""
+msgstr "航空器历史"
 
 #: table-output.php:1463
 msgid "Manufacturer Profile"
-msgstr ""
+msgstr "制造商档案"
 
 #: table-output.php:1467
 msgid "Flights of Aircraft Type &amp; Airline"
-msgstr ""
+msgstr "航空器型号 &amp; 航空公司的航班"
 
 #: table-output.php:1476
 msgid "Airline Country Profile"
-msgstr ""
+msgstr "航空公司国籍档案"
 
 #: table-output.php:1481
 msgid "Departure Airport Country Profile"
-msgstr ""
+msgstr "出发机场国籍档案"
 
 #: table-output.php:1485
 msgid "Arrival Airport Country Profile"
-msgstr ""
+msgstr "到达机场国籍档案"
 
 #: table-output.php:1490
 msgid "Detailed information"
-msgstr ""
+msgstr "详细信息"
 
 #: statistics-year.php:17 statistics-month.php:6
 msgid "Busiest Month of Last Year"
-msgstr ""
+msgstr "过去一年中最忙碌的月"
 
 #: statistics-year.php:32
 msgid "Busiest Month"
-msgstr ""
+msgstr "最忙的月"
 
 #: statistics-year.php:34
 msgid ""
@@ -4041,7 +4041,7 @@ msgstr ""
 #, php-format
 msgid ""
 "Most Common Arrival Airports by Country of aircraft with registration %s"
-msgstr ""
+msgstr "按航空器注册号 %s 国籍列出最常见到达机场"
 
 #: registration-statistics-arrival-airport-country.php:27
 #, php-format
@@ -4052,12 +4052,12 @@ msgstr ""
 
 #: route-sub-menu.php:27
 msgid "Upcoming Schedule"
-msgstr ""
+msgstr "即将计划"
 
 #: country-detailed.php:51
 #, php-format
 msgid "Detailed View for Airports &amp; Airlines from %s"
-msgstr ""
+msgstr "来自 %s 机场 &amp; 航空公司的详细视图"
 
 #: country-detailed.php:84
 #, php-format
@@ -4089,7 +4089,7 @@ msgstr ""
 #: aircraft-statistics-departure-airport-country.php:17
 #, php-format
 msgid "Most Common Departure Airports by Country for %s (%s)"
-msgstr ""
+msgstr "按国籍列出 %s (%s) 最常见出发机场"
 
 #: aircraft-statistics-departure-airport-country.php:55
 #, php-format
@@ -4100,27 +4100,27 @@ msgstr ""
 
 #: tools-acars.php:6 tools-acars.php:14
 msgid "Parse ACARS messages"
-msgstr ""
+msgstr "解析 ACARS 消息"
 
 #: tools-acars.php:18
 msgid "Parse ACARS messages and translate them in human readable format."
-msgstr ""
+msgstr "解析 ACARS 消息并将其翻译为人类可读格式。"
 
 #: tools-acars.php:22
 msgid "ACARS Message"
-msgstr ""
+msgstr "ACARS 消息"
 
 #: tools-acars.php:33
 msgid "ACARS message in human readable format:"
-msgstr ""
+msgstr "以人类可读格式显示 ACARS 消息："
 
 #: tools-acars.php:38
 msgid "This ACARS message can't be translated in human readable format :("
-msgstr ""
+msgstr "此 ACARS 消息不能翻译为人类可读格式 :("
 
 #: statistics-aircraft.php:6 statistics-aircraft.php:22
 msgid "Most common Aircraft"
-msgstr ""
+msgstr "最常见航空器"
 
 #: statistics-aircraft.php:24
 msgid "Below are the <strong>Top 10</strong> most common aircraft types."
@@ -4129,7 +4129,7 @@ msgstr ""
 #: statistics-airport-arrival-country.php:6
 #: statistics-airport-arrival-country.php:22
 msgid "Most common Arrival Airport by Country"
-msgstr ""
+msgstr "按国籍列出最常见到达机场"
 
 #: statistics-airport-arrival-country.php:24
 msgid ""
@@ -4139,20 +4139,20 @@ msgstr ""
 
 #: airspace-data.php:42
 msgid "Class"
-msgstr ""
+msgstr "类别"
 
 #: airspace-data.php:49
 msgid "Tops"
-msgstr ""
+msgstr "顶高"
 
 #: airspace-data.php:55
 msgid "Base"
-msgstr ""
+msgstr "底高"
 
 #: date-statistics-departure-airport.php:13
 #, php-format
 msgid "Most Common Departure Airports on %s"
-msgstr ""
+msgstr "%s 上最常见出发机场"
 
 #: date-statistics-departure-airport.php:37
 #, php-format
@@ -4164,7 +4164,7 @@ msgstr ""
 #: airport-statistics-aircraft.php:18
 #, php-format
 msgid "Most Common Aircraft to/from %s, %s (%s)"
-msgstr ""
+msgstr "来往 %s、%s (%s) 的最常见航空器"
 
 #: airport-statistics-aircraft.php:62
 #, php-format
@@ -4175,15 +4175,15 @@ msgstr ""
 
 #: accident-latest.php:31
 msgid "Latest Accidents"
-msgstr ""
+msgstr "最新事故"
 
 #: accident-latest.php:35
 msgid "The table below shows the latest Accidents."
-msgstr ""
+msgstr "下表是最近的事故"
 
 #: statistics-registration.php:6 statistics-registration.php:23
 msgid "Most common Aircraft Registrations"
-msgstr ""
+msgstr "最常见航空器注册号"
 
 #: statistics-registration.php:25
 msgid ""
@@ -4193,7 +4193,7 @@ msgstr ""
 #: date-statistics-airline-country.php:15 archive-country.php:16
 #, php-format
 msgid "Most Common Airlines by Country on %s"
-msgstr ""
+msgstr "在 %s 最常见的航空公司"
 
 #: date-statistics-airline-country.php:38 archive-country.php:33
 #, php-format
@@ -4205,7 +4205,7 @@ msgstr ""
 #: airport-statistics-arrival-airport.php:17
 #, php-format
 msgid "Most Common Arrival Airports from %s, %s (%s)"
-msgstr ""
+msgstr "来自 %s、%s (%s) 的最常见到达机场"
 
 #: airport-statistics-arrival-airport.php:61
 #, php-format
@@ -4216,7 +4216,7 @@ msgstr ""
 
 #: statistics-route-waypoint.php:6 statistics-route-waypoint.php:12
 msgid "Most common Route by Waypoint"
-msgstr ""
+msgstr "按航路点的最常见航路"
 
 #: statistics-route-waypoint.php:14
 msgid ""
@@ -4227,7 +4227,7 @@ msgstr ""
 
 #: statistics-route-waypoint.php:42
 msgid "Recent Flight on this route"
-msgstr ""
+msgstr "此航路的最近航班"
 
 #: date-statistics-registration.php:36
 #, php-format
@@ -4240,7 +4240,7 @@ msgstr ""
 #: airline-statistics-departure-airport-country.php:22
 #, php-format
 msgid "Most Common Departure Airports by Country from %s"
-msgstr ""
+msgstr "按国籍列出从 %s 最常见出发机场"
 
 #: country-statistics-departure-airport-country.php:54
 #, php-format
@@ -4252,7 +4252,7 @@ msgstr ""
 #: country-statistics-airline-country.php:21
 #, php-format
 msgid "Most Common Airlines by Country of %s"
-msgstr ""
+msgstr "按 %s 的国籍列出最常见航空公司"
 
 #: country-statistics-airline-country.php:54
 #, php-format
@@ -4265,7 +4265,7 @@ msgstr ""
 #, php-format
 msgid ""
 "Most Common Departure Airports by Country of aircraft with registration %s"
-msgstr ""
+msgstr "按国家列出航空器注册号是 %s 的最常见出发机场"
 
 #: registration-statistics-departure-airport-country.php:27
 #, php-format
@@ -4277,7 +4277,7 @@ msgstr ""
 #: airline-statistics-departure-airport-country.php:24
 #, php-format
 msgid "Most Common Departure Airports by Country from %s (%s)"
-msgstr ""
+msgstr "按国家列出来自 %s (%s) 最常见出发机场"
 
 #: statistics-fatalities-month.php:17
 msgid ""
@@ -4286,31 +4286,31 @@ msgstr ""
 
 #: statistics-fatalities-month.php:50
 msgid "Month"
-msgstr ""
+msgstr "月份"
 
 #: flightid-sub-menu.php:2
 msgid "Additional Data"
-msgstr ""
+msgstr "附加日期"
 
 #: flightid-sub-menu.php:8
 msgid "Flight Status"
-msgstr ""
+msgstr "飞行状态"
 
 #: flightid-sub-menu.php:9
 msgid "Flight Log"
-msgstr ""
+msgstr "飞行记录"
 
 #: flightid-sub-menu.php:19
 msgid "For Advanced Users"
-msgstr ""
+msgstr "高级用户"
 
 #: flightid-sub-menu.php:25
 msgid "For Geo/Map Users"
-msgstr ""
+msgstr "Geo/Map 用户"
 
 #: statistics-airport-arrival.php:6 statistics-airport-arrival.php:23
 msgid "Most common Arrival Airport"
-msgstr ""
+msgstr "最常见到达机场"
 
 #: statistics-airport-arrival.php:25
 msgid "Below are the <strong>Top 10</strong> most common arrival airports."
@@ -4319,15 +4319,15 @@ msgstr ""
 #: airport-detailed.php:53
 #, php-format
 msgid "Detailed View for %s, %s (%s)"
-msgstr ""
+msgstr "%s、%s (%s) 的详细视图"
 
 #: airport-detailed.php:97 airport-data.php:70
 msgid "Live Air Traffic"
-msgstr ""
+msgstr "实时空中交通"
 
 #: airport-detailed.php:100
 msgid "Diagram"
-msgstr ""
+msgstr "对话"
 
 #: airport-detailed.php:199
 #, php-format
@@ -4338,7 +4338,7 @@ msgstr ""
 
 #: airport-detailed.php:215
 msgid "Sorry, no flights used the airport in this database."
-msgstr ""
+msgstr "对不起，此数据库中没有航班使用此机场。"
 
 #: statistics-airport-departure-country.php:6
 #: statistics-airport-departure-country.php:23
