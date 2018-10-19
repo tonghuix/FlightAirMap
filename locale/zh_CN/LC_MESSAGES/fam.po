@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-25 21:15+0800\n"
-"PO-Revision-Date: 2018-10-18 17:24+0800\n"
+"PO-Revision-Date: 2018-10-18 17:34+0800\n"
 "Last-Translator: Tong Hui <tonghuix@gmail.com>\n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -1999,7 +1999,7 @@ msgstr "船长"
 #: js/map-marine.2d.js.php:617 js/map-marine.2d.js.php:619 tools-geoid.php:36
 #: search.php:566
 msgid "Latitude"
-msgstr "纬度："
+msgstr "纬度"
 
 #: js/map-marine.3d.js.php:138 js/map-marine.3d.js.php:145
 #: js/map-marine.2d.js.php:617 js/map-marine.2d.js.php:619 tools-geoid.php:42
