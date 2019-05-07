@@ -2171,7 +2171,7 @@ class Spotter{
     
 		$row = $sth->fetch(PDO::FETCH_ASSOC);
 		$sth->closeCursor();
-		if (count($row) > 0) {
+		if (isset($row['usage'])) {
 			return $row['usage'];
 		} else return '';
 	}
@@ -2687,7 +2687,7 @@ class Spotter{
 
 		$row = $sth->fetch(PDO::FETCH_ASSOC);
 		$sth->closeCursor();
-		if (count($row) > 0) {
+		if (is_array($row)) {
 			return $row;
 		} else return array();
 	}
@@ -11912,7 +11912,7 @@ class Spotter{
     
 		$row = $sth->fetch(PDO::FETCH_ASSOC);
 		$sth->closeCursor();
-		if (count($row) > 0) {
+		if (is_array($row) && count($row) > 0) {
 		    //return $row['Registration'];
 		    return $row['registration'];
 		} elseif ($source_type == 'flarm') {
@@ -11943,7 +11943,7 @@ class Spotter{
     
 		$row = $sth->fetch(PDO::FETCH_ASSOC);
 		$sth->closeCursor();
-		if (count($row) > 0) {
+		if (is_array($row) && count($row) > 0) {
 			if ($row['type_flight'] == null) return '';
 			else return $row['type_flight'];
 		} elseif ($source_type == 'flarm') {
