@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-25 21:15+0800\n"
-"PO-Revision-Date: 2018-09-26 17:33+0800\n"
+"PO-Revision-Date: 2018-10-18 17:34+0800\n"
 "Last-Translator: Tong Hui <tonghuix@gmail.com>\n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -1827,7 +1827,7 @@ msgid ""
 msgstr ""
 
 #: aircraft-statistics-departure-airport.php:17
-#, php-format, fuzzy
+#, php-format
 msgid "Most Common Departure Airports for %s (%s)"
 msgstr "%s (%s) 的最常见出发机场"
 
@@ -1999,7 +1999,7 @@ msgstr "船长"
 #: js/map-marine.2d.js.php:617 js/map-marine.2d.js.php:619 tools-geoid.php:36
 #: search.php:566
 msgid "Latitude"
-msgstr "纬度："
+msgstr "纬度"
 
 #: js/map-marine.3d.js.php:138 js/map-marine.3d.js.php:145
 #: js/map-marine.2d.js.php:617 js/map-marine.2d.js.php:619 tools-geoid.php:42
@@ -2432,7 +2432,7 @@ msgstr "显示 APRS 数据"
 
 #: index.php:696
 msgid "Only display FAA ASDI blocked aircrafts"
-msgstr "只显示 FAA ASDI 屏蔽的航空器"
+msgstr "只显示 FAA ASDI 禁飞的航空器"
 
 #: index.php:700
 msgid "Display airlines:"
@@ -3083,7 +3083,7 @@ msgstr ""
 
 #: ident-detailed.php:208 aircraft-data.php:80
 msgid "Callsign is in blocked FAA list"
-msgstr "FAA 列表已屏蔽此呼号"
+msgstr "FAA 列表已禁用此呼号"
 
 #: ident-detailed.php:212
 msgid "Flight History"
@@ -3375,35 +3375,35 @@ msgid ""
 "The table below shows the detailed information sorted by the newest recorded "
 "aircraft type. Each aircraft type is grouped and is shown only once, the "
 "first time it flew nearby."
-msgstr ""
+msgstr "此表按最近的记录显示了航空器类型的详细信息。每一个航空器类型按组别只出现一次，最近的一次飞行会第一次出现。"
 
 #: newest.php:114
 msgid ""
 "The table below shows the detailed information sorted by the newest recorded "
 "aircraft by registration. Each aircraft registration is grouped and is shown "
 "only once, the first time it flew nearby."
-msgstr ""
+msgstr "此表按最近的记录显示了航空器注册号的详细信息。每一个航空器注册号按组别只出现一次，最近的一次飞行会第一次出现。"
 
 #: newest.php:117
 msgid ""
 "The table below shows the detailed information sorted by the newest recorded "
 "airline. Each airline is grouped and is shown only once, the first time it "
 "flew nearby."
-msgstr ""
+msgstr "此表按最近的记录显示了航空公司的详细信息。每一个航空公司类型按组别只出现一次，最近的一次飞行会第一次出现。"
 
 #: newest.php:120
 msgid ""
 "The table below shows the detailed information sorted by the newest recorded "
 "departure airport. Each departure airport is grouped and is shown only once, "
 "the first time an aircraft flew nearby from the airport."
-msgstr ""
+msgstr "此表按最近的记录显示了出发机场的详细信息。每一个出发机场按组别只出现一次，最近的一次飞行会第一次出现。"
 
 #: newest.php:123
 msgid ""
 "The table below shows the detailed information sorted by the newest recorded "
 "arrival airport. Each arrival airport is grouped and is shown only once, the "
 "first time an aircraft flew nearby to the airport."
-msgstr ""
+msgstr "此表按最近的记录显示了到达机场的详细信息。每一个到达机场按组别只出现一次，最近的一次飞行会第一次出现。"
 
 #: aircraft-statistics-arrival-airport-country.php:18
 #, php-format
@@ -3452,7 +3452,7 @@ msgstr ""
 #: route-statistics-aircraft.php:18
 #, php-format
 msgid "Most Common Aircraft between %s (%s), %s - %s (%s), %s"
-msgstr ""
+msgstr "从 %s (%s), %s 到 %s (%s), %s 之间最常见的航空器"
 
 #: route-statistics-aircraft.php:29
 #, php-format
@@ -4343,7 +4343,7 @@ msgstr "对不起，此数据库中没有航班使用此机场。"
 #: statistics-airport-departure-country.php:6
 #: statistics-airport-departure-country.php:23
 msgid "Most common Departure Airport by Country"
-msgstr ""
+msgstr "按国籍的最常见出发机场"
 
 #: statistics-airport-departure-country.php:25
 msgid ""
@@ -4353,7 +4353,7 @@ msgstr ""
 
 #: tv.php:54 tv.php:58
 msgid "Click to see more information about this flight"
-msgstr ""
+msgstr "点击可查看关于此飞行的更多信息"
 
 #: country-statistics-arrival-airport.php:51
 #, php-format
@@ -4364,238 +4364,238 @@ msgstr ""
 
 #: search.php:175
 msgid "Download Search Results"
-msgstr ""
+msgstr "下载搜索结果"
 
 #: search.php:193
 msgid "Download Info/Licence"
-msgstr ""
+msgstr "下载信息/许可证"
 
 #: search.php:201 search.php:203
 msgid "Table"
-msgstr ""
+msgstr "表格"
 
 #: search.php:206 search.php:208
 msgid "3D Map"
-msgstr ""
+msgstr "三维地图"
 
 #: search.php:225
 msgid "Search Results for"
-msgstr ""
+msgstr "搜索结果有关于"
 
 #: search.php:226
 msgid "Keyword:"
-msgstr ""
+msgstr "关键词："
 
 #: search.php:228
 msgid "Manufacturer:"
-msgstr ""
+msgstr "制造商："
 
 #: search.php:230
 msgid "Highlights:"
-msgstr ""
+msgstr "特别关注："
 
 #: search.php:232
 msgid "Airline country:"
-msgstr ""
+msgstr "航空公司国籍："
 
 #: search.php:233
 msgid "Airline type:"
-msgstr ""
+msgstr "航空公司类型："
 
 #: search.php:234
 msgid "Airport:"
-msgstr ""
+msgstr "机场："
 
 #: search.php:235
 msgid "Airport country:"
-msgstr ""
+msgstr "机场国籍："
 
 #: search.php:236
 msgid "Callsign:"
-msgstr ""
+msgstr "呼号："
 
 #: search.php:237
 msgid "Owner:"
-msgstr ""
+msgstr "所有者："
 
 #: search.php:238
 msgid "Pilot id:"
-msgstr ""
+msgstr "飞行员 ID："
 
 #: search.php:239
 msgid "Pilot name:"
-msgstr ""
+msgstr "飞行员姓名："
 
 #: search.php:240
 msgid "Captain id:"
-msgstr ""
+msgstr "船长 ID："
 
 #: search.php:241
 msgid "Captain name:"
-msgstr ""
+msgstr "船长姓名："
 
 #: search.php:242
 msgid "Race id:"
-msgstr ""
+msgstr "比赛 ID："
 
 #: search.php:243
 msgid "Race name:"
-msgstr ""
+msgstr "比赛名称："
 
 #: search.php:244
 msgid "Route out of:"
-msgstr ""
+msgstr "航路从："
 
 #: search.php:245
 msgid "Route into:"
-msgstr ""
+msgstr "航路到："
 
 #: search.php:246
 msgid "Route between:"
-msgstr ""
+msgstr "航路介于："
 
 #: search.php:248
 msgid "IMO:"
-msgstr ""
+msgstr "IMO："
 
 #: search.php:249
 msgid "Date starting at:"
-msgstr ""
+msgstr "日期起始于："
 
 #: search.php:250
 msgid "Date ending at:"
-msgstr ""
+msgstr "日期终止于："
 
 #: search.php:251
 msgid "Date between:"
-msgstr ""
+msgstr "日期介于："
 
 #: search.php:252
 msgid "Altitude starting at:"
-msgstr ""
+msgstr "高度起始于："
 
 #: search.php:253
 msgid "Altitude ending at:"
-msgstr ""
+msgstr "高度终止于："
 
 #: search.php:254
 msgid "Altitude between:"
-msgstr ""
+msgstr "高度介于："
 
 #: search.php:254
 msgid "and"
-msgstr ""
+msgstr "和"
 
 #: search.php:255
 msgid "limit per page:"
-msgstr ""
+msgstr "每页限定："
 
 #: search.php:343
 msgid "Sorry, your search did not produce any results. :("
-msgstr ""
+msgstr "对不起，您的搜索没有任何结果。:("
 
 #: search.php:372 search.php:374
 msgid "Keywords"
-msgstr ""
+msgstr "关键词"
 
 #: search.php:413 search.php:415
 msgid "Pilot id"
-msgstr ""
+msgstr "飞行员 ID"
 
 #: search.php:438 search.php:439
 msgid ""
 "Include only aircraft with special highlights (unique liveries, destinations "
 "etc.)"
-msgstr ""
+msgstr "只包括特别关注的航空器（例如特别的涂装、终点站）"
 
 #: search.php:471
 msgid "All airlines types"
-msgstr ""
+msgstr "所有航空公司类型"
 
 #: search.php:472
 msgid "Only Passenger airlines"
-msgstr ""
+msgstr "只包括客运航空公司"
 
 #: search.php:473
 msgid "Only Cargo airlines"
-msgstr ""
+msgstr "只包括货运航空公司"
 
 #: search.php:474
 msgid "Only Military airlines"
-msgstr ""
+msgstr "只包括军用航空公司"
 
 #: search.php:523
 msgid "Lowest Altitude"
-msgstr ""
+msgstr "最低高度"
 
 #: search.php:543
 msgid "Highest Altitude"
-msgstr ""
+msgstr "最高高度"
 
 #: search.php:564
 msgid "Flights near"
-msgstr ""
+msgstr "邻近飞行"
 
 #: search.php:568
 msgid "Center point latitude"
-msgstr ""
+msgstr "中心点纬度"
 
 #: search.php:574
 msgid "Center point longitude"
-msgstr ""
+msgstr "中心点经度"
 
 #: search.php:580
 msgid "Distance from center point"
-msgstr ""
+msgstr "距中心点的距离"
 
 #: search.php:611 search.php:613
 msgid "Captain id"
-msgstr ""
+msgstr "机长 ID"
 
 #: search.php:627 search.php:629
 msgid "Race id"
-msgstr ""
+msgstr "比赛 ID"
 
 #: search.php:635 search.php:637
 msgid "Race name"
-msgstr ""
+msgstr "比赛名称"
 
 #: search.php:646 search.php:648 marine-data.php:123
 msgid "MMSI"
-msgstr ""
+msgstr "MMSI"
 
 #: search.php:654 search.php:656
 msgid "IMO"
-msgstr ""
+msgstr "IMO"
 
 #: search.php:667
 msgid "Start Date"
-msgstr ""
+msgstr "起始日期"
 
 #: search.php:670
 msgid "Start Date/Time"
-msgstr ""
+msgstr "起始日期时间"
 
 #: search.php:678
 msgid "End Date"
-msgstr ""
+msgstr "终止日期"
 
 #: search.php:681
 msgid "End Date/Time"
-msgstr ""
+msgstr "终止日期时间"
 
 #: search.php:707
 msgid "Limit per Page"
-msgstr ""
+msgstr "每页限定"
 
 #: search.php:709
 msgid "Number of Results"
-msgstr ""
+msgstr "结果数"
 
 #: search.php:735 search.php:746
 #, php-format
 msgid "Search in archive (older than %s months)"
-msgstr ""
+msgstr "在存档中搜索（超过 %s 月之前）"
 
 #: manufacturer-detailed.php:75 airline-detailed.php:156
 #, php-format
@@ -4618,7 +4618,7 @@ msgstr ""
 
 #: footer.php:11
 msgid "Page generated in"
-msgstr ""
+msgstr "页面生成于"
 
 #: pilot-statistics-manufacturer.php:32
 #, php-format
@@ -4630,7 +4630,7 @@ msgstr ""
 #: date-statistics-arrival-airport-country.php:12
 #, php-format
 msgid "Most Common Arrival Airports by Country on %s"
-msgstr ""
+msgstr "按国籍列出 %s 的最常见到达机场"
 
 #: date-statistics-arrival-airport-country.php:35
 #, php-format
@@ -4648,7 +4648,7 @@ msgstr ""
 
 #: statistics-callsign.php:6 statistics-callsign.php:21
 msgid "Most common Callsign"
-msgstr ""
+msgstr "最常见呼号"
 
 #: statistics-callsign.php:23
 msgid ""
@@ -4683,15 +4683,15 @@ msgstr ""
 #: airline-statistics-aircraft.php:25
 #, php-format
 msgid "Most Common Aircraft from %s (%s)"
-msgstr ""
+msgstr "从 %s (%s) 的最常见航空器"
 
 #: airline-detailed.php:116 airline-detailed.php:135
 msgid "This airline is banned in Europe"
-msgstr ""
+msgstr "此航空公司在欧洲被禁飞"
 
 #: airline-detailed.php:171
 msgid "Sorry, no flights of this airline exist in this database."
-msgstr ""
+msgstr "对不起，数据库中不存此航空公司的任何飞行记录。"
 
 #: pilot-statistics-departure-airport.php:32
 #, php-format
@@ -4702,7 +4702,7 @@ msgstr ""
 
 #: statistics-month.php:31
 msgid "Busiest Day Last Month"
-msgstr ""
+msgstr "上月最繁忙的一天"
 
 #: statistics-month.php:33
 msgid ""
@@ -4712,7 +4712,7 @@ msgstr ""
 
 #: marine-data.php:145
 msgid "Destination"
-msgstr ""
+msgstr "终点"
 
 #: ident-statistics-aircraft.php:31
 #, php-format
@@ -4730,24 +4730,24 @@ msgstr ""
 
 #: aircraft-data.php:185
 msgid "Calculated Speed"
-msgstr ""
+msgstr "修正速度"
 
 #: aircraft-data.php:196
 msgid "Cam Coordinates"
-msgstr ""
+msgstr "凸轮坐标"
 
 #: aircraft-data.php:210
 msgid "Vertical rate"
-msgstr ""
+msgstr "垂直速率"
 
 #: acars-latest.php:36
 msgid "The table below shows the latest ACARS messages."
-msgstr ""
+msgstr "此表列出了最新的 ACARS 消息"
 
 #: date-statistics-arrival-airport.php:12
 #, php-format
 msgid "Most Common Arrival Airports on %s"
-msgstr ""
+msgstr "%s 的最常见到达机场"
 
 #: date-statistics-arrival-airport.php:36
 #, php-format
@@ -4758,19 +4758,19 @@ msgstr ""
 
 #: airline.php:28
 msgid "Alliances"
-msgstr ""
+msgstr "联盟"
 
 #: airline.php:35
 msgid "Click to see alliance activity"
-msgstr ""
+msgstr "点此查看联盟的活动"
 
 #: airline.php:100 airline.php:104
 msgid "Click to see airline activity"
-msgstr ""
+msgstr "点此查看航空公司活动"
 
 #: airline.php:105 airline.php:108
 msgid "Banned in Europe"
-msgstr ""
+msgstr "已被欧洲禁飞"
 
 #: country-statistics-departure-airport.php:53
 #, php-format
@@ -4782,7 +4782,7 @@ msgstr ""
 #: manufacturer-statistics-airline-country.php:17
 #, php-format
 msgid "Most Common Airlines by Country from %s"
-msgstr ""
+msgstr "按国籍列出从 %s 最常见航空公司"
 
 #: manufacturer-statistics-airline-country.php:47
 #, php-format
@@ -4812,11 +4812,11 @@ msgstr ""
 
 #: statistics-type.php:6
 msgid "Most common Vessel Type"
-msgstr ""
+msgstr "最常见船只类型"
 
 #: statistics-type.php:19
 msgid "Most common vessel Type"
-msgstr ""
+msgstr "最常见船只类型"
 
 #: statistics-type.php:21
 msgid "Below are the <strong>Top 10</strong> most common vessel types."
